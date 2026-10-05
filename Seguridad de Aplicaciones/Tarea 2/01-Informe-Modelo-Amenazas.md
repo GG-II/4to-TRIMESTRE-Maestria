@@ -2,7 +2,7 @@
 
 **Universidad Mariano Gálvez de Guatemala** · Maestría en Seguridad Informática · Seguridad en Aplicaciones  
 **Tarea 2 (individual)** · Fecha: 5 de octubre de 2026  
-**Autor:** [Nombre y carnet]
+**Autor:** 1293-21-11608 - Gerbert David García Loaiza
 
 > Borrador de trabajo. Está pensado para que lo revises, lo valides contra la herramienta y lo reescribas con tus propias palabras antes de entregarlo.
 
