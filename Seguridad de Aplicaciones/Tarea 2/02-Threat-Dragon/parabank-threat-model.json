@@ -23,12 +23,12 @@
         "cells": [
           {
             "position": {
-              "x": 330,
-              "y": 30
+              "x": 420,
+              "y": 20
             },
             "size": {
-              "width": 340,
-              "height": 420
+              "width": 380,
+              "height": 440
             },
             "attrs": {
               "text": {
@@ -54,11 +54,11 @@
           },
           {
             "position": {
-              "x": 750,
-              "y": 150
+              "x": 960,
+              "y": 160
             },
             "size": {
-              "width": 240,
+              "width": 260,
               "height": 140
             },
             "attrs": {
@@ -89,7 +89,7 @@
               "y": 40
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -124,7 +124,7 @@
               "y": 190
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -159,7 +159,7 @@
               "y": 340
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -190,16 +190,16 @@
           },
           {
             "position": {
-              "x": 410,
+              "x": 520,
               "y": 190
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
               "text": {
-                "text": "ParaBank (aplicación web + servicios SOAP/REST)"
+                "text": "ParaBank"
               },
               "body": {
                 "stroke": "#333333",
@@ -213,7 +213,7 @@
             "zIndex": 1,
             "data": {
               "type": "tm.Process",
-              "name": "ParaBank (aplicación web + servicios SOAP/REST)",
+              "name": "ParaBank",
               "description": "Sistema completo bajo análisis. (Tomcat, Spring, CXF, HyperSQL, ActiveMQ)",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -228,11 +228,11 @@
           },
           {
             "position": {
-              "x": 790,
+              "x": 990,
               "y": 190
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -287,7 +287,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Operaciones bancarias (HTTP)"
+                    "text": "C01 HTTP"
                   }
                 }
               }
@@ -338,7 +338,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Llamadas SOAP/REST (HTTP)"
+                    "text": "C02 HTTP"
                   }
                 }
               }
@@ -389,7 +389,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Administración (HTTP)"
+                    "text": "C03 HTTP"
                   }
                 }
               }
@@ -440,7 +440,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Solicitudes de préstamo (WS/JMS)"
+                    "text": "C04 WS/JMS"
                   }
                 }
               }
@@ -477,11 +477,11 @@
         "cells": [
           {
             "position": {
-              "x": 230,
+              "x": 391,
               "y": 10
             },
             "size": {
-              "width": 640,
+              "width": 1088,
               "height": 520
             },
             "attrs": {
@@ -508,11 +508,11 @@
           },
           {
             "position": {
-              "x": 870,
+              "x": 1479,
               "y": 10
             },
             "size": {
-              "width": 250,
+              "width": 425,
               "height": 520
             },
             "attrs": {
@@ -539,11 +539,11 @@
           },
           {
             "position": {
-              "x": 530,
+              "x": 901,
               "y": 580
             },
             "size": {
-              "width": 260,
+              "width": 442,
               "height": 140
             },
             "attrs": {
@@ -570,11 +570,11 @@
           },
           {
             "position": {
-              "x": 30,
+              "x": 51,
               "y": 40
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -605,11 +605,11 @@
           },
           {
             "position": {
-              "x": 30,
+              "x": 51,
               "y": 200
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -640,11 +640,11 @@
           },
           {
             "position": {
-              "x": 30,
+              "x": 51,
               "y": 360
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -675,11 +675,11 @@
           },
           {
             "position": {
-              "x": 270,
+              "x": 459,
               "y": 40
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -740,11 +740,11 @@
           },
           {
             "position": {
-              "x": 270,
+              "x": 459,
               "y": 200
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -844,11 +844,11 @@
           },
           {
             "position": {
-              "x": 270,
+              "x": 459,
               "y": 360
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -909,11 +909,11 @@
           },
           {
             "position": {
-              "x": 570,
+              "x": 969,
               "y": 200
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -974,11 +974,11 @@
           },
           {
             "position": {
-              "x": 570,
+              "x": 969,
               "y": 380
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -1026,11 +1026,11 @@
           },
           {
             "position": {
-              "x": 900,
+              "x": 1530,
               "y": 40
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 70
             },
             "attrs": {
@@ -1092,11 +1092,11 @@
           },
           {
             "position": {
-              "x": 900,
+              "x": 1530,
               "y": 220
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 70
             },
             "attrs": {
@@ -1145,11 +1145,11 @@
           },
           {
             "position": {
-              "x": 900,
+              "x": 1530,
               "y": 400
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 70
             },
             "attrs": {
@@ -1198,11 +1198,11 @@
           },
           {
             "position": {
-              "x": 570,
+              "x": 969,
               "y": 620
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -1257,7 +1257,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Credenciales y operaciones bancarias"
+                    "text": "F01 HTTP"
                   }
                 }
               }
@@ -1322,7 +1322,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Páginas y cookie de sesión"
+                    "text": "F02 HTTP"
                   }
                 }
               }
@@ -1373,7 +1373,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Peticiones SOAP/REST (login en URL, transferencias)"
+                    "text": "F03 HTTP"
                   }
                 }
               }
@@ -1424,7 +1424,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Invocación interna"
+                    "text": "F04 In-process"
                   }
                 }
               }
@@ -1475,7 +1475,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Invocación interna"
+                    "text": "F05 In-process"
                   }
                 }
               }
@@ -1526,7 +1526,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Consultas y actualizaciones JDBC"
+                    "text": "F06 JDBC/TCP 9001"
                   }
                 }
               }
@@ -1577,7 +1577,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Solicitud de préstamo"
+                    "text": "F07 In-process"
                   }
                 }
               }
@@ -1628,7 +1628,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Mensajes JMS de solicitud y respuesta"
+                    "text": "F08 JMS/TCP 61616"
                   }
                 }
               }
@@ -1679,7 +1679,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Consulta de aprobación al proveedor"
+                    "text": "F09 WS/JMS"
                   }
                 }
               }
@@ -1744,7 +1744,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Parámetros, initializeDB, cleanDB, JMS"
+                    "text": "F10 HTTP"
                   }
                 }
               }
@@ -1795,7 +1795,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Reinicio de datos y parámetros"
+                    "text": "F11 JDBC/TCP 9001"
                   }
                 }
               }
@@ -1846,7 +1846,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Eventos de la aplicación"
+                    "text": "F12 Archivo"
                   }
                 }
               }
@@ -1897,7 +1897,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Arranque/parada del listener y umbral"
+                    "text": "F13 In-process"
                   }
                 }
               }
@@ -1934,11 +1934,11 @@
         "cells": [
           {
             "position": {
-              "x": 260,
+              "x": 416,
               "y": 10
             },
             "size": {
-              "width": 280,
+              "width": 448,
               "height": 590
             },
             "attrs": {
@@ -1965,11 +1965,11 @@
           },
           {
             "position": {
-              "x": 910,
+              "x": 1456,
               "y": 10
             },
             "size": {
-              "width": 250,
+              "width": 400,
               "height": 520
             },
             "attrs": {
@@ -1996,11 +1996,11 @@
           },
           {
             "position": {
-              "x": 600,
+              "x": 960,
               "y": 600
             },
             "size": {
-              "width": 260,
+              "width": 416,
               "height": 140
             },
             "attrs": {
@@ -2027,11 +2027,11 @@
           },
           {
             "position": {
-              "x": 30,
+              "x": 48,
               "y": 200
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -2062,11 +2062,11 @@
           },
           {
             "position": {
-              "x": 300,
+              "x": 480,
               "y": 40
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -2127,11 +2127,11 @@
           },
           {
             "position": {
-              "x": 300,
+              "x": 480,
               "y": 180
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -2179,11 +2179,11 @@
           },
           {
             "position": {
-              "x": 300,
+              "x": 480,
               "y": 320
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -2231,11 +2231,11 @@
           },
           {
             "position": {
-              "x": 300,
+              "x": 480,
               "y": 460
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -2269,11 +2269,11 @@
           },
           {
             "position": {
-              "x": 640,
+              "x": 1024,
               "y": 460
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 90
             },
             "attrs": {
@@ -2321,11 +2321,11 @@
           },
           {
             "position": {
-              "x": 950,
+              "x": 1520,
               "y": 150
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 70
             },
             "attrs": {
@@ -2360,11 +2360,11 @@
           },
           {
             "position": {
-              "x": 950,
+              "x": 1520,
               "y": 330
             },
             "size": {
-              "width": 180,
+              "width": 200,
               "height": 70
             },
             "attrs": {
@@ -2399,11 +2399,11 @@
           },
           {
             "position": {
-              "x": 640,
+              "x": 1024,
               "y": 640
             },
             "size": {
-              "width": 160,
+              "width": 200,
               "height": 80
             },
             "attrs": {
@@ -2458,7 +2458,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "GET /login/{usuario}/{contraseña}"
+                    "text": "G01 HTTP"
                   }
                 }
               }
@@ -2509,7 +2509,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "POST /transfer, /billpay, /deposit"
+                    "text": "G02 HTTP"
                   }
                 }
               }
@@ -2560,7 +2560,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "POST /customers/update/{id}"
+                    "text": "G03 HTTP"
                   }
                 }
               }
@@ -2611,7 +2611,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "POST /requestLoan"
+                    "text": "G04 HTTP"
                   }
                 }
               }
@@ -2662,7 +2662,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "SELECT ... WHERE username=? AND password=?"
+                    "text": "G05 JDBC/TCP 9001"
                   }
                 }
               }
@@ -2713,7 +2713,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "INSERT/UPDATE Transaction y Account"
+                    "text": "G06 JDBC/TCP 9001"
                   }
                 }
               }
@@ -2764,7 +2764,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "UPDATE Customer (concatenación de first_name)"
+                    "text": "G07 JDBC/TCP 9001"
                   }
                 }
               }
@@ -2815,7 +2815,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Mensaje LoanRequest"
+                    "text": "G08 JMS/TCP 61616"
                   }
                 }
               }
@@ -2866,7 +2866,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Entrega a consumidores"
+                    "text": "G09 JMS/TCP 61616"
                   }
                 }
               }
@@ -2917,7 +2917,7 @@
                 "position": 0.5,
                 "attrs": {
                   "label": {
-                    "text": "Consulta al proveedor"
+                    "text": "G10 WS/JMS"
                   }
                 }
               }
