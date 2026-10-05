@@ -2,14 +2,14 @@
   "version": "2.4.0",
   "summary": {
     "title": "ParaBank – Modelo de amenazas (Tarea 2)",
-    "owner": "[Tu nombre y carnet]",
+    "owner": "1293-21-11608 - Gerbert David García Loaiza",
     "description": "Modelo STRIDE de ParaBank (Parasoft) basado en el código público https://github.com/parasoft/parabank commit 13cc8d4c. Niveles 0, 1 y 2.",
     "id": 0
   },
   "detail": {
     "contributors": [
       {
-        "name": "[Tu nombre]"
+        "name": ""
       }
     ],
     "diagrams": [
