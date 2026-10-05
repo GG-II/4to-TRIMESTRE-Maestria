@@ -1,0 +1,1483 @@
+Algunos compañeros pues ya me enviaron
+eh pues la estructura de los de los
+grupos que se tienen, ¿verdad? Eh, son
+grupos de cinco o seis personas. Y si
+quieren al finalizar la la clase del día
+de hoy vamos a vamos a validar,
+¿verdad?, el resto de los grupos. Hay
+algunos grupos que hacen falta
+complementarlos. Hay unos grupos que
+todavía pues ya están cabales, digo,
+porque lo hicimos por afinidad. Sí.
+Entonces, todavía hace falta y podemos
+verlo a finalizar ahorita la
+presentación, ¿les parece?
+Okay, creo que sí vamos a tener que ver
+ese tema porque somos más compañeros,
+¿verdad? Entonces, la semana pasada
+teníamos algunos, ahorita somos un
+poquito más. Entonces, creo que sí
+valdría la pena ver este tema. Aún así,
+¿verdad? La tarea del día de hoy es una
+tarea individual, ¿verdad? Pero sí hay
+entregas grupales para que ya comencemos
+a avaliar todo eso. Sí, de igual forma
+eh yo voy a dejar ahí en la plataforma
+de la universidad
+e todo lo que es los grupos, ¿verdad?
+Eh, cómo están conformados sus
+integrantes,
+eh, para que pues sigamos viendo todo
+eso. Sí.
+Okay,
+vamos a ver.
+Perfecto. Bueno, muchachos, entonces eh
+como les había mencionado la semana
+pasada, ¿verdad? Vamos a ver todo lo que
+es la seguridad en las aplicaciones.
+Creo que en algún momento pues eh
+los compañeros desarrolladores
+pues les va a parecer interesante
+algunos puntos que nosotros vamos a ver,
+¿verdad? Porque esos son los que
+generalmente se aplican, ¿verdad? Cuando
+nosotros estamos desarrollando algún
+tipo de aplicación. En el trimestre
+pasado pues vimos también seguridad a
+nivel de sistemas de información.
+Claro que por supuesto es muy similar,
+más da igual.
+En los sistemas de en la seguridad
+sistemas de información pues
+consideramos componentes adicionales que
+nos sirve, ¿verdad?, para poder validar
+pues todo el ecosistema, aunque en la
+seguridad de las aplicaciones vamos a
+entrar un poquito más a detalle,
+¿verdad? ¿Cuáles son las consideraciones
+que deberíamos de tener? Eh, vimos
+algunos conceptos de de
+saber si esa seguridad, ¿verdad?, la
+deberíamos de aplicar al inicio o al
+final, ¿verdad?, de un proyecto.
+Entonces, eso depende, ¿verdad?, de de
+las políticas, de las normativas a veces
+que tiene la empresa. Pero eh la semana
+pasada vimos que pues es mejor tener una
+consideración inicial, ¿verdad?, que es
+más preventiva y no una consideración
+final que es más correctiva.
+El problema de ser correctiva, ¿verdad,
+jóvenes? Es que a veces eh pues todo lo
+como es correctiva es porque la
+incidencia ya la tenemos ahí, ¿verdad?
+ya la tenemos marcada, ya es una
+incidencia donde definitivamente puede
+ser afectado tanto los clientes,
+transacciones, etcétera, etcétera. ¿Sí?
+Entonces, eso definitivamente eh pues
+nos pega, el nivel de riesgo es mucho
+mayor, ¿verdad? Y por eso es que eh
+debemos de considerar eh seriamente,
+¿verdad? ver si pues todos los temas de
+seguridad lo aplicamos al final y no al
+inicio. Sí. Entonces, para esta semana
+eh vamos a ver eh perdón, perdón
+ustedes, es que este mi mouse
+está un poquito malo.
+Okay, ya se me pasaron todas esas
+presentaciones.
+Bueno, esta semana eh la idea central de
+esta clase, ¿verdad?, es comenzar a ver
+el modelado de amenazas desde la fase
+del diseño, que es la fase inicial,
+¿verdad?, de un proyecto de aplicaciones
+para que veamos las ventajas que
+nosotros vamos a tener si lo
+consideramos desde el inicio y no hasta
+el final.
+Sí,
+vamos a tratar la manera de poder
+integrar
+eh DFD con Stripe. Cada uno tiene sus
+objetivos, cada uno pues tiene su
+particularidad, ¿verdad?, que debemos de
+tomar en cuenta. Este y este creo que
+son las mismas presentaciones, pero ¿qué
+es lo que vamos a tratar de hacer? Es
+tratar de elaborar un diagrama de flujo
+de datos o un DFD.
+Sí. eh donde vamos a ver nosotros la
+representación de fronteras de
+confianza, vamos a ver qué es un strike,
+¿verdad? Eh, qué es lo que ha aplicado
+un strike, la priorización también de
+las amenazas, ¿verdad? Y proponer
+mitigaciones de esas amenazas
+identificadas. ¿Sí? Entonces, eh la
+semana pasada vimos
+conceptos de de shift left y shift,
+¿verdad? El famoso shield def estábamos
+hablando un inicio de que cuando
+hablamos de shield left es cuando hay
+consideraciones iniciales al inicio,
+¿verdad? Y el shift right es cuando es
+al final. ¿Sí?
+Entonces aquí tenemos el índice que
+vamos a ver que es el modelado de
+amenazas,
+¿verdad? Y porque es una actividad de
+mayor retorno. Vamos a ver la
+construcción de diagramas de flujo de
+datos. Creo que eso pues al final eh
+todos en algún momento hemos construido
+ese tipo de diagramas,
+¿verdad? Eh, también tenemos la
+metodología Stright, los enfoques eh
+complementarios, o sea, no significa que
+Strike sea el todo ni tampoco DFD,
+¿verdad? Tenemos siempre enfoques
+complementarios que nos pueden ayudar
+como pasta, ¿sí? Ah, árboles de ataque,
+casos de abuso, ¿sí? Y tenemos algunas
+herramientas que vamos a ver como lo
+WASP.
+Entonces, número uno, ¿verdad? Ya
+entrando un poquito en materia es que es
+modelado de amenazas. Y el modelado de
+amenazas podemos decir que es un proceso
+estructurado para poder identificar,
+analizar y priorizar posibles amenazas.
+Y claro que es, por supuesto, eh, bueno,
+son amenazas y vulnerabilidades,
+¿verdad? de un sistema antes de su
+implementación. Sí, prácticamente esto
+va a permitir comprender qué puede salir
+mal, cómo podría ser atacado y qué
+controles deberíamos de incorporar desde
+el diseño. Sí. Eh, porque esa actividad
+eh también dice, ¿verdad?, de mayor
+retorno, el diseño seguro porque
+permite, ¿verdad?, detectar riesgos
+tempranos,
+¿verdad?,
+cuando corregirlo suelen requerir menos
+esfuerzo, ¿verdad? Y costo más que todo
+de hacerlo, ¿verdad? Después de
+desarrollar o desplegar que después de
+desarrollar o desplegar sistemas. Además
+nos va a ayudar eso, ¿verdad? Cómo
+priorizar riesgos realmente críticos. De
+una vez los validamos, ¿verdad? Vamos a
+poder definir también controles de
+seguridad desde el diseño, reducir una
+realidades y trabaj y retrabajo
+posterior. Puede ser que en ese análisis
+que nosotros tengamos, ¿verdad?, después
+de haber implementado, pues resulta,
+¿verdad?, de que tenemos una gran
+vulnerabilidad y vamos a tener que
+volver a realizar e incluso en algunas
+veces hasta una reingeniería, ¿verdad?
+Ustedes por no considerar esas
+vulnerabilidades.
+Sí.
+Otra es orientar pruebas de seguridad,
+calculo yo, ¿verdad? Y aplicar
+principios de security by design.
+Un ejemplo práctico que podemos decir,
+¿verdad? En lugar de crear primero una
+aplicación web y después añadirle
+autenticación,
+se diseña la aplicación, ¿verdad?
+considerando que desde el inicio, va,
+jóvenes, cómo se van a validar los
+usuarios, cómo se van a proteger sus
+contraseñas, qué cifrados se usarán las
+comunicaciones y cómo se van a gestionar
+los roles.
+Es importante de que todo esto que les
+acabo de decir lo podamos considerar
+desde el inicio del diseño y no hasta el
+final. ¿Sí?
+E dudas o consultas, hacia dónde vamos.
+No, todo bien.
+Sí, ingeniero.
+Okay. Bueno, entonces vamos a entrar al
+primer tema importante.
+Número uno es la construcción de
+diagramas de flujo de datos o de o DFD,
+le digo yo, ¿verdad? DFD.
+Eh, pues prácticamente un diagrama de
+flujo de datos, ¿verdad? Representa
+gráficamente, ¿verdad?, cómo circula la
+información dentro de un sistema. Por
+eso les digo, en algún momento todos
+tuvimos que haber realizado algún
+diagrama de flujo de datos, ¿sí? Ya sea
+a nivel de licenciatura o o en donde
+está trabajando actualmente, ¿verdad?
+Pero todos hemos realizado esta estos
+diagramas. Sí, en el modelado de
+amenazas va a permitir, ¿verdad?, a
+visualizar los puntos donde los datos se
+originan, donde se procesan, donde se
+almacenan, ¿verdad? Y atraviesa pues los
+diferentes niveles de confianza,
+¿verdad? Facilitando posteriormente pues
+la aplicación de el famoso stripe. Sí.
+Eh, aquí pues tenemos diferentes
+elementos como ustedes ven en la
+filmina. Tenemos, por ejemplo, una
+entidad externa que va a ser el usuario
+o sistema que interactúa desde afuera,
+¿verdad? Un cliente.
+Sí.
+Vamos a tener también un proceso
+que que es como un componente que
+transforma o procesa información,
+aplicación web, digámoslo así. Puede ser
+un API, puede ser un servicio, un
+almacenamiento de datos, todo lo que es
+un proceso como tal. Sí.
+eh, perdón, aplicación web y servicios.
+Después vamos a tener el almacen de los
+datos, la base de datos, ¿verdad?
+Ustedes donde se eh permanece la
+información. Ojo al dato aquí, ¿verdad?
+Porque que al final eh lo vemos como sí
+es una base de datos, sí, pero la base
+de datos también tiene eh formas de
+protegerse, formas de poder contar con
+seguridad correspondiente, tanto a nivel
+de código como a nivel de data como tal.
+Sí, ahí es donde vienen unos tiempos eh
+diferentes conceptos como el
+ofuscamiento,
+¿verdad? También eh pues en algunas
+bases de datos como Oracle, ¿verdad?,
+que existe el famoso grap, ¿verdad?, que
+nos puede ayudar, ¿verdad?, a enmascarar
+esta información. ¿Sí? Bueno, después
+vamos a tener el famoso flujo de datos,
+que es el movimiento de información
+entre componentes, ¿verdad? son HTTP,
+las APIs, eh las famosas consultas de
+SQL, etcétera, ¿verdad? Hacia dónde
+fluyen los datos. Y de último vamos a
+tener la la famosa frontera de
+confianza.
+La frontera de confianza no es nada más
+que la separación entre zonas, ¿verdad?
+Con distintos niveles de confianza. En
+este caso, pues ustedes ven que eh
+los eh las zonas del de confianza o la
+separación de las zonas y pues puede ser
+como por ejemplo internet, red interna,
+la aplicación y que se vaya a la no. Sí,
+esta como por ejemplo está aquí el
+cliente, ¿verdad? Va a una aplicación
+web, una aplicación web va al servicio
+de negocio y el negocio pues depende,
+¿verdad? si va a una base de datos,
+retorna información o bien que tenga una
+integración y que salga, ¿verdad? Por
+ejemplo, en este caso, una pasarela de
+paus. ¿Sí? Entonces, ese más que todo va
+a ser el eh un diagrama de flujo con la
+famosa frontera de confianza. La
+frontera de confianza, si ustedes pueden
+ver aquí en el diagrama, estamos
+hablando de que todo esto es dentro de
+una red, ¿verdad?, que nosotros estamos
+protegiendo donde tenemos pues al final
+la autorización de datos, etcétera,
+¿verdad? Y lo que es externo, ¿verdad?
+Como por ejemplo la pasarela de pago son
+integraciones, pueden ser internas
+también, pueden ser externas. Sí.
+Entonces, eh eh hablando un poco de
+bancos, ¿verdad? Porque creo que esto va
+aumentando un poquito de de
+especialidad. Una pasarela de pagos
+puede ser, por ejemplo, ustedes quieren
+hacer alguna recarga, ¿verdad? eh
+telefónica o quieren hacer algún tipo de
+pago, agua, luz, teléfono y en unas
+plataformas bancarias. Recuérdense que
+no es que exista un sistema
+especializado o que la que la plataforma
+electrónica tenga su propio cor de este
+tipo, sino que definitivamente
+vamos a tener algún tipo de integración.
+Sí, la integración es la que me va a
+decir el proveedor, qué tipo de datos, a
+qué viaja, cómo viaja, de qué manera
+viaja.
+Eh, también eh de qué manera va a estar
+protegida, ¿verdad? Si va a ser por API,
+si va a ser por vía batch, cómo vamos a
+interrelacionar nosotros con esos datos,
+¿verdad? Aunque si es un pago, ¿verdad?
+Generalmente los pagos ya son en línea,
+significa que de cierta manera puede ser
+vía API, ¿verdad? Y pues si es vía API,
+es casi seguro que la entidad va a
+necesitar un API getway. Sí,
+dudas o consultas de esto. Estamos bien.
+Okay.
+Ninguna, ingeniero. Todo claro.
+Todo claro.
+Vamos a tener entonces la metodología
+stride, ¿verdad? Aplicada a DFD,
+¿verdad? o la o el diseño de flujo de
+datos. Pues Stride al final es una
+metodología, ¿verdad?, de modelado de
+amenazas que permite sistemáticamente eh
+cada modelo o cada elemento, perdón, de
+un DFD,
+eh entidades, procesos, almacenes,
+flujos, fronteras para poder identificar
+las amenazas de seguridad.
+Una aplicación práctica de DFD, pues va
+a ser esto que nosotros vemos en
+pantalla.
+La metodología stride significa,
+¿verdad?, que es spoofing,
+tampering, reputation, information
+disclosure,
+tenemos el den service, celebration of
+privilege. Sí. Entonces, generalmente
+toda esa metodología son las que
+nosotros vamos a considerar. En el
+spoofing vamos a tener amenaza o
+suplantación de identidad. Sí, solo
+denme un momento, muchachos. Un momento.
+Venga un momento.
+Sí, me escuchan.
+Sí,
+sí, sí se escucha.
+Sí.
+Okay. Bueno, sigamos entonces. Bueno,
+nuevamente, ¿verdad? La metodología
+Stripe tiene estas eh cinco o seis
+consideraciones, el spoofing, tampering,
+reputation, information disclosure, el
+denile of service, ¿verdad? O el famoso
+dos, ¿verdad? Y elevation of privilege.
+Entonces, a la hora de que nosotros
+querramos eh validar cada uno de ellos,
+lo más fácil es poder comenzar a generar
+este cuadrito, ¿verdad? donde por cada
+una de las letras, por ejemplo, en
+Spoofing, vamos a tener que identificar
+una amenaza y pues algún ejemplo del del
+mismo, ¿verdad? Por ejemplo, del lado de
+spoofing, que es una suplantación de
+identidad. Y aquí pues eh cuáles son los
+ejemplos que tendríamos como la
+suplantación de identidad. Número uno es
+un atacante que se hace pasar por un
+usuario legítimo. En una banca,
+¿verdad?, electrónica, pues es cuando a
+veces tenemos el usuario y contraseña de
+de pues de un cliente, ¿verdad?, de la
+banca electrónica. Sí. El tampering, que
+es la manipulación, que es la
+modificación de datos durante su
+transmisión. Eso quiere decir, ¿verdad?,
+que un atacante a veces manda,
+[carraspeo] por ejemplo, eh una petición
+de 10 o 15 que sales, ¿verdad? Por
+ejemplo, pero en la transmisión,
+¿verdad? Hace el cambio de la
+información, en este caso del monto,
+¿verdad? y manda entonces a solicitar un
+monto que que no viene en la solicitud
+original. Ese es el tumber, ¿sí? El
+repation, pues eh cuando ya el usuario o
+el cliente niega a haber realizado esa
+operación, ¿sí? Es el famoso repudio.
+Sí, le el siguiente que es el
+information disclosure, que es la
+divulgación de información,
+prácticamente la exposición de los datos
+sensibles. Esto es bien importante,
+muchachos. Porque fíjense que eh a veces
+la información es el recuérdense que es
+el activo más importante de la empresa y
+dependiendo el tipo de información o de
+flujo de datos, así tenemos nosotros que
+reconocer, ¿verdad?, que la información,
+cuáles son los datos sensibles y cuáles
+no. Entonces, esa es la parte que más
+tenemos que cuidar, el den service,
+¿verdad? Porque media vez nosotros
+tengamos o bueno, el atacante tenga el
+acceso a algún servicio, puede comenzar
+a invadir, ¿verdad?, o mandar ciertas
+peticiones o una gran cantidad de
+peticiones para que pueda saturar e el
+servicio, ¿verdad? Y pues este pues
+puede hacer un overflow o algo por el
+estilo. Sí. Y la elevación de
+privilegios, eso quiere decir, ¿verdad?,
+de que por ejemplo yo puedo tener e
+un usuario normal, ¿verdad? clasificado
+con un rol normal y pues a veces lo que
+hacen es cuando tienen este acceso es eh
+colocarle un rol administrador, ¿verdad,
+muchachos? Y ya con un rol administrador
+imagínense todo lo que pueden hacer.
+¿Sí?
+¿Correcto?
+Entonces, sobre esto, ¿verdad?, tenemos
+eh pues algunos ejemplos, ¿sí? En este
+caso, eh estamos hablando un ejemplo de
+eh
+una aplicación web, ¿verdad? Donde
+tenemos el usuario. Sí, ahí tenemos pues
+una identificación de credenciales y
+solicitud de acceso. Ya vamos a tener
+una frontera de confianza, ¿verdad?
+Donde ya tenemos la aplicación web
+dentro de nuestro e control de de red.
+Sí, la aplicación web pues al final lo
+que va a hacer es solicitar un servicio
+de negocio a nuestro core, ¿verdad? Y el
+core pues al final va a ser petición a
+la base de datos. Si es necesario, pues
+la base de datos le va a consumir, por
+ejemplo, una integración hacia un
+proveedor externo, ¿verdad? Ya el
+proveedor externo regresa la información
+a la base de datos. Esto lo procesa en
+el core y el core pues lo devuelve en la
+aplicación web para que ya lo vea
+reflejado el usuario como tal. Sí, cada
+una de ellas, si se pueden dar cuenta,
+¿verdad?, tiene un intermediario que es
+la parte de acción, ¿verdad? Entre un
+nodo y el otro. ¿Sí? Entonces, eh a la
+hora de que nosotros queramos aplicar
+una metodología street, aquí abajo
+tenemos un ejemplo. Este ejemplo está
+bien claro, ¿verdad? Ustedes por ejemplo
+del lado de spoofing, que es la
+suplantación, ¿verdad? Aquí dice que el
+atacante se hace pasar por un usuario o
+sistema legítimo. El ejemplo en el flujo
+de datos, ¿verdad?, cuando el atacante
+usa credenciales robadas, imagínense
+ustedes, para acceder a la aplicación
+como un cliente. ¿Cuáles son los
+componentes que se van a ver afectados?
+Número uno, pues definitivamente el
+usuario y la aplicación web. Sí,
+de la aplicación web el riesgo es que
+empe al final el acceso no autorizado a
+las cuentas y los datos. ¿Y cuáles son
+los controles recomendados?
+Los controles recomendados va a ser la
+autenticación multifactor,
+¿verdad? Eh, también vamos a hacer
+validación de identidad y gestión de
+sesiones y el uso de certificados. Sí,
+todo eso es solamente para el spoofing.
+Sí. Eh, hoy por hoy pues ya la mayoría
+de nosotros ya utilizamos el MFA o el o
+la autenticación multifactor, ¿verdad?
+cuando nos manda a pedir un token o que
+rectifiquemos por medio de un código
+enviado en SMS, etcétera, etcétera,
+etcétera. Sí. Okay. El tampering
+tenemos la manipulación, ¿verdad? Es la
+modificación autorizada de datos o
+código. El ejemplo, ¿verdad? En el
+diagrama es un un atacante modifica el
+monto de la transacción. Acá va lo que
+estábamos hablando, ¿verdad? mientras se
+envía al servicio del negocio. Los
+componentes afectados, pues número uno
+va a ser el flujo de datos y número dos
+prácticamente el servicio, ¿verdad?, del
+negocio. ¿Qué riesgo vamos a tener ahí?
+Pues definitivamente con los datos
+alterados, ¿verdad? Van a haber
+transacciones fraudulentes.
+¿Qué es lo que recomendamos nosotros
+para este tipo de situaciones? Número
+uno, cifrado en tránsito. Sí. Número
+dos, las firmas digitales, ¿verdad? y
+las valiaciones de integridad. Y número
+tres, la valiación de datos en el
+servidor. ¿Sí?
+Vamos a ver entonces ahora del lado del
+repudio, ¿verdad? Aquí pues creo que
+está más claro, ¿verdad? De que pues al
+final cuando el cliente o el usuario vea
+su transacción, pues definitivamente va
+a negar de que él no hizo esa
+transacción, aunque nosotros a nivel del
+core eh le podamos decir que sí.
+Imagínense qué tragedia es. Nosotros
+tenemos nuestros registros de que sí
+definitivamente eh lo solicitó, pero
+nuestro cliente nos va a decir que no.
+Sí. ¿Qué es lo que va a haber afectado?
+Pues aplicación web, servicio de
+negocio. Pues si estamos hablando a
+nivel de banco, va a ser una eh,
+¿cómo se llama este? Eh,
+una experiencia de usuario. Sí. el
+privilegio de y la reputación que tiene
+las entidades financieras son bien
+delicadas, ¿verdad? Y tratan la manera
+de mantenerlo. En este caso, pues
+del lado de la negación va a causar una
+mala expertiza a nuestros eh clientes o
+usuarios y eso es lo que tratamos de
+evitar. Sí,
+ingeniero.
+Sí, dígame.
+Disculpe, eh, solamente están tratando
+de ingresarme, dice un compañero.
+Entonces,
+Ah, okay, perfecto. Muchas gracias.
+Ahorita lo voy a dar acceso. Dme un
+momento.
+Listo, ahí ya van los compañeros, ahí
+está ingresan.
+Okay. Va, entonces nuevamente, ¿verdad?
+Este es el repudio que tenemos ahí. Y
+ahora vamos con el cuarto punto que es
+el information disclosure, ¿verdad? Que
+es es la exposición de la información,
+¿verdad? Sensible, porque créanme
+ustedes que con la información de uno
+pueden hacer y deshacer como no tienen
+idea, ¿verdad? Pueden solicitar un
+crédito, pueden solicitar préstamos,
+puedo incluso, ¿verdad?, ir a comprar
+componentes, celulares, cualquier otra
+cosa ustedes que lo mínimo que les pide
+es la identificación, pero imagínese que
+ya se pueda falsear, ¿verdad? o
+falsificar, perdón. Entonces, eh eso es
+muy delicado. Sí. Entonces, por eso es
+que los datos sensibles son los que más
+deberíamos de estar protegiendo.
+Tenemos la denegación de servicios
+definitivamente. A ustedes imagínense en
+un ejemplo que siempre les doy a mis
+alumnos cuando vemos, por ejemplo,
+sistemas de información, pero no la
+seguridad, sino el sistema de
+información como tal.
+Eh, ¿cuántas veces nosotros hemos
+llegado a una gasolinera y que cuando
+queremos pagar con nuestra tarjeta de
+crédito nos dice que la tarjeta no pasa?
+Y nosotros sabemos, ¿verdad?, de que sí
+efectivamente tenemos eh un disponible,
+pero cuando pasa la tarjeta nos dice que
+no puede pasar, que el servicio no está
+disponible. Entonces, nuevamente,
+¿verdad, ustedes? Eh, la denegación de
+servicios causa, créanme, una pérdida de
+plata, una pérdida monetaria que no
+tienen idea. Sí, aparte las molestias
+que vamos a tener con nuestros clientes.
+Sí. Entonces, nuevamente, ¿verdad?, el
+prestigio de la unidad o de la
+institución financiera se ve en juego.
+¿Sí? Okay. Entonces, y el último es eh
+la elevación de privilegios.
+Aquí indica, ¿verdad?, que la optación
+de mayores permisos de los usuarios va a
+hacer que el atacante, ¿verdad?, pueda
+explotar las vulnerabilidades que puede
+tener el acceso al administrador. ¿Qué
+es lo que pasa con todo eso? ¿Verdad?
+Que al final si un atacante tiene las
+credenciales del administrador va a
+poder y deshacer de todo, ¿verdad? Y ahí
+es donde viene pues las famosas e él va
+a querer pues plata, ¿verdad?, para que
+nos pueda devolver pues nuestros eh
+nuestras credenciales administradoras.
+Sí.
+Entonces, a eso se dedica Stripe,
+¿verdad? Tratar de evaluar todas estas
+eh vulnerabilidades eh áreas que tenemos
+que contemplar dependiendo, ¿verdad?,
+también qué es lo que estemos evaluando.
+Así van a ser pues las los ejemplos,
+componentes, los riesgos que vamos a
+tener que considerar con cada uno de
+esos. Sí,
+para todo esto también tenemos enfoques
+complementarios, ¿verdad? Enfoques
+complementarios como pasta, árboles de
+ataque y casos de abuso. Número uno,
+pasta, ¿verdad? Eh,
+más que todo podemos dar eh una
+comparativa, ¿sí? Stri va a identificar
+qué tipo de amenaza existe. Sí. Y pasta
+pues prácticamente va a profundizar en
+el riesgo para el negocio. [carraspeo]
+Los attack trees, ¿verdad?, muestran
+cómo pueden materializarse
+un ataque y los casos de abuso van a
+describir, ¿verdad?, como e
+cómo
+un atacante, ¿verdad?, podría abusar del
+funcionamiento del sistema.
+Un momento, por favor.
+Disculpen, no sé, yo no le escucho.
+Un momento, por favor.
+Okay, listo. Disculpen, es que andado
+también en una pequeña eh ando viendo si
+hay compañeros que se tienen que
+conectar o no. Entonces, por eso que a
+veces me salgo para ver si hay más
+compañeros que van a conectarse. Pero
+listo, ya los que se unieron ya estamos.
+T simulation and treat analysis,
+¿verdad? Que es lo que está ahí. ¿Qué
+es? es una metodología de modelo de
+amenazas al riesgo más que todo que
+relaciona los objetivos del negocio con
+amenazas, vulnerabilidades y posibles
+ataques. Prácticamente se desarrollan
+siete pasos, como dice la firmina, donde
+pues cada uno tiene un objetivo. Sí.
+Número uno, definir objetivos del
+negocio. Número uno, número dos, perdón,
+eh definir el alcance técnico. Tres,
+descomponer la aplicación. cuatro,
+identificar amenazas. Cinco, analizar de
+habilidades, eh, seis, modelar y simular
+ataques. Y siete, analizar impacto de
+riesgos. Ahorita vamos a ver un ejemplo,
+¿verdad? Eh, hay, bueno, ahí hay uno,
+¿verdad?, que es en banca línea, que es
+un canal electrónico. ¿Por qué ponen
+ejemplos siempre de un canal electrónico
+financiero? Porque creo que es uno de
+los canales electrónicos, ¿verdad?,
+donde más ataques se tiene. Sí. no
+significa que sea el único, ¿verdad?
+Porque aquí en Guatemala lo hemos
+escuchado más también eh, por ejemplo,
+en instituciones gubernamentales, en
+empresas grandes, por ejemplo, ¿verdad?,
+donde sufren ciertos ataques y pues es
+ahí donde pues a veces eh todas estas
+personas tienen que estar actualizadas,
+¿verdad? y tiene que hacer todas las
+consideraciones necesarias para que pues
+el el ciberataque no sea tan invasivo.
+¿Sí? Entonces, banca línea, paso número
+uno, definir el objetivo de negocio.
+En el objetivo del negocio es mantener
+la continuidad del servicio de la banca
+en línea y confianza del cliente. Sí.
+Número dos, el alcance técnico. ¿Qué es
+lo que vamos nosotros a considerar? El
+portal web y las APIs de la banca línea.
+¿Cuál es la amenaza principal? El robo
+de credencial. ¿verdad? El fishing y por
+eso es que la mayoría de instituciones
+financieras pues tienen doble factor de
+autenticación.
+La simulación del ataque, ¿verdad?
+Cuando el ataque obtiene las
+credenciales y accese accede a la cuenta
+del usuario. El impacto pérdidas
+financieras definitivamente porque lo
+primero que hace el atacante cuando
+ingresa a la banca electrónica es
+comenzar a transaccionar. Sí, va a
+comenzar a hacer transacciones de AH, va
+a comenzar a pagar eh otras tarjetas de
+crédito, va a comenzar a pagar
+préstamos, etcétera, etcétera, etcétera.
+Sí, con la cuenta de un usuario clonado,
+¿sí? El resultado pues va a ser un
+riesgo alto, ¿verdad? Porque
+definitivamente pues va a poder hacer
+uso a su gusto, ¿verdad?,
+de la cuenta que acaba de hackear y el
+control recomendado, pues eh nuevamente,
+¿verdad? El MFA que es el factor eh
+autenticación multifactor, detección de
+anomalías y monitoreo de transacciones.
+Generalmente las instituciones
+financieras, ¿verdad?, eh llevan más o
+menos un control de consumos que tiene
+cada uno de sus clientes, ¿verdad? Eh,
+cuando se tiene una transacción inusual,
+¿verdad? es cuando pues a veces tienen
+un sistema de monitoreo que levanta una
+alerta y en algunas instituciones pues
+eh por ejemplo los llaman, ¿verdad?,
+para rectificar que esa transacción
+realmente la esté haciendo uno o no. Sí.
+Eh, hay varias instituciones que tienen
+ese servicio, como hay instituciones,
+pues que solo levantan alerta y pues
+hasta ahí llega, ¿verdad? O sea, todo
+depende de la institución que en que
+estén. Va, ese es el famoso pasta.
+Ahora vamos al número dos, al enfoque
+complementario número dos, que son los
+árboles de ataque.
+¿Qué es lo que hace esto? Número uno,
+representa gráficamente un objetivo del
+atacante y las diferentes rutas,
+¿verdad? Ustedes que podría seguir para
+conseguirlo. El objetivo se coloca en la
+raíz y se descompone progresivamente en
+métodos y acciones. ¿Sí?
+Si ustedes se dan cuenta, pues eh el
+objetivo es el mismo por diferentes
+canales. Y yo me recuerdo que este
+concepto, ¿se recuerdan ustedes en la
+licenciatura que le decíamos que era un
+polimorfismo, verdad, a ustedes? Eh, que
+era el poder llegar a un objetivo por
+diferentes pasos, por diferentes ramas,
+por diferentes canales, ¿verdad? Sí.
+Okay. Y tenemos el tercero, que es el
+caso de Boso o el Avios Cases, que eso
+es prácticamente una extensión de casos
+de uso tradicional en lugar de preguntar
+únicamente qué debe hacer el usuario,
+¿verdad? Plantear cómo podría el
+atacante abusar de esta funcionalidad, o
+sea, ¿qué haría el atacante si estuviera
+eh si tuviera pues todas las
+herramientas para poder ingresar? Sí.
+Entonces, si ustedes ven ahí el el
+diagrama, el atacante, pues eh número
+uno va a iniciar las las sesiones con
+credenciales robadas. ¿Qué va a hacer de
+eso? Pues está abusando de la
+autenticación. Número dos, modificación
+de datos de la transacción. ¿Qué es lo
+que abusa ahí? La gestión de la cuenta.
+Y número tres, va a realizar las
+transferencias no autorizadas. ¿Qué es
+lo que está usando? Las transferencias.
+Entonces, prácticamente definimos el
+actor, los objetivos, la precondición,
+el flujo de de abuso, el impacto y los
+controles recomendados. ¿Sí?
+Entonces, ¿cómo se complementan cada uno
+de ellos? Número uno, pasta, ¿verdad?
+Vamos nuevamente tener una visión
+integral del riesgo. Eh, los árboles de
+ataque, ¿verdad?, también van a explorar
+el detalle, los caminos que puede tener
+ese ataque y los casos de abuso se
+enfocan más que todo ya cuando el
+atacante tiene esas herramientas para
+poder cometer un sinfín de actividades
+ilegales. Sí.
+Okay.
+Eh, esto pues al final es un un
+arbolito, ¿verdad? Nuevamente vamos a
+llegar, el objetivo es acceder a la base
+de datos y lo podemos hacer por medio de
+fishing, fuerza bruta, SQL injection, el
+CBA, renta interna, equipo comprometido
+y pues cada una de ellas el objetivo es
+poder llegar hacia la base de datos.
+¿Sí?
+Okay. Algo bastante importante también
+es la priorización de amenazas de
+diseño, ¿verdad?
+Eh, la priorización de amenazas permite
+determinar
+cuáles riesgos identificados durante el
+modelado requieren atención inmediata y
+cuáles pueden ser aceptados o
+transferidos. Sí, esto quiere decir,
+¿verdad?, de que pues el objetivo no es
+eliminar todos los riesgos, sino tomar
+decisiones de seguridad, ¿verdad?
+ustedes eh prácticamente proporcionales
+al impacto, la probabilidad y el
+contexto del negocio. Sí, recuérdense
+ustedes que hay un riesgo pues al final
+que no es controlado y pues de cierta
+manera el negocio tiene que aceptarlo.
+Sí. Entonces, pero ¿por qué priorizar?
+Después de aplicar todo lo que acabamos
+de ver, ¿verdad? El DFD, el stre pasta,
+árboles de ataque, ¿verdad? Normalmente
+pues tenemos una lista extensa de
+amenazas, no todas van a representar el
+mismo nivel de riesgo ni justifican la
+misma inversión, pues de una forma u
+otra debemos nosotros entonces de
+comenzar a priorizar las de mayor
+impacto a las de menor impacto. Sí.
+Okay. ¿Cuáles son los criterios para
+priorizar?
+Tenemos pues activos críticos, alta
+exposición, datos financieros,
+explotación relativamente sencilla, más
+alto impacto. Sí, creo que tod cada una
+de esas variables tienen ciertos
+criterios de evaluación por cada caso
+que ustedes vayan encontrando. ¿Sí?
+Y aquí dice, ¿verdad?, unos ejemplos,
+¿verdad? eh sobre una base de datos
+financiera puede tener mayor prioridad
+que el equivalente sobre alguna
+información pública. La información
+pública pues cualquier persona puede
+llevársela, ¿verdad? Que por ley pues
+ahí está, ¿verdad? Datos sensibles no se
+llevan, pero eh una base de datos
+financieras sí es muy delicada, ¿verdad?
+Correcto.
+Okay. Y número tres, decisiones de
+tratamiento. Media vez nosotros
+priorizamos, ahora tenemos que dar
+indicar qué tratamiento le vamos a dar a
+cada una de ellas. Sí.
+Eh, podemos decir, ¿verdad?, de que una
+vez identificada, analizada y priorizada
+la amenaza, la organización debemos de
+decidir cómo vamos a tratar el riesgo.
+Eh, las estrategias es número uno, eh,
+por ejemplo, la mitigación,
+¿verdad?, que es implementar controles
+ante robo de credenciales para reducir
+la probabilidad de eh de
+de que puedan ser vulnerables. Sí.
+Eh, número dos puede ser la aceptación
+que es dónde solo deme un momento.
+Ya regreso, ya ingresaron los otros
+compañeros.
+Okay,
+aquí está. Okay. Sí. Bueno, nuevamente,
+¿verdad? E estamos hablando en aceptar,
+que es el segundo, que es donde asumimos
+eh formalmente el riesgo, ¿verdad?
+Aceptar una indisponibilidad breve,
+residual, cuando se encuentra un sistema
+interno no crítico dentro de una
+tolerancia pues también definida,
+¿verdad? No es que se caiga el servicio
+y ahí lo dejemos tirado, sino que
+definitivamente ya todas esas
+consideraciones eh pues ya las tenemos
+que tener ya bien claras. Sí. El este
+tercero que es de transferir, que es
+trasladar, compartir, eh contratar
+incluso protección por por ejemplo de
+DOS, ¿verdad? Determinadas consecuencias
+del servicio, ¿sí? O eh servicios
+gestionados, claro, ¿verdad? O riesgos
+con un tercero, ¿verdad? Entonces a
+veces pues todo eso es monitoreo, todo
+eso pues nosotros lo hacemos a través de
+empresas de terceros. ¿Por qué? porque a
+veces no nos dan abasto, ¿verdad?, de
+tener un equipo de trabajo que pueda
+hacer eso. Entonces, lo que hacemos es
+tercerizar y cuando estamos
+tercerizando, estamos transfiriendo ese
+nivel de conocimiento. Y el último que
+es el de evitar, que es eliminar la
+actividad, no habilitar el
+funcionamiento de componente, ¿verdad?,
+o funcionalidad de acceso remoto, sino
+pues tratar la manera de evitar eh
+pues darle acceso a cualquiera, ¿verdad?
+y tratar de la manera de justificar el
+riesgo. Eh, un ejemplo eh puede ser el
+ataque de DDOS, ¿verdad?, de un portal
+donde nosotros pues al final podemos
+comenzar a evaluar todos estos tipos de
+de de priorizaciones. Sí,
+la priorización de amenazas en diseño,
+pues aquí vamos a ver algunos criterios
+de riesgo y decisiones de migración, de
+mitigación, perdón. estas gráficas, la
+verdad es que es es de gran ayuda cuando
+nosotros vamos a comenzar a ver de qué
+manera priorizamos, qué consideraciones
+tenemos, algunos temas que deberíamos de
+tener. Por eso es que esta presentación
+guárdenla, ¿sí? Yo la voy a dejar
+publicada ahí en la en la plataforma,
+pero es importante de que la podamos
+bajar, ¿sí? Y guardar.
+Entonces, eh como conclusión podíamos
+decirle que eh para poder hacer un
+resumen,
+sí eh podemos tener entonces número uno,
+tenemos el modelado de la priorización.
+Y aquí ya vimos que son los diagrama de
+flujo de datos, vimos stride eh
+herramientas complementarias como pasta,
+¿verdad? Eh, vamos a tener número dos,
+los criterios [carraspeo] de evaluación,
+el riesgo, la probabilidad de
+ocurrencia,
+el impacto, criticidad, etcétera,
+¿verdad? ¿Cómo vamos nosotros a evaluar?
+Número tres, vamos a tener la matriz de
+riesgos, que esa es la famosa matriz de
+calor. ¿Sí? y cuatro. Entonces, vamos a
+tener las decisiones para el tratamiento
+y vamos a utilizar lo que acabamos de
+ver, la mitigación, aceptación,
+transferencia y tratar la manera de
+evitar. Sí, aquí tenemos un ejemplo ya
+implementado con cada uno de estas
+verticales nuevamente, ¿verdad? Una
+aplicación bancaria. Vamos a
+identificar, ¿verdad?, el flujo de
+datos. Eh, aquí vamos a ver las
+amenazas, las ponderaciones de cada uno
+de ellos, también las probabilidades.
+Sí. Número dos, los criterios de
+evaluación. Aquí vamos a ver nosotros
+los controles. Una API expuesta a
+internet, pues definitivamente
+es bastante apetecible para un atacante.
+Sí, también vamos a evaluar entonces los
+controles, si los tiene, no los tiene. Y
+número tres es transferencia de riesgos,
+¿verdad? Aquí nuevamente vemos eh si lo
+tercerizamos, no lo tercerizamos y de
+qué manera nosotros lo vamos a realizar.
+¿Sí?
+Okay. ¿Dudas o consultas de esto,
+muchachos?
+Gracias. Creo que todo est
+todo está bien. Okay. Bueno, lo
+importante de todo esto, muchachos, es
+que estamos hablando de una aplicación.
+Sí. E estamos hablando de las
+consideraciones que deberíamos de tener
+al inicio del diseño de una aplicación.
+Todo esto si ustedes lo quieren
+implementar al final, ya cuando estén a
+nivel productivo y si le hacen un pest,
+por ejemplo, a la aplicación, va a salir
+todo esto, ¿verdad? ustedes. Pero el
+problema es que ya mitigar todo esto que
+estamos viendo en un ambiente productivo
+donde ya está disponible ya donde ya
+está disponibilizado a nuestros
+clientes, donde ya está disponibilizado
+nuestros usuarios,
+esto va a hacer que nosotros corramos
+como no tienen idea. Sí. Y por ejemplo,
+hay, por ejemplo, compras de algunos
+certificados que vamos a necesitar y de
+repente pues ya no los vamos a poder
+cotizar, sino definitivamente el primer
+certificado que encontremos es el que
+vamos a comprar porque nos surge
+proteger la información, nos surge
+proteger el canal electrónico, nos surge
+proteger todo lo que es la integración
+con canales de terceros. Sí. Entonces,
+eso hacen, va, muchachos, que todos los
+costos se eleven. Si número dos, que
+tengamos a la gente disponible.
+Recuérdense que pues al final los
+equipos de trabajo no están esperando a
+ver si funciona o no funciona, pues que
+los equipos de trabajo siguen su día a
+día, ¿verdad? Siguen su ba normal de
+procesos, de lo que tiene que realizar,
+etcétera. Y pues todo eso es costo,
+¿verdad?
+Sí.
+Okay. Bueno, entonces voy a dejar un
+poco por aquí y vamos a ver la tarea que
+tenemos para la próxima semana. Denme un
+momento, ahorita se los voy a compartir.
+Igual todo esto está en la plataforma,
+ahí se los voy a dejar
+un momento. Tar dos. Okay.
+Solo vamos a dar admisión a Roberto
+Javier.
+Un momentito, por favor.
+Okay. Bueno, les voy a compartir
+entonces la tarea para esta semana.
+Aquí vamos a hacer eh un modelo de
+amenazas completo utilizando una
+herramienta WAS, ¿verdad? Que esa es yo
+creo que esa todavía es gratuita
+y el alcance va a ser eh vamos a ver una
+tendría que hacer alguna arquitectura de
+solución. Ahorita vamos a ver este
+segundo punto, ¿verdad? Lo que es es lo
+wasasp, pero lo que vamos a hacer es eh
+hacer el análisis de todos estos puntos
+que están aquí, los componentes,
+aplicaciones web,
+¿verdad? Eh, APIs y servicios de
+integración, bases de datos,
+infraestructura, etcétera. Sí, vamos a
+levantar una arquitectura,
+diagramas, ¿verdad? Eh, identificar
+activos críticos, componentes. ¿Y qué es
+lo que vamos a hacer ahí? pues entregar
+el inventario componentes de activos y
+arquitectura. También vamos a hacer,
+¿verdad?, lo que estamos viendo hace un
+momento, lo que es el DFD, ¿verdad? Eh,
+el WAS, pues ahí tiene una opción para
+poder realizar ese DFD. El nivel cero,
+conexión de contexto general de la
+aplicación, los sistemas externos,
+¿verdad?, relacionados, porque ahí
+definitivamente vamos a llevar una
+integración. Sí. Usuarios internos
+externos, nivel uno, los procesos
+principales, almacenes de datos, o sea,
+las bases de datos, ¿verdad? El número
+tres vamos a ver cuando apliquen la
+descomposición detallada de componentes
+críticos, integraciones bancarias,
+medbor o APIs. Esto como les vuelvo a
+repetir cuando aplique. Si ustedes
+tienen, por ejemplo, alguna plataforma
+que dentro de su plataforma vayan a
+hacer algún tipo de transferencia o
+dentro de su plataforma van a hacer
+alguna transacción monetaria. Sí.
+Y aquí están las evidencias. el DFT.
+Aquí en el tercer punto vamos a tener
+amenazas mediante Stripe, que es todo lo
+que acabamos nosotros de validar. Sí,
+vamos a ver revisar flujo de datos,
+analizar cada proceso. Por eso les decía
+yo de que estos dibujos son los que más
+me van a ayudar a mí para comenzar a
+definir eso que les estamos pidiendo.
+¿Ven?
+Aquí está pasta, aquí está el stripe,
+aquí está el cuadrito de evaluación de
+strike, que es lo que nos está pidiendo
+de este lado. Sí, miren, aquí va el
+spoofing, el tampering, repugation. Sí.
+Entonces, para eso me sirve a mí la
+presentación para poder elaborar dentro
+de la selección que ustedes elijan,
+¿verdad?, del aplicativo. Van a ir a van
+a ir a considerar todos estos puntos.
+Sí, las evaluaciones y privaciones de
+riesgo. Ese ya lo vimos.
+los casos de abuso, ¿verdad? Eso
+nuevamente están aquí, ¿verdad? Sí.
+Vois case.
+Aquí está de este lado.
+Sí.
+Controles de seguridad, ¿verdad?,
+¿cuáles son los controles que le vamos a
+colocar a las aplicaciones? Pues el MFA,
+¿verdad? la autenticación multifactor,
+gestión de sesiones, validación de
+entradas, cifrados, etcétera. La gestión
+de sesiones, ¿verdad? Ustedes
+recuérdense pues que al final si una
+sesión no la están utilizando, lo más
+idóneo es que ustedes puedan colocar un
+timing ahí y cortar la sesión. Si
+ustedes miran inactivo la sesión
+durante, por ejemplo, 15 minutos. A los
+15 minutos ustedes no miran que estén
+haciendo alguna transacción o algo por
+el estilo, le damos corte a la sesión,
+¿verdad? Pero la sesión no se puede
+quedar abierta siempre, ¿verdad? Si son
+APIs, ¿verdad? Vamos a colocar un out
+2.0,
+tenemos un right de liming, ¿verdad? Y
+el API gateway security.
+Pregunta del millón. Todos tenemos eh
+pues al final, ¿qué es un API Gateway?
+Sí, tenemos definido que es un API
+Gateway
+o tienen dudas que es un API Gateway.
+Levanten la mano. ¿Quién tiene dudas?
+Todos sabemos que es un API Gateway.
+Y Inge,
+sí, sí, sí.
+Es es el servidor que funciona como
+punto de entrada para conectarse al app.
+Okay. Sí, sí. El App Gateway a mí me
+gusta definirlo más como que fuera un
+bolsón, ¿verdad? Donde están todas las
+APIs que tiene la empresa, ¿verdad? Para
+que puedan ser utilizadas o invocadas,
+¿verdad?, en cualquier plataforma que
+necesite. ¿Sí? Entonces, el App Gateway
+al final pues está dividido en varias
+capas, como usted dice, ¿verdad? Es un
+servidorcito donde ahí puedo encontrar
+yo todas las APIs que tengo disponibles.
+Y claro que por supuesto ahí van pues
+los eh datos necesarios para cada uno de
+ellos, para qué sirve cada una de las
+APIs, eh la estandarización de cada una
+de ellas, ¿verdad? Y ahí pues software
+intermedio que me ayuda a balancear esas
+APIs. Sí, pero ahí puedo ir a encontrar
+en el API Gateway toda ese bolsón de
+APIs que puede tenemos disponibles,
+¿verdad? para para poder consumirles.
+Sí.
+Okay.
+Tenemos el monitoreo,
+las evidencias requeridas y aquí van los
+entregables. Sí, creo que, muchachos, eh
+aquí está la tarea número uno, ¿verdad?
+Para para nosotros. Eso lo voy a dejar
+publicado yo ahí en la plataforma de la
+universidad para que ustedes lo puedan
+leer y pues a pesar, ¿verdad, muchachos?
+De que ustedes tengan la inteligencia
+artificial para poder crear esta
+esta tarea, ¿verdad? Al final es un
+secreto a voces, por favor, lo que sí
+les pido es que puedan analizar,
+¿verdad?
+el agarren una aplicación y puedan
+analizar ustedes qué consideraciones
+de seguridad le podemos colocar,
+¿verdad?, en la etapa de diseño de esa
+aplicación. Creo que al final nos va a
+servir, ¿verdad?, para comenzar a
+validar. Ah, mira, por ejemplo, yo no le
+tengo un MFA a eso y pues entonces sí
+debo de considerar poder poder e
+eh por ejemplo colocar, ¿verdad? O mirá,
+eh, cuáles son los que
+también un momento
+eh por ejemplo múltiples factores de
+identificación puede ser la tokenización
+en una en una banca móvil, por ejemplo,
+una aplicación de de teléfono. Sí,
+porque el para la tokenización
+necesitamos publicar, ¿verdad?, la el
+aplicativo en las diferentes tiendas y
+ustedes saben que pues no es lo mismo
+publicarlas en una tienda, por ejemplo,
+de de ¿cómo se llama? De Apple que una
+tienda de Android, ¿verdad? Son muy
+diferentes, ¿verdad? Las tiendas de
+Apple, pues al final se toma su tiempo,
+¿verdad? Para poder evaluar esa
+aplicación que quieren publicar en la
+tienda de de Apple como tal. Sí. eh pasa
+por una serie de evaluaciones, criterios
+y al final ellos les dicen si aprueban o
+no aprueban el poder publicarlos ahí en
+su store. Sí.
+Entonces, nuevamente esto lo vamos a
+ver, lo voy a dejar publicado ahí en la
+plataforma para que ustedes lo puedan eh
+lo puedan visualizar. Sí.
+Okay. Otra situación también en la
+plataforma les voy a dejar ya lo que es
+e
+el proyecto final. Déjenme ver
+si se lo puedo compartir de una vez y lo
+explicamos.
+El proyecto final. Este proyecto Finan
+sí nosotros lo vamos a realizar en
+grupo. Sí, se los voy a compartir
+ahí. Me dicen si pueden visualizar.
+Sí, lo visualizan. Si lo ven.
+Sí, sí se ve.
+Ah, okay. Excelente. Bueno, ¿qué es lo
+que vamos a hacer como proyecto final?
+El proyecto final lo vamos a ir
+entregando por fases, ¿verdad? para que
+no les agarre el tiempo y estén
+corriendo a última hora. Sí. Bueno,
+entonces aquí va a ser evaluación,
+rediseño, implementación de seguridad
+continua en aplicaciones Cloud, ¿verdad?
+Cloud Native, que puede ser web o móvil
+o mobile.
+Entonces, número uno, lo primero que
+tenemos que hacer es ustedes eligen qué
+proyecto quieren, ¿verdad? ¿Cuáles son
+los escenarios? Número uno, va a ser un
+escenario web móvil, ¿verdad? una
+aplicación mobile banking fintech lo
+verdader fintech también donde pues al
+final vamos a tener que
+hacerle ciertas consideraciones a
+ciertas hacerles ciertas evaluaciones.
+Esa es la opción A si lo queremos hacer
+móvil.
+Y la opción B es hacer un e-commerce
+web, no hacerlo, ¿verdad? Sino
+evaluarlo. Sí. Eh, aquí están las
+descripciones, ¿verdad? una plataforma
+web basada en CMS, ¿verdad? Open source.
+Eh, aquí tenemos algunos puntos
+críticos, tenemos el W, ¿verdad? La
+estructura eh, pues que va a tener las
+fases de proyectos va a ser lo
+siguiente. Número uno, fase uno, la
+planificación y requisitos.
+Fase dos, diseño arquitectónico. Fase
+tres, desarrollo y de cops. Número
+cuatro, verificación y ciberdefensa.
+Fase Co, despliegue y fase seis,
+operaciones de seguridad.
+Entonces, aquí va descrito qué es lo que
+vamos a validar en cada una de las
+fases. Tal vez no se las voy a leer,
+¿verdad? Voy a dejar que por grupo
+puedan eh unificarse, ¿verdad? y leer
+aquí lo que estamos solicitando, pero
+conforme nosotros vayamos viendo eh pues
+las clases, ¿verdad? Vamos a ir
+desarrollando todo esto. Miren, aquí por
+ejemplo ya va la modelado el stride y el
+dirit.
+El derrite nos falta por ver el riesgo
+de siete capas.
+Todo eso también lo vamos a ver en una
+clase. El diseño arquitectónico, diseño
+seguro, ciber defensa.
+Sí. Todo eso lo vamos a ir viendo poco a
+poco y conforme nosotros vayamos eh
+viendo temas, lo más adecuado es que
+usted de una vez estén realizando cada
+uno de estos puntos. La matriz de
+puderación también va aquí, ¿verdad? Que
+cada uno de los entregables tiene cierta
+puntuación, análisis de riesgos,
+arquitectura,
+ciberdefensa,
+¿verdad? Aquí va para un total de 20
+puntos. Aquí va la estructura también
+del entregable. ¿Verdad? Donde va la
+carátula, introducción, desarrollo del
+contenido, algo bien importante y es el
+primero. Por favor, como es en grupo, va
+a ir el nombre y número de carnet de
+cada uno de ustedes. Ojo al dato. Si hay
+algún compañero del grupo que no quiere
+participar o no colabora, simplemente no
+lo colocan. Sí. No lo colocan ahí en la
+carátula, ¿sí? Entonces, eso me indica a
+mí de que el compañero no colaboró.
+Pero ojo al dato, este es doble riesgo
+también, porque si a ustedes se les
+olvida colocar a un compañero que sí
+trabajó y no lo colocan en la cadátula,
+recuérdense la primera regla, ¿verdad?,
+de que si no lo colocan es porque yo
+automáticamente estoy indicando de que
+no trabajó. Sí. Entonces, eso es bien
+importante, se los repito, porque
+siempre, ¿verdad? Por el momento, pues
+llevamos un récord ahí de que cada vez
+que les digo que va el nombre y número
+de carnet en la carátula,
+siempre hay un grupo que se le olvida
+más de alguien. Sí. Entonces, eh
+por favor tomen en consideración eso.
+Y eh aquí van algunas tolkits de
+referencia que pueden utilizar, pero
+prácticamente en lo que e vamos a
+calificar todo esto que tenemos aquí.
+Sí, como les vuelvo a repetir, van a ser
+fases entregables y todo esto pues al
+final vamos a
+vamos a evaluarlo eh o vamos a
+entregarlo, ¿verdad? Perdón, por
+pochitos. Sí.
+Okay. Entonces, todo eso lo voy a subir
+en un momento a la plataforma, por
+favor. E de alguna manera
+vamos a hacer lo siguiente. Ya los
+compañeros, ahorita vamos a pasar a otro
+punto. Sí, el otro punto es, sí, me
+interesa que comencemos a e
+generar los grupos de trabajo. Ya hay
+algunos compañeros, ¿verdad?, que ya
+tienen grupo de trabajo y me lo mandaron
+a mi correo electrónico. Esta en esta
+vez pues yo voy a comenzar a publicarlos
+ahí en la plataforma, pero entiendo de
+que ahora hay más compañeros que
+ingresaron, ¿verdad? Entonces, por
+favor, por afinidad, los que ya están
+formados en grupo, pues no se preocupen,
+ya voy a colocar los que me mandaron al
+correo, pero los que todavía no tienen
+grupo y quieren hacer grupos por
+afinidad, les voy a dar ahorita unos 5 o
+10 minutos para que puedan formar sus
+grupos de trabajo. Son de cinco eh
+integrantes a seis máximo. Sí. Entonces,
+por favor, para que lo puedan formar.
+Las personas que no conozcan a nadie y
+no tengan grupo de trabajo o algo por el
+estilo, levanten la mano, por favor, y
+así los vamos a ir asignando al resto de
+los grupos. ¿Sí?
+Entonces, por favor, los compañeros que
+no tengan o no conozcan a alguien, por
+favor, levanten la mano y yo les voy a
+asignar un grupo de trabajo. Sí.
+Okay, entonces vamos a dedicar unos 5,
+10 minutos, ¿verdad? Para que eh podamos
+ir armando esos grupos de trabajo,
+¿correcto?
+Okay, entonces yo ya estoy viendo aquí a
+cuatro compañeros que no tienen grupo,
+que es Darwin, Carmen, Axel y Herbert.
+Por favor, hagan un grupo de trabajo.
+Sí, ya van cuatro y en un momento van a
+salir más compañeros, van a ver y los
+voy a comenzar a complementar, pero eh
+utilicen el chat de aquí, incluso de la
+sesión por si van a hacer algún grupo en
+WhatsApp o en Telegram, qué sé yo,
+¿verdad? para que eh puedan eh
+unificarse. Sí,
+Darwin, Carmen, Axel y Herbert.
+Una pregunta.
+Dígame.
+La actividad, o sea, la tarea que dejó
+hoy es en grupo.
+La de hoy no, esa es individual.
+Ah, es individual.
+Esa va a ser individual. Incluso ahí en
+la plataforma, ¿verdad? Las
+instrucciones va a indicar de que es
+individual.
+Okay.
+Bueno, tal vez entonces ya Darwin, Axel
+y Herbert
+e
+ya pueden bajar la manita. ¿Alguien más,
+muchachos, que necesite grupo de
+trabajo?
+Esvin, ¿cuántos integrantes les hacen
+falta?
+Este, no. Buenas noches, ingeniero.
+Nosotros solo somos dos. Eh,
+anteriormente había armado tres, pero ya
+no se pronunció el otro compañero.
+Vaya, un es al grupo que acabamos de
+formar ahorita con Axel, Carmen, Herbert
+y ahí están los seis
+porque os son cuatro, ¿verdad? Y ustedes
+dos son seis cabal. Entonces, por favor,
+ahí Herbert, Carmen y Axel
+y Darwin también, ¿verdad? Eh,
+consideren a Esbin y a su compañero en
+su grupo y ahí están complementados ya
+los seis.
+Yo voy a dejar aquí nuevamente les voy a
+poner mi correo electrónico. Dímelo
+todo eso, por favor, me lo mandan,
+me [carraspeo] mandan eh el grupo,
+¿verdad? Nombre y número de carnet, me
+lo mandan a mi correo electrónico. Sí,
+por favor.
+Ahí [carraspeo] les puse
+[carraspeo]
+ahí les puse mi correo electrónico para
+que me manden el grupo. Sí.
+Y para los otros compañeros que ya
+ahorita están formando su grupo, también
+mándenme los grupos creados el día de
+hoy a mi correo electrónico. Eh, esta
+semana voy a subir entonces en un
+apartado los grupos que están formados y
+nuevamente, ¿verdad? Si hay algún
+compañero que todavía no tiene grupo,
+entonces los vamos a ir incluyendo
+en el en los grupos ya creados. Sí.
+¿De cuántos tenía que ser el grupo?
+Disculpe,
+de cinco cinco o seis. Cinco.
+Nosotros nosotros creamos uno hoy, pero
+habemos 1 2 3 cu 5 se habemos. No hay
+problema, ¿verdad?
+No hay problema. Mándenmelo a correo.
+Muy bien. Gracias.
+Claro, siempre habá nombre y número de
+carnet.
+Okay.
+Bueno, excelente, muchachos. Yo ahorita
+entonces voy a comenzar a subir toda la
+información para que ustedes la tengan
+ahí disponible y puedan leer eh la
+información, puedan leer la tarea. Si
+tienen alguna duda o consulta respecto a
+la tarea, no duden en escribirme eh para
+poderles solventar cualquier duda.
+Mi consejo, ¿verdad?, es que, por
+ejemplo, hay compañeros que se dedican
+más al desarrollo y otros compañeros que
+se dedican más a la infraestructura,
+¿verdad? Entonces, los compañeros de
+infra creo que son los que eh van a van
+a tener un poquito más de de
+ánimo por aprender, ¿verdad?, que los
+compañeros que ya dominan el desarrollo
+de de cómo se llama, eh el desarrollo de
+aplicaciones. Sí. Entonces, los
+compañeros que desarrollan, hay que
+echarle la mano a los compañeros de
+Infra, ¿verdad? Para sobrevitarles
+dudas. De mi lado, yo no me enojaría si
+ustedes se quieren reunir para hacer la
+la tarea. Lo que sí les encargo es que
+no sean iguales, ¿verdad? Eh, tampoco
+les encargo, por favor, que si van a
+utilizar la sea para consultas, sea para
+complementar cierta información, pero
+que no sea un copy paste de lo que es la
+tarea como tal. Sí. Eh, al final se nota
+cuando es una IA ustedes y cuando no se
+nota, ¿verdad? Entonces sí quisiera por
+favor de que tuvieras un poquito de
+conciencia de qué es lo que estamos
+entregando. También el copy paste es eh
+a veces no es muy aceptado, ¿verdad?
+Traten la manera de colocar ustedes
+inspiración propia dentro de los
+trabajos que estamos dejando. Sí, no
+solo es un copy paste, sino fomentemos
+eso, ¿verdad? Ustedes de el lado
+investigativo y comenzar a a crear su
+propia redacción. Sí, eso les va a
+servir bastantes. Y nuevamente, ¿verdad?
+Los compañeros de desarrollo, pues eh si
+algún compañero de Infra tiene alguna
+duda, pues aquí está el catedrático que
+los puede ayudar, pero si ustedes tienen
+la opción de echarles la mano, pues en
+bien enhorabuena, bienvenidos. Sí,
+gracias.
+Bueno, yo diría, muchachos, que eh lo
+vamos a dejar ahí y voy a comenzar a
+colgar la información y si alguno de
+ustedes tiene alguna duda o consulta,
+pues estamos a la orden. Sí.
+Yeah.
