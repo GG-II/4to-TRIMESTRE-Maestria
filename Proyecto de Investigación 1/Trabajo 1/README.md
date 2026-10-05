@@ -12,7 +12,7 @@
 ## Antes de entregar
 1. **Revisar el texto reescrito** y confirmar que todo suena a tu redacción. El docente pidió que no sea copy-paste y que el uso de IA sea transparente. El documento no incluye declaración de IA, por indicación del autor.
 2. **Abrir cada fuente** y comprobar autor, año, título y cifra citada. Los sitios originales no se pudieron abrir desde el entorno de trabajo; los datos se tomaron de resultados de búsqueda que coinciden entre sí.
-3. **Revisar el diseño en Word y PowerPoint.** No se pudo ver renderizado.
+3. **Actualizar el índice en Word:** clic derecho sobre la tabla de contenido y *Actualizar campo → toda la tabla*. Los números de página que trae son estimados. Luego revisar el diseño en Word y PowerPoint; no se pudo ver renderizado.
 4. **Grabar el video** con la presentación y el guion.
 5. **Exportar el documento a PDF** y subir a Canvas: PDF, presentación y video.
 
