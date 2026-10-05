@@ -1,0 +1,2952 @@
+{
+  "version": "2.4.0",
+  "summary": {
+    "title": "ParaBank – Modelo de amenazas (Tarea 2)",
+    "owner": "[Tu nombre y carnet]",
+    "description": "Modelo STRIDE de ParaBank (Parasoft) basado en el código público https://github.com/parasoft/parabank commit 13cc8d4c. Niveles 0, 1 y 2.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "[Tu nombre]"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Nivel 0 – Contexto",
+        "diagramType": "STRIDE",
+        "placeholder": "Nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": [
+          {
+            "position": {
+              "x": 330,
+              "y": 30
+            },
+            "size": {
+              "width": 340,
+              "height": 420
+            },
+            "attrs": {
+              "text": {
+                "text": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "39d52ad2-13da-50ae-a934-ca6fe34eeb42",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 750,
+              "y": 150
+            },
+            "size": {
+              "width": 240,
+              "height": 140
+            },
+            "attrs": {
+              "text": {
+                "text": "TB3 – Aplicación | Proveedores externos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "2ee1d6ae-20ea-5787-bff9-ec0be0dbae5b",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB3 – Aplicación | Proveedores externos",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 60,
+              "y": 40
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Cliente (navegador web)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "071b0c01-b789-5f4b-bc44-2db588d55cd7",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Cliente (navegador web)",
+              "description": "Usuario final que opera su banca en línea desde un navegador. (Navegador)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 60,
+              "y": 190
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Sistema integrador (cliente API)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "c3170441-c2ef-5607-a26a-bdd808e7778e",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Sistema integrador (cliente API)",
+              "description": "Aplicación externa que consume los servicios SOAP/REST. (HTTP SOAP/REST)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 60,
+              "y": 340
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Administrador / operador"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "f8cb7cf5-e553-5a88-be70-18dacd75c0d7",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Administrador / operador",
+              "description": "Persona que configura la demo: parámetros, base de datos, JMS. (Navegador)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 410,
+              "y": 190
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "ParaBank (aplicación web + servicios SOAP/REST)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "060bb1ca-560c-507b-88ec-055005cd3df3",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "ParaBank (aplicación web + servicios SOAP/REST)",
+              "description": "Sistema completo bajo análisis. (Tomcat, Spring, CXF, HyperSQL, ActiveMQ)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": false,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 790,
+              "y": 190
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Proveedor externo de préstamos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "ebd471e4-c856-51f4-936d-7cd9c12dc6d7",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Proveedor externo de préstamos",
+              "description": "Sistema que aprueba o rechaza solicitudes de préstamo (WS/JMS). (ConfigurableLoanProvider)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "b00081e7-d469-5fe6-9ba8-25f608e62646",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Operaciones bancarias (HTTP)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "071b0c01-b789-5f4b-bc44-2db588d55cd7"
+            },
+            "target": {
+              "cell": "060bb1ca-560c-507b-88ec-055005cd3df3"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Operaciones bancarias (HTTP)",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "fed3a291-8895-5a36-a27d-ade4e1e77702",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Llamadas SOAP/REST (HTTP)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "c3170441-c2ef-5607-a26a-bdd808e7778e"
+            },
+            "target": {
+              "cell": "060bb1ca-560c-507b-88ec-055005cd3df3"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Llamadas SOAP/REST (HTTP)",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "bc647273-62bb-5ad7-9ca3-4c7c915b261f",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Administración (HTTP)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "f8cb7cf5-e553-5a88-be70-18dacd75c0d7"
+            },
+            "target": {
+              "cell": "060bb1ca-560c-507b-88ec-055005cd3df3"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Administración (HTTP)",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "91b09a1a-7d4b-5539-b111-b9ed052d0aed",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Solicitudes de préstamo (WS/JMS)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "060bb1ca-560c-507b-88ec-055005cd3df3"
+            },
+            "target": {
+              "cell": "ebd471e4-c856-51f4-936d-7cd9c12dc6d7"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Solicitudes de préstamo (WS/JMS)",
+              "description": "Protocolo: WS/JMS. Cruza: TB3.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "WS/JMS",
+              "threats": []
+            }
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Nivel 1 – Procesos, almacenes y fronteras",
+        "diagramType": "STRIDE",
+        "placeholder": "Nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": [
+          {
+            "position": {
+              "x": 230,
+              "y": 10
+            },
+            "size": {
+              "width": 640,
+              "height": 520
+            },
+            "attrs": {
+              "text": {
+                "text": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "2f8d47d7-e8ec-5a8e-ba7d-6fd13798681c",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 870,
+              "y": 10
+            },
+            "size": {
+              "width": 250,
+              "height": 520
+            },
+            "attrs": {
+              "text": {
+                "text": "TB2 – Aplicación | Datos y mensajería"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "ea43685a-5c10-507e-8169-0e8aa0eceeaf",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB2 – Aplicación | Datos y mensajería",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 530,
+              "y": 580
+            },
+            "size": {
+              "width": 260,
+              "height": 140
+            },
+            "attrs": {
+              "text": {
+                "text": "TB3 – Aplicación | Proveedores externos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "65c83e69-939b-596b-b9f4-a835183494f3",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB3 – Aplicación | Proveedores externos",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 30,
+              "y": 40
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Cliente (navegador web)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "b452eb3c-f998-51ef-8910-d2a925c8571f",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Cliente (navegador web)",
+              "description": "Usuario final que opera su banca en línea desde un navegador. (Navegador)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 30,
+              "y": 200
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Sistema integrador (cliente API)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "2efa1837-f457-5326-a6a0-df88adb8c394",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Sistema integrador (cliente API)",
+              "description": "Aplicación externa que consume los servicios SOAP/REST. (HTTP SOAP/REST)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 30,
+              "y": 360
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Administrador / operador"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "d00e0668-6f10-59f2-8521-1a527ffde893",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Administrador / operador",
+              "description": "Persona que configura la demo: parámetros, base de datos, JMS. (Navegador)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 270,
+              "y": 40
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Interfaz web (Spring MVC + JSP)"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "4a2be76a-c6b9-5c08-aeeb-e5dd8a1f9e04",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Interfaz web (Spring MVC + JSP)",
+              "description": "Páginas *.htm; usa LoginInterceptor para las páginas protegidas. (DispatcherServlet, parabank-servlet.xml)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "28cd96bf-f506-52c8-b045-fb40c7abf35d",
+                  "title": "CSRF sobre transferencias y pagos",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Tampering",
+                  "description": "No se encontraron referencias a token anti-CSRF en el código. Una página maliciosa puede hacer que el navegador de la víctima, con sesión activa, envíe un POST a transfer.htm o billpay.htm sin su consentimiento (F01). Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Hipótesis: búsqueda de 'csrf' sin resultados en el código fuente analizado.",
+                  "mitigation": "[Aplicación] Token anti-CSRF por sesión en formularios de escritura; [Aplicación] Cookie SameSite=Lax/Strict; [Aplicación] Reautenticación o OTP para transferencias; [Monitoreo] Alerta de transferencias atípicas",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 10,
+                  "score": ""
+                },
+                {
+                  "id": "8c2527dd-190d-5471-8c64-87d698e969e1",
+                  "title": "Cookie de sesión sin atributos de endurecimiento verificados",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Spoofing",
+                  "description": "No se verificó que JSESSIONID use Secure, HttpOnly y SameSite ni que exista timeout por inactividad; una sesión robada permite suplantar al cliente (F02). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Hipótesis a validar en web.xml y en la configuración de Tomcat.",
+                  "mitigation": "[Aplicación] Cookie Secure/HttpOnly/SameSite, regeneración del ID al autenticar y timeout de 15 minutos; [Monitoreo] Detección de sesiones simultáneas desde orígenes distintos",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 23,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 270,
+              "y": 200
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Servicios SOAP/REST (Apache CXF)"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "35021dd7-2711-5f14-a2bf-85d019a27074",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Servicios SOAP/REST (Apache CXF)",
+              "description": "Endpoints /services/* (JAX-WS y JAX-RS) y /services_proxy/*. (CXFServlet, cxf.xml, ParaBankService)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "1ce2152f-c606-5117-9719-edfc0fe406db",
+                  "title": "Endpoints de mantenimiento expuestos en la API (cleanDB, initializeDB, setParameter, shutdownJmsListener)",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Elevation of Privilege",
+                  "description": "La interfaz de servicio publica operaciones destructivas y de configuración sin mecanismo de autenticación visible en la propia interfaz. Un cliente API externo que cruza TB1 puede borrar datos, reinicializar la BD o apagar la mensajería (F03, F05). Riesgo: impacto Crítico, probabilidad Alta = Crítico. Evidencia: Confirmado la exposición de rutas en ParaBankService. A validar: ausencia de control de acceso en la implementación.",
+                  "mitigation": "[API] Separar la API operativa de la administrativa y exigir token con scope admin en esta última; [API] API Gateway con listas de control de acceso por ruta; [Infraestructura] Segmentación de red: operaciones de mantenimiento solo desde red interna; [Monitoreo] Registro y alerta de invocaciones de mantenimiento",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 4,
+                  "score": ""
+                },
+                {
+                  "id": "0910336b-d3e0-508a-8bc1-4dd9600d9cc7",
+                  "title": "Acceso a cuentas y clientes ajenos mediante identificadores (BOLA/IDOR)",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Information Disclosure",
+                  "description": "Rutas como /accounts/{accountId}, /customers/{customerId} y /transactions/{id} reciben identificadores secuenciales; la interfaz no muestra verificación de que el recurso pertenezca al llamante. Un atacante autenticado o anónimo puede enumerar identificadores y leer datos personales y financieros (F03, F05). Riesgo: impacto Alto, probabilidad Alta = Crítico. Evidencia: Hipótesis a validar con pruebas autorizadas: la interfaz no muestra control de propiedad del recurso.",
+                  "mitigation": "[API] Autorización a nivel de objeto: comparar el ID del recurso con el sujeto del token; [API] Identificadores no predecibles (UUID); [Monitoreo] Alerta por enumeración secuencial de IDs",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 5,
+                  "score": ""
+                },
+                {
+                  "id": "1f8bab75-6f9b-55a9-bb45-fb76376ace45",
+                  "title": "Cabeceras CORS abiertas a cualquier origen",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Information Disclosure",
+                  "description": "ParaBankService está anotado con @CrossOriginResourceSharing(allowAllOrigins = true). Cualquier sitio web puede invocar la API desde el navegador de un usuario autenticado y leer la respuesta (F03). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Confirmado en código (ParaBankService).",
+                  "mitigation": "[API] Lista blanca de orígenes permitidos; [API] No combinar CORS abierto con credenciales",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 14,
+                  "score": ""
+                },
+                {
+                  "id": "e712e019-66c4-5d55-a618-bd38a1f8ab31",
+                  "title": "Denegación de servicio por API sin límites",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Denial of Service",
+                  "description": "Sin rate limiting ni cuotas, un cliente puede saturar Tomcat o la BD con peticiones masivas (F03, F05, F06). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Hipótesis: no se identificó limitación de tasa.",
+                  "mitigation": "[API] Rate limiting y cuotas en el API Gateway; [Infraestructura] Protección anti-DDoS y autoescalado; [Monitoreo] Alertas de picos de tráfico",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 18,
+                  "score": ""
+                },
+                {
+                  "id": "26e8ac1a-a5e1-5a67-90db-8f07f17fe592",
+                  "title": "Procesamiento XML inseguro en servicios SOAP (XXE)",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Elevation of Privilege",
+                  "description": "Los endpoints SOAP procesan XML con JAXB/CXF; si el parser permite entidades externas, un mensaje manipulado puede leer archivos del servidor o provocar SSRF (F03). Riesgo: impacto Alto, probabilidad Baja = Medio. Evidencia: Hipótesis a validar con revisión de la configuración del parser.",
+                  "mitigation": "[API] Deshabilitar DTD y entidades externas en el parser; [API] Validar contra XSD y limitar tamaño de mensaje; [Infraestructura] Egress filtering desde el servidor",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 21,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 270,
+              "y": 360
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Administración y utilidades"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "9da54130-aaff-5db3-b4bd-f8785ac6ef80",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Administración y utilidades",
+              "description": "admin.htm, db.htm, initializeDB.htm, jms.htm y operaciones de mantenimiento. (AdminController, JmsListenerController)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "00bef077-d04d-5fb4-a031-5168e7097c0d",
+                  "title": "Páginas de administración fuera del control de sesión",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Elevation of Privilege",
+                  "description": "El mapeo protegido por LoginInterceptor solo cubre nueve páginas de cliente; admin.htm, db.htm, initializeDB.htm y jms.htm no figuran, por lo que cualquiera que llegue a Tomcat podría cambiar parámetros, reiniciar la BD o detener el listener JMS (F10, F11, F13). Riesgo: impacto Crítico, probabilidad Alta = Crítico. Evidencia: Confirmado en parabank-servlet.xml (secureHandlerMapping). A validar: que no exista otro filtro o regla de red.",
+                  "mitigation": "[Aplicación] Autorización por rol (ADMIN) con deny-by-default en todas las rutas /admin; [Infraestructura] Publicar el módulo administrativo solo en red de gestión o VPN; [Aplicación] MFA para administradores; [Monitoreo] Alertas por acceso a rutas administrativas",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 3,
+                  "score": ""
+                },
+                {
+                  "id": "fc57c284-b32b-5fc2-99a5-e9c59957302c",
+                  "title": "Acciones administrativas sin identidad ni auditoría",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Repudiation",
+                  "description": "Como el módulo administrativo no exige autenticación, los cambios de parámetros, reinicios de BD y paradas de JMS no pueden atribuirse a una persona (F10, F11, F13). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Consecuencia de T03; a validar.",
+                  "mitigation": "[Aplicación] Cuentas nominales con roles para administración; [Monitoreo] Log centralizado de acciones administrativas hacia el SIEM",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 16,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": false,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 570,
+              "y": 200
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Lógica de negocio y DAO"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "670ff293-e547-569b-8749-39ba2a0af4d5",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Lógica de negocio y DAO",
+              "description": "BankManager, AdminManager y capa DAO JDBC. (domain.logic, dao.jdbc)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "a68a02bc-64be-55aa-9049-610533117e4e",
+                  "title": "Falta de no repudio en transacciones",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Repudiation",
+                  "description": "Las transacciones no llevan firma ni sello de tiempo verificable del cliente; si este niega una operación, el banco solo cuenta con su propio registro (F04, F12). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Hipótesis: no se hallaron firmas ni confirmación fuerte de operaciones.",
+                  "mitigation": "[Aplicación] Confirmación con OTP o firma para operaciones relevantes; [Monitoreo] Bitácora de auditoría con hash encadenado y sincronización de tiempo",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 15,
+                  "score": ""
+                },
+                {
+                  "id": "c9fc2a61-e825-5609-ac83-16d34d574a0a",
+                  "title": "Dependencias de terceros sin gestión de vulnerabilidades",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Elevation of Privilege",
+                  "description": "La aplicación depende de Spring, CXF, WSS4J, ActiveMQ y Tomcat. Una vulnerabilidad conocida en cualquiera permite ejecución remota o escalamiento sin tocar el código propio. Riesgo: impacto Alto, probabilidad Baja = Medio. Evidencia: Riesgo general de cadena de suministro; verificable con SCA sobre pom.xml.",
+                  "mitigation": "[Aplicación] SCA en el pipeline (OWASP Dependency-Check) y SBOM; [Infraestructura] Parcheo periódico de Tomcat y ActiveMQ",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 22,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": false,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 570,
+              "y": 380
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Procesador de préstamos"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "d41315e4-314a-5bd0-9e51-0837b6d0e9cf",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Procesador de préstamos",
+              "description": "LoanProcessor con umbral configurable y listener JMS. (AbstractLoanProcessor, JmsLoanProcessor)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "3c78905c-7b90-5aa6-862e-b3798ab2ce06",
+                  "title": "Alteración del umbral de aprobación de préstamos y del modo de acceso",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Tampering",
+                  "description": "loanProcessorThreshold y accessmode se leen de la tabla Parameter y pueden modificarse con setParameter o admin.htm. Combinado con las amenazas de acceso administrativo, un atacante puede forzar aprobaciones fraudulentas de préstamos (F13). Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Confirmado el uso del parámetro en AbstractLoanProcessor; la explotación depende de T03 y T04.",
+                  "mitigation": "[Aplicación] Cambios de parámetros críticos con doble aprobación (cuatro ojos); [Aplicación] Rangos válidos y límites máximos para el umbral; [Monitoreo] Alerta y auditoría de cambios de parámetros",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 13,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": false,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 900,
+              "y": 40
+            },
+            "size": {
+              "width": 180,
+              "height": 70
+            },
+            "attrs": {
+              "text": {
+                "text": "Base de datos HyperSQL"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "92c45e39-af23-599d-a38d-152667712f7f",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Store",
+              "name": "Base de datos HyperSQL",
+              "description": "Tablas Customer, Account, Transaction, Positions, Parameter, News. (jdbc:hsqldb:hsql://localhost/parabank (9001))",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "fba882cf-78a6-50b9-8bbb-9faed8fc473c",
+                  "title": "Contraseñas y SSN almacenados sin protección criptográfica",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Information Disclosure",
+                  "description": "La tabla Customer guarda password y ssn y el login compara el valor directamente en SQL (username = ? AND password = ?), lo que implica almacenamiento en texto claro. Una lectura de la BD (por ejemplo vía T01 o por el puerto 9001) expone credenciales y datos de identidad (F06). Riesgo: impacto Crítico, probabilidad Media = Alto. Evidencia: Confirmado en código (JdbcCustomerDao: BASE_QUERY_SQL y consulta de login).",
+                  "mitigation": "[Aplicación] Hash con Argon2id o bcrypt con sal por usuario; [Infraestructura] Cifrado de columnas sensibles (SSN) y gestión de claves en bóveda; [Monitoreo] Alertas por consultas masivas sobre Customer",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 6,
+                  "score": ""
+                },
+                {
+                  "id": "c6c5f917-9323-51d8-81fa-595cb8971ad3",
+                  "title": "Cuenta sa sin contraseña y puerto HyperSQL 9001 accesible",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Spoofing",
+                  "description": "jdbc.properties define jdbc.username=sa con contraseña vacía y el servidor HyperSQL escucha por TCP (9001). Cualquier host con alcance de red puede conectarse como administrador de la BD y saltar toda la lógica de la aplicación (F06, F11). Riesgo: impacto Crítico, probabilidad Media = Alto. Evidencia: Confirmado en jdbc.properties y README (puerto 9001).",
+                  "mitigation": "[Infraestructura] Cuenta de aplicación con privilegios mínimos y contraseña robusta en bóveda de secretos; [Infraestructura] Segmentación: BD accesible solo desde el servidor de aplicaciones; [Infraestructura] Hardening: deshabilitar la cuenta sa por defecto; [Monitoreo] Logging de conexiones a la BD",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 7,
+                  "score": ""
+                }
+              ],
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": true,
+              "storesInventory": false
+            }
+          },
+          {
+            "position": {
+              "x": 900,
+              "y": 220
+            },
+            "size": {
+              "width": 180,
+              "height": 70
+            },
+            "attrs": {
+              "text": {
+                "text": "Broker ActiveMQ"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "4ed8fc40-3683-5a0e-8269-b460b9799a4e",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Store",
+              "name": "Broker ActiveMQ",
+              "description": "Colas de solicitud y respuesta de préstamos. (applicationContext-jms.xml (61616))",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "b042dd09-35cf-58a4-bfc5-76cc9d5a415b",
+                  "title": "Broker ActiveMQ en 0.0.0.0:61616 sin autenticación configurada",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Tampering",
+                  "description": "El broker se publica en todas las interfaces y la configuración no declara plugin de autenticación ni autorización. Un tercero puede inyectar o leer mensajes de solicitud y respuesta de préstamos que cruzan TB2 (F08). Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Confirmado en applicationContext-jms.xml (transportConnector tcp://0.0.0.0:61616; sin plugin de seguridad en ese bloque).",
+                  "mitigation": "[Infraestructura] Enlazar el broker a localhost o red interna y exigir TLS; [Aplicación] Autenticación y ACL por cola; [Aplicación] Firmar los mensajes de préstamo; [Monitoreo] Alertas de conexiones y mensajes anómalos",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 8,
+                  "score": ""
+                }
+              ],
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false
+            }
+          },
+          {
+            "position": {
+              "x": 900,
+              "y": 400
+            },
+            "size": {
+              "width": 180,
+              "height": 70
+            },
+            "attrs": {
+              "text": {
+                "text": "Bitácoras (log4j2)"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "52eeb5d5-43d1-5677-8b38-cfb08a3e21e6",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Store",
+              "name": "Bitácoras (log4j2)",
+              "description": "Registros de la aplicación. (log4j2.xml)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "e2f99066-0bc9-5c8b-9784-18d20debb1f5",
+                  "title": "Bitácoras modificables y con datos sensibles",
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Tampering",
+                  "description": "Los logs de log4j2 se escriben en archivo local sin protección de integridad; un atacante con acceso al host puede borrar rastros, y los registros pueden contener identificadores de clientes (F12). Riesgo: impacto Medio, probabilidad Baja = Bajo. Evidencia: Hipótesis: configuración de log4j2 por defecto.",
+                  "mitigation": "[Monitoreo] Envío en tiempo real a un SIEM con almacenamiento de solo anexado; [Aplicación] Enmascarar datos personales en logs",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 17,
+                  "score": ""
+                }
+              ],
+              "isALog": true,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false
+            }
+          },
+          {
+            "position": {
+              "x": 570,
+              "y": 620
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Proveedor externo de préstamos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "894fc8a8-f95d-50bb-ba1e-9bce8e477de7",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Proveedor externo de préstamos",
+              "description": "Sistema que aprueba o rechaza solicitudes de préstamo (WS/JMS). (ConfigurableLoanProvider)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "b38c6a59-9944-516b-b6ad-73faa88c02fa",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Credenciales y operaciones bancarias"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "b452eb3c-f998-51ef-8910-d2a925c8571f"
+            },
+            "target": {
+              "cell": "4a2be76a-c6b9-5c08-aeeb-e5dd8a1f9e04"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Credenciales y operaciones bancarias",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": [
+                {
+                  "id": "c349e224-eb1d-5b48-8c8e-44939c0f4aac",
+                  "title": "Tráfico HTTP sin TLS: credenciales y cookie de sesión interceptables",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Information Disclosure",
+                  "description": "El despliegue por defecto en Tomcat usa HTTP. Los flujos F01, F02, F03 y F10 cruzan la frontera de Internet con Provides Confidentiality = No e Integrity = No, de modo que un atacante en la ruta puede leer credenciales y cookie JSESSIONID o modificar montos. Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Supuesto de despliegue por defecto; depende de la instalación.",
+                  "mitigation": "[Infraestructura] TLS 1.2+ obligatorio con redirección y HSTS; [Aplicación] Cookie con Secure y HttpOnly; [Monitoreo] Monitoreo de certificados y de suites débiles",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 9,
+                  "score": ""
+                }
+              ]
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "997208ad-0871-530e-986e-6f1406f44d67",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Páginas y cookie de sesión"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "4a2be76a-c6b9-5c08-aeeb-e5dd8a1f9e04"
+            },
+            "target": {
+              "cell": "b452eb3c-f998-51ef-8910-d2a925c8571f"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Páginas y cookie de sesión",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "09936b32-38fd-56b2-8e8f-8587ea6edebd",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Peticiones SOAP/REST (login en URL, transferencias)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "2efa1837-f457-5326-a6a0-df88adb8c394"
+            },
+            "target": {
+              "cell": "35021dd7-2711-5f14-a2bf-85d019a27074"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Peticiones SOAP/REST (login en URL, transferencias)",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "b5284a68-04cd-5fa3-86a3-bd9e2f46af80",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Invocación interna"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "4a2be76a-c6b9-5c08-aeeb-e5dd8a1f9e04"
+            },
+            "target": {
+              "cell": "670ff293-e547-569b-8749-39ba2a0af4d5"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Invocación interna",
+              "description": "Protocolo: In-process. Cruza: -.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
+              "protocol": "In-process",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "2fa8b875-1937-5b17-8785-9dd4604e1046",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Invocación interna"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "35021dd7-2711-5f14-a2bf-85d019a27074"
+            },
+            "target": {
+              "cell": "670ff293-e547-569b-8749-39ba2a0af4d5"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Invocación interna",
+              "description": "Protocolo: In-process. Cruza: -.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
+              "protocol": "In-process",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "e37ef5eb-9f85-55ec-935a-f30d1c5a81f1",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Consultas y actualizaciones JDBC"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "670ff293-e547-569b-8749-39ba2a0af4d5"
+            },
+            "target": {
+              "cell": "92c45e39-af23-599d-a38d-152667712f7f"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Consultas y actualizaciones JDBC",
+              "description": "Protocolo: JDBC/TCP 9001. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JDBC/TCP 9001",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "1e65d123-253c-57bc-b983-a96343bd7f2f",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Solicitud de préstamo"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "670ff293-e547-569b-8749-39ba2a0af4d5"
+            },
+            "target": {
+              "cell": "d41315e4-314a-5bd0-9e51-0837b6d0e9cf"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Solicitud de préstamo",
+              "description": "Protocolo: In-process. Cruza: -.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
+              "protocol": "In-process",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "a6c268d6-c294-5678-b7f2-66a9f3ec5d96",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Mensajes JMS de solicitud y respuesta"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "d41315e4-314a-5bd0-9e51-0837b6d0e9cf"
+            },
+            "target": {
+              "cell": "4ed8fc40-3683-5a0e-8269-b460b9799a4e"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Mensajes JMS de solicitud y respuesta",
+              "description": "Protocolo: JMS/TCP 61616. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JMS/TCP 61616",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "red",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "916b7382-3ce2-589e-bbdc-4b492af07366",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Consulta de aprobación al proveedor"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "d41315e4-314a-5bd0-9e51-0837b6d0e9cf"
+            },
+            "target": {
+              "cell": "894fc8a8-f95d-50bb-ba1e-9bce8e477de7"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Consulta de aprobación al proveedor",
+              "description": "Protocolo: WS/JMS. Cruza: TB3.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "WS/JMS",
+              "threats": [
+                {
+                  "id": "ba679d6c-a74b-51df-a807-c341cbe04f88",
+                  "title": "Suplantación del proveedor de préstamos o respuesta falsa",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Spoofing",
+                  "description": "La respuesta del proveedor cruza TB3 por WS/JMS; sin autenticación mutua ni firma, un tercero puede responder aprobaciones falsas. Riesgo: impacto Alto, probabilidad Baja = Medio. Evidencia: Hipótesis: depende de la configuración del proveedor.",
+                  "mitigation": "[API] TLS mutuo y firma de mensajes con validación de correlación; [Monitoreo] Conciliación de aprobaciones contra el proveedor",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 20,
+                  "score": ""
+                }
+              ]
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "f384fdf0-d102-5529-a994-49c23cc1b6d2",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Parámetros, initializeDB, cleanDB, JMS"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "d00e0668-6f10-59f2-8521-1a527ffde893"
+            },
+            "target": {
+              "cell": "9da54130-aaff-5db3-b4bd-f8785ac6ef80"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Parámetros, initializeDB, cleanDB, JMS",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "5b442f23-7f2a-581e-8180-aa9b6a2e58cc",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Reinicio de datos y parámetros"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "9da54130-aaff-5db3-b4bd-f8785ac6ef80"
+            },
+            "target": {
+              "cell": "92c45e39-af23-599d-a38d-152667712f7f"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Reinicio de datos y parámetros",
+              "description": "Protocolo: JDBC/TCP 9001. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JDBC/TCP 9001",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "921a6358-7149-58c9-9862-d58155a694e8",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Eventos de la aplicación"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "670ff293-e547-569b-8749-39ba2a0af4d5"
+            },
+            "target": {
+              "cell": "52eeb5d5-43d1-5677-8b38-cfb08a3e21e6"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Eventos de la aplicación",
+              "description": "Protocolo: Archivo. Cruza: -.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
+              "protocol": "Archivo",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "cd8c712d-32fd-5de2-82d7-2d3ad643a37d",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Arranque/parada del listener y umbral"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "9da54130-aaff-5db3-b4bd-f8785ac6ef80"
+            },
+            "target": {
+              "cell": "d41315e4-314a-5bd0-9e51-0837b6d0e9cf"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Arranque/parada del listener y umbral",
+              "description": "Protocolo: In-process. Cruza: -.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
+              "protocol": "In-process",
+              "threats": []
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Nivel 2 – API de servicios y procesador de préstamos",
+        "diagramType": "STRIDE",
+        "placeholder": "Nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": [
+          {
+            "position": {
+              "x": 260,
+              "y": 10
+            },
+            "size": {
+              "width": 280,
+              "height": 590
+            },
+            "attrs": {
+              "text": {
+                "text": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "5cb801ff-7ea5-5b43-9e83-881bffa9226a",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB1 – Internet / zona no confiable | Aplicación (Tomcat)",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 910,
+              "y": 10
+            },
+            "size": {
+              "width": 250,
+              "height": 520
+            },
+            "attrs": {
+              "text": {
+                "text": "TB2 – Aplicación | Datos y mensajería"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "5a0bb49e-d66d-5d97-aa63-558125be38f9",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB2 – Aplicación | Datos y mensajería",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 600,
+              "y": 600
+            },
+            "size": {
+              "width": 260,
+              "height": 140
+            },
+            "attrs": {
+              "text": {
+                "text": "TB3 – Aplicación | Proveedores externos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "strokeDasharray": "9 9"
+              }
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "2c593563-8258-5c09-bbd7-a6892e3d8a8c",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Boundary",
+              "name": "TB3 – Aplicación | Proveedores externos",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 30,
+              "y": 200
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Sistema integrador (cliente API)"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "0b26097d-9e3e-5314-a6f6-6cc0b3e1d491",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Sistema integrador (cliente API)",
+              "description": "Aplicación externa que consume los servicios SOAP/REST. (HTTP SOAP/REST)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "position": {
+              "x": 300,
+              "y": 40
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Autenticación y sesión"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "85c9cb1a-dd99-586d-9b01-b4ee3f38c85a",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Autenticación y sesión",
+              "description": "LoginController, LoginInterceptor y GET /login/{username}/{password}. (LoginController, Util.isLoggedIn)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "f2205ebc-f3db-51b5-8485-a493f11e0cdb",
+                  "title": "Credenciales viajan en la URL (GET /login/{usuario}/{contraseña})",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Information Disclosure",
+                  "description": "El servicio REST recibe usuario y contraseña como segmentos de la ruta. Al cruzar TB1 quedan en el historial del navegador, en logs de Tomcat, proxies y cabeceras Referer, aun si el canal fuera cifrado. Riesgo: impacto Alto, probabilidad Alta = Crítico. Evidencia: Confirmado en código (@Path(\"/login/{username}/{password}\") en ParaBankService).",
+                  "mitigation": "[API] Autenticar con POST y cuerpo, o con OAuth 2.0/OIDC con tokens de corta vida; [Infraestructura] Excluir rutas sensibles del registro de acceso y de proxies; [Monitoreo] Detección de credenciales en logs (DLP)",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 2,
+                  "score": ""
+                },
+                {
+                  "id": "78b14af5-451b-55e0-9d57-d165d81120ea",
+                  "title": "Fuerza bruta y credential stuffing sobre el login",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Spoofing",
+                  "description": "No se observa limitación de intentos ni bloqueo de cuenta; el login por ruta facilita el scripting masivo (G01, G05). Un atacante con listas de credenciales filtradas puede suplantar clientes legítimos. Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Hipótesis: no se identificó rate limiting ni bloqueo en el código revisado.",
+                  "mitigation": "[Aplicación] MFA y bloqueo progresivo de cuenta; [API] Rate limiting por IP y por usuario en el API Gateway; [Aplicación] Política de contraseñas y verificación contra listas filtradas; [Monitoreo] SIEM con alerta de fallos de login repetidos",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 12,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 300,
+              "y": 180
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Transferencias, depósitos y pago de facturas"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "397a3b56-3c48-59b5-82f4-9a16fbce3cec",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Transferencias, depósitos y pago de facturas",
+              "description": "/transfer, /deposit, /withdraw, /billpay. (ParaBankService, BillPayService)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "0b59e01f-c1f0-5967-9b1f-29d6bf94e0e2",
+                  "title": "Manipulación de monto o cuenta en operaciones monetarias",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Tampering",
+                  "description": "Monto, cuenta origen y destino llegan como parámetros del cliente a /transfer, /deposit, /withdraw y /billpay (G02). Sin validación de negocio en el servidor ni integridad del canal, un atacante puede modificar el monto o ejecutar operaciones en nombre de otro. Riesgo: impacto Alto, probabilidad Media = Alto. Evidencia: Hipótesis a validar: depende de las validaciones de la implementación del servicio.",
+                  "mitigation": "[API] Validación de negocio en el servidor: propiedad de la cuenta, saldo y límites; [API] Firma o HMAC de la solicitud y control de idempotencia; [Infraestructura] TLS en tránsito; [Monitoreo] Reglas antifraude por monto y frecuencia",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 11,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 300,
+              "y": 320
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Gestión de clientes y cuentas"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "18c39d69-797d-59a1-ac20-7bc22bb2f5fe",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Gestión de clientes y cuentas",
+              "description": "/customers/update/{id}, /createAccount. (JdbcCustomerDao)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "cae34b44-c8d3-5feb-8f43-2cfae42703bb",
+                  "title": "Inyección SQL en la actualización de clientes",
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Tampering",
+                  "description": "El DAO arma el UPDATE concatenando customer.getFirstName() dentro de la sentencia; el dato cruza TB1 por POST /customers/update/{id} y llega sin parametrizar al motor HyperSQL (F06/G07). Un atacante puede cerrar la cadena e inyectar SQL que altere o exponga filas de Customer. Riesgo: impacto Alto, probabilidad Muy Alta = Crítico. Evidencia: Confirmado en código (JdbcCustomerDao.updateCustomer; el propio comentario indica que el fallo es intencional). Existe SecureJdbcCustomerDao con parámetros.",
+                  "mitigation": "[Aplicación] Sentencias parametrizadas y uso de SecureJdbcCustomerDao en toda ruta de escritura; [API] Validación de esquema y longitud de campos en el endpoint; [Infraestructura] Cuenta de BD con privilegios mínimos distinta de sa; [Monitoreo] Alerta de WAF/SIEM por patrones de inyección",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 1,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 300,
+              "y": 460
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Solicitud de préstamo"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "3fb377e9-60c2-570d-a39a-c3cb62d7d22e",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Solicitud de préstamo",
+              "description": "/requestLoan que delega en LoanProcessor. (RequestLoanController, LoanProcessor)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": true,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 640,
+              "y": 460
+            },
+            "size": {
+              "width": 180,
+              "height": 90
+            },
+            "attrs": {
+              "text": {
+                "text": "Listener JMS de préstamos"
+              },
+              "body": {
+                "stroke": "red",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "d84b7681-d7ed-582b-aaba-320e39f63cfe",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Process",
+              "name": "Listener JMS de préstamos",
+              "description": "DefaultMessageListenerContainer con 5 consumidores concurrentes. (applicationContext-jms.xml)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": true,
+              "isTrustBoundary": false,
+              "threats": [
+                {
+                  "id": "e7dbe722-e750-5883-9d44-af48348e0441",
+                  "title": "Inundación de solicitudes de préstamo sobre la cola JMS",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Denial of Service",
+                  "description": "El listener usa 5 consumidores concurrentes y el broker no es persistente; una avalancha de solicitudes puede saturar la cola o perder mensajes legítimos (G08, G09). Riesgo: impacto Medio, probabilidad Media = Medio. Evidencia: Confirmado en applicationContext-jms.xml (concurrentConsumers=5; persistent=false).",
+                  "mitigation": "[Aplicación] Límite de solicitudes por cliente y tamaño de cola; [Infraestructura] Cola persistente y dead-letter queue; [Monitoreo] Alertas de profundidad de cola",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 19,
+                  "score": ""
+                }
+              ],
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": true,
+              "isWebApplication": false,
+              "privilegeLevel": ""
+            }
+          },
+          {
+            "position": {
+              "x": 950,
+              "y": 150
+            },
+            "size": {
+              "width": 180,
+              "height": 70
+            },
+            "attrs": {
+              "text": {
+                "text": "Base de datos HyperSQL"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "5e5ac43d-04a9-5437-83f5-8208bc2a8a96",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Store",
+              "name": "Base de datos HyperSQL",
+              "description": "Tablas Customer, Account, Transaction, Positions, Parameter, News. (jdbc:hsqldb:hsql://localhost/parabank (9001))",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": true,
+              "storesInventory": false
+            }
+          },
+          {
+            "position": {
+              "x": 950,
+              "y": 330
+            },
+            "size": {
+              "width": 180,
+              "height": 70
+            },
+            "attrs": {
+              "text": {
+                "text": "Broker ActiveMQ"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "1f3abe3b-35d3-5404-94cb-9857d3522bff",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Store",
+              "name": "Broker ActiveMQ",
+              "description": "Colas de solicitud y respuesta de préstamos. (applicationContext-jms.xml (61616))",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false
+            }
+          },
+          {
+            "position": {
+              "x": 640,
+              "y": 640
+            },
+            "size": {
+              "width": 160,
+              "height": 80
+            },
+            "attrs": {
+              "text": {
+                "text": "Proveedor externo de préstamos"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "bcf79bbc-ebc0-5b38-b839-c39e47a3832c",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Proveedor externo de préstamos",
+              "description": "Sistema que aprueba o rechaza solicitudes de préstamo (WS/JMS). (ConfigurableLoanProvider)",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isTrustBoundary": false,
+              "threats": [],
+              "providesAuthentication": false
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "7ddc882a-1789-5120-b73b-2e3179dd6e32",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "GET /login/{usuario}/{contraseña}"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "0b26097d-9e3e-5314-a6f6-6cc0b3e1d491"
+            },
+            "target": {
+              "cell": "85c9cb1a-dd99-586d-9b01-b4ee3f38c85a"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "GET /login/{usuario}/{contraseña}",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "e3f012a2-8cd3-51ed-b5f0-8b7daae02f45",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "POST /transfer, /billpay, /deposit"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "0b26097d-9e3e-5314-a6f6-6cc0b3e1d491"
+            },
+            "target": {
+              "cell": "397a3b56-3c48-59b5-82f4-9a16fbce3cec"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "POST /transfer, /billpay, /deposit",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "aa55ec90-2b40-53fd-ac23-7e509f175f96",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "POST /customers/update/{id}"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "0b26097d-9e3e-5314-a6f6-6cc0b3e1d491"
+            },
+            "target": {
+              "cell": "18c39d69-797d-59a1-ac20-7bc22bb2f5fe"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "POST /customers/update/{id}",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "72b5ef9d-b6ed-5f76-8ff5-b4cc488b4ab3",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "POST /requestLoan"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "0b26097d-9e3e-5314-a6f6-6cc0b3e1d491"
+            },
+            "target": {
+              "cell": "3fb377e9-60c2-570d-a39a-c3cb62d7d22e"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "POST /requestLoan",
+              "description": "Protocolo: HTTP. Cruza: TB1.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "HTTP",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "680c780c-20c6-5fab-a84c-a3e822927d26",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "SELECT ... WHERE username=? AND password=?"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "85c9cb1a-dd99-586d-9b01-b4ee3f38c85a"
+            },
+            "target": {
+              "cell": "5e5ac43d-04a9-5437-83f5-8208bc2a8a96"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "SELECT ... WHERE username=? AND password=?",
+              "description": "Protocolo: JDBC/TCP 9001. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JDBC/TCP 9001",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "20407797-5e98-513f-9417-a29aff71c347",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "INSERT/UPDATE Transaction y Account"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "397a3b56-3c48-59b5-82f4-9a16fbce3cec"
+            },
+            "target": {
+              "cell": "5e5ac43d-04a9-5437-83f5-8208bc2a8a96"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "INSERT/UPDATE Transaction y Account",
+              "description": "Protocolo: JDBC/TCP 9001. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JDBC/TCP 9001",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "e9035c2e-a2d6-5e52-85d1-4ae9a539a1c6",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "UPDATE Customer (concatenación de first_name)"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "18c39d69-797d-59a1-ac20-7bc22bb2f5fe"
+            },
+            "target": {
+              "cell": "5e5ac43d-04a9-5437-83f5-8208bc2a8a96"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "UPDATE Customer (concatenación de first_name)",
+              "description": "Protocolo: JDBC/TCP 9001. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JDBC/TCP 9001",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "d3adb86c-a283-5e6c-b9c6-7b1031b26d73",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Mensaje LoanRequest"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "3fb377e9-60c2-570d-a39a-c3cb62d7d22e"
+            },
+            "target": {
+              "cell": "1f3abe3b-35d3-5404-94cb-9857d3522bff"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Mensaje LoanRequest",
+              "description": "Protocolo: JMS/TCP 61616. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JMS/TCP 61616",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "046b8756-41e6-59ac-b6fb-6894efb614cf",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Entrega a consumidores"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "1f3abe3b-35d3-5404-94cb-9857d3522bff"
+            },
+            "target": {
+              "cell": "d84b7681-d7ed-582b-aaba-320e39f63cfe"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Entrega a consumidores",
+              "description": "Protocolo: JMS/TCP 61616. Cruza: TB2.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "JMS/TCP 61616",
+              "threats": []
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 2,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "vertices": [],
+            "id": "d6050f91-ad54-5199-ae90-3901df6a2dec",
+            "labels": [
+              {
+                "position": 0.5,
+                "attrs": {
+                  "label": {
+                    "text": "Consulta al proveedor"
+                  }
+                }
+              }
+            ],
+            "source": {
+              "cell": "d84b7681-d7ed-582b-aaba-320e39f63cfe"
+            },
+            "target": {
+              "cell": "bcf79bbc-ebc0-5b38-b839-c39e47a3832c"
+            },
+            "data": {
+              "type": "tm.Flow",
+              "name": "Consulta al proveedor",
+              "description": "Protocolo: WS/JMS. Cruza: TB3.",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": true,
+              "protocol": "WS/JMS",
+              "threats": []
+            }
+          }
+        ]
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "",
+    "threatTop": 23
+  }
+}
