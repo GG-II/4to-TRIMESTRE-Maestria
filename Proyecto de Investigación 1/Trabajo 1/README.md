@@ -10,7 +10,7 @@
 | `Figuras/` | Los dos árboles en PNG, por si se necesitan aparte |
 
 ## Antes de entregar
-1. **Reescribir con palabras propias.** El docente pidió que no sea copy-paste y que el uso de IA sea transparente. El documento incluye una declaración sobre el uso de IA: ajústala para que refleje lo que realmente hiciste.
+1. **Revisar el texto reescrito** y confirmar que todo suena a tu redacción. El docente pidió que no sea copy-paste y que el uso de IA sea transparente. El documento no incluye declaración de IA, por indicación del autor.
 2. **Abrir cada fuente** y comprobar autor, año, título y cifra citada. Los sitios originales no se pudieron abrir desde el entorno de trabajo; los datos se tomaron de resultados de búsqueda que coinciden entre sí.
 3. **Revisar el diseño en Word y PowerPoint.** No se pudo ver renderizado.
 4. **Grabar el video** con la presentación y el guion.
