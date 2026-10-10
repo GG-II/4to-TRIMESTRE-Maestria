@@ -1,0 +1,89 @@
+Hola, me ayudarías con los dos cursos de este trimestre?
+
+Claro, con gusto. Primero reviso qué hay en el repositorio para ver los cursos.
+
+¡Hola! Ya revisé el repositorio. Esto es lo que encontré:
+
+Seguridad de Aplicaciones (carpeta Seguridad de Aplicaciones/)
+
+Dos presentaciones de clase: la Semana 1 y la Semana 2.
+Tarea 2 (Tarea 2 SA.pdf): elaborar un modelo de amenazas completo con OWASP Threat Dragon. Pide:
+levantamiento de arquitectura;
+DFD de niveles 0, 1 y 2, con trust boundaries;
+análisis STRIDE;
+matriz de riesgos y top 10;
+casos de abuso;
+controles de seguridad;
+roadmap de mejoras;
+archivo JSON de Threat Dragon.
+
+Proyecto de Investigación 1 (carpeta Proyecto de Investigación 1/)
+
+No encontré material propio de este curso. La carpeta solo tiene una guía, un resumen y una transcripción de video, y todos tratan de Seguridad en Aplicaciones, no de investigación.
+
+Para avanzar necesito saber:
+
+¿Qué quieres que haga primero? Por ejemplo, la Tarea 2 completa o el resumen de las presentaciones.
+¿Qué aplicación o servicio quieres modelar? La tarea menciona integraciones bancarias, pero no define el sistema. Si no tienes uno, puedo proponer un caso, como una app de banca en línea.
+¿Qué se pide en Proyecto de Investigación 1? Si tienes el enunciado, la rúbrica o el tema, súbelo al repositorio o pégalo aquí.
+
+Con la Tarea 2 puedo generar el informe en Markdown con las tablas y los casos de abuso, y el archivo .json del modelo para importarlo en Threat Dragon. No puedo exportar el PDF desde la herramienta ni sacar las capturas de los DFD, así que esas dos evidencias tendrás que generarlas tú al importar el JSON.
+
+La tarea 2- Que es lo que se pide hacer en pocas palabras?
+
+En pocas palabras: hacer un modelo de amenazas de una aplicación crítica (por ejemplo, banca en línea) usando OWASP Threat Dragon.
+
+Los pasos son:
+
+Arquitectura: listar componentes y activos de información, e identificar qué datos son sensibles.
+DFD en Threat Dragon: dibujar diagramas de nivel 0 (contexto), 1 (procesos, almacenes y flujos) y 2 (detalle de lo crítico). Deben incluir entidades externas, procesos, almacenes, flujos y límites de confianza.
+STRIDE: identificar amenazas de Spoofing, Tampering, Repudiation, Information Disclosure, DoS y Elevation of Privilege sobre cada elemento del DFD.
+Priorizar riesgos: cruzar impacto y probabilidad para armar una matriz de riesgos y un top 10.
+Casos de abuso: para las amenazas críticas y altas, documentar el atacante, el vector, el impacto y los controles preventivo, detectivo y correctivo.
+Controles: asignar controles por amenaza (MFA, OAuth, rate limiting, segmentación, SIEM, etc.).
+Roadmap: plan de remediación a corto (0-3 meses), mediano (3-6) y largo plazo (6-12).
+
+Entregables:
+
+Informe del modelo de amenazas.
+El JSON de Threat Dragon con los diagramas exportados.
+La matriz de riesgos y remediación.
+El roadmap.
+
+La guía del repositorio agrega que cada amenaza marcada como Mitigated o Not Applicable necesita una justificación técnica concreta, por ejemplo “consultas parametrizadas con ORM”. Una frase genérica como “los programadores tienen cuidado” se penaliza. También pide configurar bien las propiedades de los flujos, como HTTPS con confidencialidad e integridad en Yes.
+
+¿Quieres que la haga con un caso de banca en línea?
+
+Las presentaciones no decían nada sobre las tareas y documentos? No lleva índice?
+
+Reviso con cuidado qué dicen las presentaciones, el Trabajo No. 1, los lineamientos y la clase sobre tareas, documentos e índice.
+
+Las presentaciones casi no definen las tareas (ignorar lo de la lámina según el docente); el formato real viene del PDF “Trabajo No. 1” y los Lineamientos (carta, márgenes 2.54 cm, Times New Roman 12, interlineado 1.5, sangría, justificado, APA 7, numeración por secciones), aunque la tabla de contenido con numeración romana se exige solo para el anteproyecto. Como no está prohibida y sigue los mismos Lineamientos, la agregaré al Trabajo No. 1 para evitar un posible descuento.
+
+El índice funciona bien, pero noto que “Planteamiento del problema” se repite como sección y subsección. Voy a renombrar la sección principal a “Planteamiento y formulación del problema”, como figura en la Sesión 2.
+
+Agregué la tabla de contenido al documento y lo subí al repositorio.
+
+Qué dicen realmente los materiales
+Las presentaciones casi no tratan las tareas. La Sesión 1 solo avisa que habrá una tarea individual cada dos semanas, y la Sesión 2 repite el aviso y la ponderación. El docente además dijo que se ignore la tarea de la lámina.
+Lo que define el trabajo es el PDF “Trabajo No. 1”: la presentación, el documento en PDF y el video. No fija extensión ni exige índice.
+El formato sale de los Lineamientos (carta, márgenes de 2.54 cm, Times New Roman 12, interlineado 1.5, APA 7). Hablan del anteproyecto, que sí lleva tabla de contenido. La carátula, según la clase, aplica a las tareas.
+
+Como el índice no está prohibido y su costo es bajo, lo incluí.
+
+Cambios en el documento
+Tabla de contenido después de la carátula, con los títulos y subtítulos.
+Numeración por secciones, como piden los Lineamientos:
+la carátula sin número;
+el índice en romano minúscula (ii);
+el contenido en arábigo desde 1, arriba a la derecha.
+Renombré la sección principal a “Planteamiento y formulación del problema”, que es como se llama la tarea en la Sesión 2. Así el título ya no se repite en el índice.
+Importante antes de entregar
+
+Los números de página del índice son estimados. Al abrir el archivo, Word puede preguntar si quieres actualizar los campos: responde que sí. Si no pregunta, haz clic derecho sobre el índice y elige Actualizar campo → toda la tabla.
+
+No pude ver el diseño renderizado, así que revisa en Word que el índice quepa en una página y que la numeración cambie de romano a arábigo donde corresponde.
+
+Pendiente
+
+La presentación y el guion siguen sin tu nueva redacción. Dime si quieres que los alinee con lo que escribiste.

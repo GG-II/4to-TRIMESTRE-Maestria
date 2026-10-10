@@ -1,0 +1,14 @@
+{
+  "fecha": "2026-10-07 19:57",
+  "duracionProyecto": 1940.8452473000002,
+  "opciones": {
+    "tipo": "Gameplay",
+    "minutosMin": 8,
+    "minutosMax": 12,
+    "instrucciones": "",
+    "acelerar": true,
+    "silenciarAcelerado": true,
+    "reglasCanal": "- Empieza directo en la acción o en un gancho: nada de saludos largos, “¿me escuchan?”, cargas de mundo, problemas técnicos ni preparación.\r\n- Excluye conversaciones personales o privadas aunque sean graciosas: vida amorosa, parejas, ex, familia, salud, dinero, escuela o trabajo, y cualquier dato personal.\r\n- Excluye charla que no tenga que ver con el juego ni con la historia, problemas técnicos (lag, micrófono, Discord, OBS), silencios, AFK y grindeo repetitivo.\r\n- Mantén el hilo: antes de cambiar de lugar o de actividad, conserva de 1 a 3 frases que digan a dónde van o qué van a hacer. Si no existen, propón un texto de resumen.\r\n- No cortes a mitad de una idea, chiste o reacción: incluye el remate.\r\n- Termina con el clímax o con un cierre o suspenso claro.",
+    "contexto": []
+  }
+}

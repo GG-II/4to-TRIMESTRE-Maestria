@@ -58,7 +58,7 @@ Para delimitar el problema uso la técnica del embudo. En el nivel macro, el pan
 
 ## Lámina 10: Planteamiento del problema
 
-El problema central es que los equipos de desarrollo de empresas medianas del área metropolitana integran de forma limitada y poco documentada la seguridad en su ciclo de desarrollo. Hay tres deficiencias en el conocimiento: no hay datos locales, los factores organizacionales se han estudiado menos que los tecnológicos y faltan instrumentos adaptados a nuestro contexto.
+El problema central es que los equipos de desarrollo de empresas medianas del área metropolitana integran de forma limitada y sin documentar la seguridad en su ciclo de desarrollo. Hay tres deficiencias en el conocimiento: no hay datos locales, los factores organizacionales se han estudiado menos que los tecnológicos y faltan instrumentos adaptados a nuestro contexto.
 
 ## Lámina 11: Árbol de problemas
 

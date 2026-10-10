@@ -1,0 +1,1079 @@
+[0:31:15] en este mismo formato.
+[0:31:17] Yo muchas veces les he regresado porque
+[0:31:19] no lo hacen bien, pero por lo menos en
+[0:31:22] mi curso no da no se da ese problema. Yo
+[0:31:24] tengo ahí todavía el listado de temas de
+[0:31:28] mis compañeros maestrandos del año 2024
+[0:31:31] que yo impartí o 2023. En algún año de
+[0:31:35] esos yo impartí ese curso y ahí están
+[0:31:38] los temas de investigación bien
+[0:31:39] detallados.
+[0:31:41] Estos señores tuvieron que haber hecho
+[0:31:42] un protocolo impecable. O eso espero
+[0:31:45] porque yo les di las directrices y
+[0:31:48] tenían que hacerlo. No hubo queja.
+[0:31:51] Entonces espero que sea exactamente
+[0:31:54] igual con ustedes, por favor. Entonces
+[0:31:57] aquí están. Lo voy a borrar porque
+[0:31:59] parece que estuve tachando eso, pero
+[0:32:01] realmente no estuve tachando, estuve eh
+[0:32:04] señalando cómo es que va el asunto.
+[0:32:11] Estamos claros.
+[0:32:17] Okay.
+[0:32:21] Ejecución de los objetivos específicos.
+[0:32:24] Esto ya cambia. Ya estamos hablando
+[0:32:28] de tres objetivos. Miren que el árbol de
+[0:32:31] problemas me dio. Bueno, aquí tengo eh
+[0:32:34] dos problemas. Eh
+[0:32:38] ah no, es que es aquí.
+[0:32:41] Estos problemas se se convirtieron en
+[0:32:43] objetivos,
+[0:32:48] respaldos, políticas y personal sin
+[0:32:50] capacitación.
+[0:32:52] Un sistema de respaldo periódico
+[0:32:55] y recuperación en los servicios
+[0:32:57] institucionales para garantizar la
+[0:32:58] disponibilidad de la información
+[0:33:00] crítica. Si no tienen un lindo
+[0:33:02] proyectos, no solo de investigación, se
+[0:33:04] van a ver resultados.
+[0:33:06] Pueden hasta vender ustedes una
+[0:33:08] herramienta si quieren y hasta plata les
+[0:33:09] pueden dar. ¿Por qué no? ¿Ustedes se
+[0:33:11] dedican a eso? Pues sí, ¿por qué no? Ah,
+[0:33:15] ¿qué qué qué sistema de respaldos van a
+[0:33:18] implementar?
+[0:33:20] Pues el que le convenga más. Ustedes
+[0:33:22] tienen que tener ya un su un su plan, un
+[0:33:24] su portafolio de ventas, productos que
+[0:33:26] ofrecen gratis, pagado, empresas, todo,
+[0:33:29] ¿verdad?
+[0:33:32] Va a ser va se va a respaldar.
+[0:33:35] ¿Qué herramienta van a usar? Va a ser un
+[0:33:38] respaldo full, incremental, diferencial,
+[0:33:41] con deduplicación a cinta, a disco, a la
+[0:33:45] nube, nivel de retención, replicación,
+[0:33:48] políticas de restauración. ¿Qué van a
+[0:33:51] hacer ustedes ahí? Pues ahí tienen ya un
+[0:33:54] una investigación en un lugar donde no
+[0:33:56] existe un sistema de respaldos.
+[0:33:59] Políticas políticas de seguridad de la
+[0:34:01] información, eso es un poco más
+[0:34:02] complicado de hacer. Primero ir a ver al
+[0:34:05] inventario de activos, porque ese es un
+[0:34:06] problema. Muchas veces los activos ya
+[0:34:08] están y ustedes se dan cuenta en las
+[0:34:10] empresas quizá ya hasta tienen ese
+[0:34:13] activo, esa política, pero no la usan.
+[0:34:15] Pero en el caso que no que no exista,
+[0:34:18] pues se empiezan a trabajar las
+[0:34:20] políticas, ¿verdad? tienen el ISO 27001,
+[0:34:22] los controles y empiezan a meterlos y ya
+[0:34:26] ver la la auditoría y todo eso, los
+[0:34:28] empiezan a implementar, los que aplican
+[0:34:30] o no hacen su matriz de viabilidad. Si
+[0:34:34] no es matriz de viabilidad, a mí se me
+[0:34:37] olvidan los nombres, se me cruzan los
+[0:34:39] nombres. Déjenme ver cómo se llama esa
+[0:34:42] matriz.
+[0:34:49] Justamente del ISO.
+[0:34:52] de aplicabilidad, si es que aplica o no.
+[0:34:55] So bueno, entonces ya lo tienen ahí, ya
+[0:34:59] tienen las políticas de de respaldos, ya
+[0:35:03] están las políticas para la
+[0:35:04] implementación
+[0:35:06] de seguridad de la información,
+[0:35:08] ponen sus auditorías, cada cuánto las
+[0:35:11] van a hacer, se va a se va a ser
+[0:35:12] certificable o no, qué controles van a
+[0:35:15] poner, se hace la inversión, se
+[0:35:18] desarrolla un proyecto para
+[0:35:19] implementación, porque eso de políticas
+[0:35:22] eh no es solo de de hacerlas, hay
+[0:35:25] implementar un un ISO es un rollo y eso
+[0:35:30] pues es un proyecto. Así que este
+[0:35:33] proyecto es enorme.
+[0:35:35] Solo este proyecto con este objetivo
+[0:35:37] específico es enorme, lleva meses, quizá
+[0:35:40] años. Si ustedes van a hacer eso, tienen
+[0:35:43] que hacerlo para algo pequeño y tienen
+[0:35:45] que hacerlo midiendo su tiempo. Por eso
+[0:35:47] es que se hace la viabilidad, ¿verdad?
+[0:35:50] Vamos a hacer esta investigación y vamos
+[0:35:53] a descubrir y miden ustedes como como
+[0:35:56] eso toman nota de los datos de antes,
+[0:35:59] las cifras de los ataques de Ramsonware,
+[0:36:02] cuánta plata se perdió, cuántos fueron
+[0:36:04] los afectados, cómo fueron afectados.
+[0:36:07] Después de implementar esto, tienen que
+[0:36:09] tomarse su tiempo para ver los números,
+[0:36:12] cuánto disminuyó,
+[0:36:14] cuánta plata ya ya ya hay más disponible
+[0:36:18] y también cuánto se gastó, ¿verdad?
+[0:36:20] Porque también eh ese es un un problema
+[0:36:25] que se que se puede dar si no se si no
+[0:36:29] se toma en cuenta, ¿verdad? Entonces, eh
+[0:36:32] para eso
+[0:36:36] tienen que alguien está intentando
+[0:36:39] ingresarme
+[0:36:58] ver algo.
+[0:37:00] que se me borró.
+[0:37:23] Se me borró un documento que yo les iba
+[0:37:26] a presentar hoy. Déjenme encontrarlo
+[0:37:29] otra vez porque yo lo estaba listo para
+[0:37:32] subir, que era lo del protocolo.
+[0:37:37] ¿Cómo fue que pasó? Yo no sé, pero pasó.
+[0:37:58] Ahorita voy, jóvenes.
+[0:38:01] Se perdió.
+[0:38:09] Lo voy a descargar nuevamente.
+[0:38:47] Ahorita continuamos, jóvenes.
+[0:38:51] Eso no debió de haber pasado.
+[0:39:12] Ahorita le doy entrada afuera.
+[0:39:24] Ya está el documento.
+[0:39:26] ¿Dónde estaba?
+[0:39:28] Pueden apagar su micrófono, por favor.
+[0:39:38] Bien, les decía que tenemos que hacer un
+[0:39:42] análisis
+[0:39:43] de factibilidad también, pero ver cuánto
+[0:39:47] se va a gastar para ese proyecto, eso no
+[0:39:49] es no más. Ahí no estamos hablando de
+[0:39:56] de de cuando estamos hablando de
+[0:39:57] ventajas, de medir tiempos, de medir
+[0:40:00] métricas, de medir dinero, tenemos que
+[0:40:02] hacer un costo total de propiedad para
+[0:40:05] ese proyecto, no solo la inversión
+[0:40:07] inicial, sino que ver cuánto va a costar
+[0:40:10] de mantenimiento, si realmente va a ser
+[0:40:12] de beneficio, ¿verdad? Yo no les voy a
+[0:40:14] pedir todo eso, pero sí por lo menos eh
+[0:40:19] que las políticas disminuyan, ¿verdad? O
+[0:40:21] sea, tiene que ser factible y viable
+[0:40:23] para la empresa, la empresa se los va a
+[0:40:26] pedir, ¿no? Bueno, campañas de
+[0:40:29] concienciación digital.
+[0:40:31] Este, digamos que es un enorme camote.
+[0:40:34] Este se puede conseguir.
+[0:40:38] Este es el más fácil de todos. campañas
+[0:40:42] más fácil de implementar, sí, pero el
+[0:40:45] más difícil de que cumplan, porque la
+[0:40:48] gente está estuda. Y cambiar una cultura
+[0:40:51] es es muy complicado. Entonces, eh esos
+[0:40:56] tres objetivos son para un proyecto de
+[0:40:57] un año más o menos. Ustedes calculan
+[0:41:00] poder hacer uno de estos. Búsquense algo
+[0:41:02] a la medida, pero tampoco que sea
+[0:41:04] chiquito.
+[0:41:06] Entonces, ¿estamos claros hasta ahorita?
+[0:41:15] Sí, ingeniero. Todo bien.
+[0:41:19] Y qué bueno que apareció su documento.
+[0:41:22] Ya ya no sé cómo borré cosas yo. Pues
+[0:41:25] pasan
+[0:41:27] hasta en las mejores familias. Miren,
+[0:41:29] una vez me pasó
+[0:41:31] eh la peor pesadilla de un informático
+[0:41:35] es un delite sin sin rollback.
+[0:41:39] Y un
+[0:41:41] sin.
+[0:41:44] A mí me pasó
+[0:41:46] un delite sin
+[0:41:48] un delite de de él dije yo. Va.
+[0:41:51] Dijo un we sin wear.
+[0:41:53] Ah, torpe.
+[0:41:56] Perdonen jóvenes. Cruzo palabras.
+[0:41:59] Eh, un delite sin me pasó con unos cubos
+[0:42:02] gerenciales.
+[0:42:04] Resulta que los meros tatascanes de esa
+[0:42:06] compañía multinacional miraban ese
+[0:42:08] reporte y su servidor lo burro.
+[0:42:13] Dios mío,
+[0:42:15] sentí frío ese día, buenas.
+[0:42:18] Pero yo es que tengo una obsesión con
+[0:42:21] liberar espacio. Siempre que borro cosas
+[0:42:23] y me meto en problemas, eh, siempre
+[0:42:26] borro con shift delite, todo. Y así
+[0:42:29] pasaba a base de datos.
+[0:42:31] Sentí escalofríos. Le dije a mi jefe,
+[0:42:34] como él no conocía la magnitud, esos
+[0:42:37] eran clientes internos míos del área del
+[0:42:40] departamento. Él sabía que estaba ese
+[0:42:43] programa, esas aplicaciones, pero él
+[0:42:47] dijo, "Ha, al vino no lo maneja." Dijo,
+[0:42:49] "Ahí se lo dejo a él." Cuando le comenté
+[0:42:52] solo me dijo, "Vos lo vas a solucionar."
+[0:42:55] Miren jóvenes,
+[0:42:58] yo ya estaba preparado
+[0:43:00] para la para enfrentar cárcel, jóvenes,
+[0:43:04] porque eso se iba a convertir en una
+[0:43:05] demanda. Era información clave, era
+[0:43:09] información clave de la empresa. Dije,
+[0:43:12] si salgo corriendo la Patagonia, no voy
+[0:43:14] a llegar ahorita. Como aquel inglés loco
+[0:43:17] que salió justamente de la Patagonia
+[0:43:19] para ir a su tierra de Inglaterra. Ya
+[0:43:21] lleva como 10 años o más.
+[0:43:24] Bueno,
+[0:43:25] a mi paso creo que me hubieran atrapado
+[0:43:28] ahí por la frontera, ¿verdad?
+[0:43:30] Pero
+[0:43:33] estuve pensando muchas cosas.
+[0:43:37] Me relajé,
+[0:43:39] me senté,
+[0:43:42] me eché un par de cervezas,
+[0:43:45] me fui a la casa, seguí echando
+[0:43:47] cervezas, no sentí, era
+[0:43:51] viernes,
+[0:43:53] ya el lunes con con cabeza fría
+[0:43:57] eh, ya pensé y empecé a investigar que
+[0:44:02] podía hacer. Resulta que era una eh una
+[0:44:05] versión antigua de Excel.
+[0:44:07] y
+[0:44:09] SQL Server
+[0:44:11] 2003, si no estoy mal.
+[0:44:14] Y bueno, empecé a investigar que si un
+[0:44:18] usuario
+[0:44:20] manejaba como esa información siempre se
+[0:44:21] maneja en los archivos de Excel, siempre
+[0:44:24] está fresca.
+[0:44:26] Le fui a pedir, le dije, "Mirá, era
+[0:44:29] cuate mío, mirá vos". Le dije, "pués ver
+[0:44:32] tu tus archivos de Excel, solo que no le
+[0:44:34] vayas a dar actualizar porque me clavas
+[0:44:38] y sí, ¿no? Sí, aquí están y aquí está la
+[0:44:40] información y esta es completa. Sí,
+[0:44:43] entonces vi, pero no me la pasó que era
+[0:44:46] confidencial, aunque yo la manejaba,
+[0:44:49] pero no te la puedo dar." Me dijo, "Si
+[0:44:51] querés sacar algo, mira vos qué hacés."
+[0:44:54] Pero me dio la clave de que había una
+[0:44:56] como, yo no sé qué es, una como memoria
+[0:44:59] interna de Excel
+[0:45:02] y y los cubos. La cosa es que la
+[0:45:04] información estaba ahí, ya no estaba en
+[0:45:07] la base de datos, pero estaba ahí en ese
+[0:45:09] en ese intermedio.
+[0:45:11] Y pasé chambeando hasta que la logré
+[0:45:12] recuperar. Hubo unas tablas que ya no
+[0:45:15] pude, unas que no eran necesarias,
+[0:45:19] pero la información principal, miren,
+[0:45:21] ahí estaba.
+[0:45:23] Gracias a Dios estoy aquí dando clases,
+[0:45:25] miren, porque si no no estuviera aquí.
+[0:45:28] Les juro que esa información de una
+[0:45:29] multinacional
+[0:45:32] era crítica. Me pasó y al final le
+[0:45:36] expliqué a mi jefe, el cuate ni sudó
+[0:45:38] frío. Él también lo hubieran demandado.
+[0:45:40] Él pienso que lo hubieran demandado por
+[0:45:43] ser el encargado y él ni se enteró de
+[0:45:45] que estuvo cerca.
+[0:45:47] Pero
+[0:45:49] obsesión mía con borrar las cosas, no
+[0:45:52] tengan esa mala práctica. Y me he metido
+[0:45:54] en clavos serios con mis con mis cosas,
+[0:45:57] tengo que estar recuperándolas.
+[0:46:00] Y eso que estoy obsesionado con los
+[0:46:01] respaldos. Yo tengo aquí eh cuatro tres
+[0:46:07] discos, uno de 16 teras y dos de ocho
+[0:46:11] cada una.
+[0:46:12] Yo tengo toda mi información personal,
+[0:46:16] películas, música, fotografías, todo lo
+[0:46:19] que yo tengo lo colecciono ahí.
+[0:46:21] Escaneos, trabajo,
+[0:46:23] ordenado, clasificado, ahí está y
+[0:46:27] respaldado. Quizás solo si se cae este
+[0:46:29] edificio, pues pierdo todo, ¿verdad?
+[0:46:33] Pero de lo contrario está yo tengo
+[0:46:35] obsesión con eso. El problema está en
+[0:46:38] que por liberar espacio también tengo
+[0:46:41] obsesión y me han metido gol. Gracias a
+[0:46:45] Dios su documento está una pequeña
+[0:46:48] anécdota que que le sirva de ustedes. No
+[0:46:51] hagan las pendejadas que su catedrático
+[0:46:54] de proyecto de investigación uno.
+[0:46:56] Aprendan de él. No hagan esas muladas,
+[0:46:58] jóvenes, de verdad. Eh, aunque se gaste
+[0:47:03] un poco más el espacio, si van a borrar
+[0:47:05] algo, cercianse si realmente no sirve o
+[0:47:07] si ya lo tienen respaldado. Bien,
+[0:47:11] continuando con la investigación,
+[0:47:15] puente de transformación, caso
+[0:47:16] Ramsonware, siempre sigue mi caso ahí.
+[0:47:21] Si se dan cuenta, el problema es una
+[0:47:22] falla estructural, es un puente, la
+[0:47:24] solución es una solución estructural.
+[0:47:28] Falta de protección adecuada.
+[0:47:29] contraataques de Ramsung mejora la
+[0:47:32] protección contra ataques de Ramsunger.
+[0:47:34] Por eso les decía, una correcta
+[0:47:37] definición de un proyecto de
+[0:47:39] investigación
+[0:47:41] nos da el 80% de la solución.
+[0:47:47] Ya está escrito, ya no tenemos que hacer
+[0:47:49] gran cosa, ya está. Y con los objetivos
+[0:47:52] redactados mejor. Causa políticas
+[0:47:55] desactualizadas, no respaldos. ¿Y cuál
+[0:47:57] era el otro?
+[0:47:58] eraectos, pérdida sensible de
+[0:48:01] información y en este lado actualizar
+[0:48:03] políticas o implementar implementar
+[0:48:05] respaldos y concienciación.
+[0:48:08] Efecto se convierte en un fin, preservar
+[0:48:10] la información, garantizar continuidad
+[0:48:12] operativa.
+[0:48:14] Y aquí está otra vez hablando de lo
+[0:48:17] objetivo general, analizar los factores
+[0:48:20] técnicos y organizacionales asociados a
+[0:48:21] la expuación de incidentes de Ramson en
+[0:48:23] la institución pública X durante 2026.
+[0:48:27] Miren que aquí estamos poniendo un año,
+[0:48:31] estamos poniendo dónde
+[0:48:36] estamos poniendo el tipo de ataque y le
+[0:48:39] estamos poniendo factores técnicos y
+[0:48:41] organizacionales
+[0:48:44] con el propósito con el propósito
+[0:48:47] de identificar oportunidades de
+[0:48:49] fortalecimiento, de capacitación
+[0:48:51] de de fortalecimiento de capacidades de
+[0:48:53] prevención y recuperación. Y aquí ya
+[0:48:56] venimos a de los específicos,
+[0:48:58] identificar vulnerabilidades en
+[0:49:01] infinitivo. Miren las vulnerabilidades
+[0:49:03] técnicas relacionadas con la exposición
+[0:49:05] del Ramson. Ahí tienen que seguir
+[0:49:07] investigando. Se supone que hay
+[0:49:10] objetivos aquí
+[0:49:13] de de de de problemas de causas,
+[0:49:15] ¿verdad?, del árbol. Pero aquí evaluar
+[0:49:19] el estado de los mecanismos de respaldo.
+[0:49:21] Aquí es lo que vamos a hacer ya más
+[0:49:22] detallado.
+[0:49:25] Analizar
+[0:49:27] el grado de actualización de políticas.
+[0:49:30] Aquí se expandió. Estamos hablando de
+[0:49:32] políticas y estamos hallando de
+[0:49:36] prevención y recuperación. Ahí metemos,
+[0:49:39] ah, no, aquí está concientización,
+[0:49:41] concientización
+[0:49:43] del personal respecto a los principales
+[0:49:45] prácticas asociadas con la prevención de
+[0:49:47] ransum y con base a los hallazgos,
+[0:49:49] lineamientos para fortalecer las
+[0:49:51] capacidades. ¿Se dieron cuenta? De ese
+[0:49:54] gran título salieron esos objetivos
+[0:49:56] específicos.
+[0:49:59] Alcance es hasta dónde, qué vamos a
+[0:50:02] delimitar, ¿verdad? una institución
+[0:50:05] pública pública eh es muy grande, van a
+[0:50:10] lógota, es enorme. Mejor eh una una
+[0:50:19] por ejemplo
+[0:50:23] la SAT o tal vez una es que tendría que
+[0:50:26] hacer la SAT porque la SAT están a
+[0:50:29] centrales, ¿verdad? Tal vez sería NASAT,
+[0:50:31] pero por ejemplo
+[0:50:33] si una empresa tiene sucursales, pues
+[0:50:35] hacerlo solo en una sucursal delimitar y
+[0:50:39] y definirlo desde antes, porque si
+[0:50:42] ustedes lo abarcan todos estamos
+[0:50:43] jodidos. Entonces, eh
+[0:50:47] ahí podemos hablar, si quieren
+[0:50:50] departamentos o áreas de la institución
+[0:50:52] en un marco más pequeño o temporal,
+[0:50:55] porque pero siempre cercianse si hubo
+[0:50:58] ataques, porque también muchas veces los
+[0:51:01] alumnos me dicen, "Voy a investigar tal
+[0:51:03] cosa, ataques en tal empresa." Y yo les
+[0:51:06] pregunto, "¿Ya hubo ataques en tal
+[0:51:09] empresa?" No, bueno, entonces busquen
+[0:51:12] una donde sí y donde ya se puedan
+[0:51:15] revisar los números de que ahí hubo
+[0:51:18] ataques, porque si no no se va no vamos
+[0:51:19] a tener un antes y un después. Entonces
+[0:51:25] ahí también podemos excluir
+[0:51:28] algunas eh servidores institucionales,
+[0:51:31] pues o no centrarse y excluir
+[0:51:34] dispositivos móviles o dispositivos o
+[0:51:38] computadoras, ¿no? Incluso PCs o cosas.
+[0:51:43] Eh,
+[0:51:46] la forma de hacerlo es, bueno, aclarar
+[0:51:49] de manera transparente, va, quedar eh
+[0:51:52] dejando fuera expectativas poco
+[0:51:55] realistas. Entonces ahí es eh tienen un
+[0:51:59] pilar de por qué tienen que tener una
+[0:52:02] percepción metodológica para esto.
+[0:52:05] Entonces ahí forman ustedes las
+[0:52:07] fronteras y evitan pues crisis o falta
+[0:52:11] de rigor.
+[0:52:14] Para el ejemplo de Ransonware, muestren
+[0:52:17] ustedes su honestidad y indicar qué es
+[0:52:19] lo que no se va a cubrir en el es un
+[0:52:23] ejemplo.
+[0:52:25] ¿Estamos claros?
+[0:52:29] Claro, in
+[0:52:32] perfecto.
+[0:52:34] Delimitación nuevamente. Temporal, ¿qué
+[0:52:36] periodo? Espacial, dónde, poblacional,
+[0:52:40] quiénes o qué sistemas, conceptual, qué
+[0:52:42] dimensiones del fenómeno, porque solo
+[0:52:44] estamos hablando de Ramsunger, no se van
+[0:52:47] a poner a hablar de otra cosa.
+[0:52:49] Población, los sistemas del área
+[0:52:51] central, espacial, institucional. Bueno,
+[0:52:54] eso es eh eh de sistemas, pues de
+[0:52:58] sistemas y los sistemas del área
+[0:53:00] espacial, eh del área central. Si y
+[0:53:03] espacial, pues ahí el área central,
+[0:53:06] ¿verdad? ¿De qué periodo? 2026.
+[0:53:11] El protocolo de del por qué
+[0:53:13] justificación. ¿Por qué justificación?
+[0:53:17] ¿Por qué van a hacer eso? ¿Verdad?
+[0:53:19] argumentar razones operativas
+[0:53:21] estratégicas por las cuales se debe
+[0:53:22] llevar a cabo la investigación, qué
+[0:53:24] problema se pretende resolver y cuál
+[0:53:26] será su impacto. Entonces, ¿para qué
+[0:53:29] realizar esta investigación? Dice, "¿Y
+[0:53:32] por qué es importante el estudio? ¿Qué
+[0:53:34] valor aportará a la sociedad o al campo
+[0:53:36] de estudio?" Entonces, ahí tienen
+[0:53:39] ustedes
+[0:53:41] la justificación.
+[0:53:43] Entonces, para el ejemplo de seguridad
+[0:53:46] informática, pues ahí es crucial, va,
+[0:53:48] porque ahí nos da relevancia al al
+[0:53:51] proyecto. Ahí no solo es un ejercicio
+[0:53:54] académico, ustedes van a a hablar y a
+[0:53:57] trabajar en beneficio de algo real,
+[0:53:59] ¿verdad? Entonces ahí eh van a
+[0:54:03] justificar
+[0:54:04] el por qué era necesario abordar ese
+[0:54:07] problema. Si hubo ataques, pues mejor.
+[0:54:09] Entonces, una justificación sólida pues
+[0:54:13] convence a evaluadores, les van a dar el
+[0:54:16] permiso, hay comunidades que les van a
+[0:54:19] decir, "Pasen adelante." Entonces, eh
+[0:54:23] y no solo aporta teoría, ¿verdad? Ahí
+[0:54:26] van a a dar números
+[0:54:30] de pérdidas financieras, información que
+[0:54:32] se va a preservar, que no se va a a
+[0:54:35] distribuir de manera ilegal, eh
+[0:54:37] garantizar continuidad cooperativa y que
+[0:54:40] la información no se pierda con eso de
+[0:54:43] los respaldos. Entonces, eh
+[0:54:46] ahí ustedes conectaron el proyecto
+[0:54:49] académico con una realidad social y
+[0:54:51] tecnológica.
+[0:54:54] Creo que me doy a entender
+[0:55:02] o no.
+[0:55:04] Sí,
+[0:55:08] bien. Digamos entonces.
+[0:55:13] Justificación teórica,
+[0:55:18] justificación metodológica,
+[0:55:20] justificación práctica.
+[0:55:23] teórica. Contribuir al hacer del
+[0:55:26] conocimiento existente. Esto es
+[0:55:29] academia,
+[0:55:32] esto es novedad, innovación
+[0:55:37] y esto es darle un uso práctico a lo que
+[0:55:40] investigue. La forma en que evaluamos
+[0:55:42] las vulnerabilidades puede ser una
+[0:55:44] herramienta nueva, un nuevo enfoque que
+[0:55:47] descubrieron.
+[0:55:49] Y aquí pues cómo este protocolo o
+[0:55:52] enfoque va a evitar pérdidas
+[0:55:54] financieras, información
+[0:55:57] en institución. Y en la teórica, pues
+[0:55:59] qué vacío sobre el comportamiento
+[0:56:02] de del Ramson y llena este estudio.
+[0:56:05] Muchas de las investigaciones
+[0:56:08] de los alumnos, por lo que yo veo en
+[0:56:10] proyecto de investigación dos, que
+[0:56:12] también lo doy, está aquí. Se enfocan
+[0:56:15] solo en esto a nivel general. les
+[0:56:18] importa, perdón, un esto
+[0:56:23] y esto ni llegan.
+[0:56:26] Entonces, se concentran solo en la
+[0:56:29] academia, por favor, concéntrense en los
+[0:56:32] tres.
+[0:56:35] La viabilidad, ya hablamos un poco de
+[0:56:37] esto. Primero, determinar si el alcance
+[0:56:40] y la profundidad real podrán podrá dar
+[0:56:43] el estudio. El alcance tiene que ser
+[0:56:45] medible. Si es enorme, si es toda la
+[0:56:48] empresa, no les va a alcanzar el tiempo
+[0:56:50] ni 7 años para hacerlo y y va a perder
+[0:56:53] el enfoque porque en 7 años ya pasaron
+[0:56:55] muchas cosas. Va a ser ya una ya una
+[0:56:58] investigación obsoleta. Analizar
+[0:57:01] recursos disponibles, tiempo, exceso de
+[0:57:03] información y herramientas y también de
+[0:57:05] su cliente. Eh, la disponibilidad de
+[0:57:07] recursos también es de su cliente. Mira,
+[0:57:09] vamos a poder instalar un un agente ahí
+[0:57:13] a tu empresa. Sí, claro, con gusto, pero
+[0:57:15] tal día.
+[0:57:16] otro no. ¿Qué equipos van a estar?
+[0:57:19] Estos, estos y estos. No me va a
+[0:57:21] afectar, ¿verdad? No va a dar un
+[0:57:23] problema de de que me va a ralentizar
+[0:57:26] las máquinas, ¿no? O tal vez sí.
+[0:57:28] Entonces se corre de noche. Ah, va.
+[0:57:31] Esos son recursos. Evitar planteamientos
+[0:57:35] objetivos de gran interés científico,
+[0:57:37] pero que están fuera de alcance de
+[0:57:39] nuestro alcance operativo. También van a
+[0:57:42] hacer una investigación.
+[0:57:44] Esto es eh bueno, mi investigación se
+[0:57:46] centra en que en 3 meses yo voy a curar
+[0:57:48] el cáncer. Sí, cómo no. Claro, es de
+[0:57:53] interés científico, pero está
+[0:57:57] obviamente fuera del alcance. Entonces
+[0:58:00] es un es traduciéndolo a nuestro idioma,
+[0:58:05] en 3 meses yo voy a a
+[0:58:11] tener una herramienta que va a detener
+[0:58:15] todos los ataques de Ramsonw en el
+[0:58:17] mundo. Sí, cómo no. Entonces, no, esto
+[0:58:21] es fuera del de del alcance. V
+[0:58:24] exagerando mucho, va, pero puede pasar.
+[0:58:27] Lo que pasa es que a la hora de de
+[0:58:28] definir su tema, muchos de ustedes en
+[0:58:32] otras secciones han colocado temas que
+[0:58:35] se salen completamente de la realidad o
+[0:58:38] abarcan toda Guatemala. Dicen en todas
+[0:58:41] las en las instituciones públicas de
+[0:58:43] Guatemala. Sí, claro. Cuando tenga todas
+[0:58:46] las escuelas, colegios, eh, y y fue a
+[0:58:49] hacer entrevistas a todos ellos con todo
+[0:58:52] gusto, ¿verdad? Y fue a poner sus sus
+[0:58:55] ¿Cómo se llama? su investigación y sus
+[0:58:58] formularios
+[0:58:59] de
+[0:59:02] de ¿cómo se llama? Se me fue el nombre
+[0:59:04] de
+[0:59:07] Ay, ay, ay,
+[0:59:14] ¿cómo se llama? Cuando llena un
+[0:59:16] formulario, uno formulario de de Google
+[0:59:19] para que lo llene encuesta. Dios,
+[0:59:22] hombre,
+[0:59:24] tus encuestas si las va a ir a llenar a
+[0:59:26] toda Guatemala, a cada escuela de
+[0:59:27] Guatemala y a cada eh colegio del país,
+[0:59:31] me cuenta cómo le va y cuántos años se
+[0:59:33] lleva o décadas, sobre todo cuando vaya
+[0:59:35] allá por Hegüe o en los interiores de
+[0:59:38] Quiché. Entonces ahí me cuenta, ¿y cómo
+[0:59:42] le hizo para llegar, ¿verdad?
+[0:59:44] Y si no lo retuvieron ahí por eh
+[0:59:49] Chiquisí, me cuenta porque a mí sí me
+[0:59:51] retuvieron una vez por ir a un volcán.
+[0:59:53] Entonces, eh bueno, esa es su
+[0:59:56] investigación. O mejor la delimitan un
+[0:59:59] poco y dicen, "En un par de escuelas de
+[1:00:01] aquí de mi pueblo, va." Ah, bueno, ya es
+[1:00:04] más factible, ¿va? Y específicamente
+[1:00:07] para alumnos de cuarto bachillerato. Ah,
+[1:00:09] ya se redujo un poco más, pero si usted
+[1:00:12] va todas las escuelas, no comete ese
+[1:00:15] error. Delimite bien su trabajo.
+[1:00:21] Matriz de diagnóstico de viabilidad.
+[1:00:24] Viabilidad operativa y rigor académico.
+[1:00:27] Miren aquí. Operativa, cargar,
+[1:00:29] laboratorios, todo lo que nos sirve para
+[1:00:32] echar punta.
+[1:00:33] recurso humano, capacidades,
+[1:00:35] conocimientos del equipo, obviamente
+[1:00:38] bases de datos, archivos, permisos,
+[1:00:41] espacio físico adecuado. Tenemos todo
+[1:00:43] esto. Ah, pero yo quiero y esto es
+[1:00:48] importante porque también nosotros nos
+[1:00:51] quedamos aquí. Esta parte, los trabajos
+[1:00:55] que yo he visto, la ignoran
+[1:00:58] completamente. Si yo les estoy pidiendo
+[1:01:00] desde ya innovación es porque quiero
+[1:01:02] innovación, algo ciertamente
+[1:01:05] experimental, porque quiero cifras que
+[1:01:07] vayan ustedes a hacer un experimento y
+[1:01:10] que que les dé números reales y desde ya
+[1:01:13] que vayan a investigar qué problemas hay
+[1:01:17] para ver si se puede componer y lo
+[1:01:18] pueden componer ustedes. Se los digo yo
+[1:01:21] porque quiero resultados así, si no eh a
+[1:01:26] lo mejor si se los firmo, si les firmo
+[1:01:28] el proyecto, a lo mejor si ganan con 70
+[1:01:30] y les digo, "Ah, bueno, sí va, una nota
+[1:01:32] mínima y ni me si me ven ni me conocen,
+[1:01:36] va porque su proyecto no me gustó.
+[1:01:37] Entonces, eh yo no quiero un trabajo
+[1:01:40] mediocre jugadas, quiero que haya
+[1:01:43] innovación y desde ya deberían de estar
+[1:01:45] empezando a buscar y a investigar
+[1:01:47] problemas de ciberseguridad en alguna
+[1:01:49] empresa, escuela, institución pública,
+[1:01:52] su barrio, su colonia, la tienda de la
+[1:01:55] esquina, todo donde haya problemas de
+[1:01:57] ciberseguridad,
+[1:01:59] necesito que empiecen a investigar y una
+[1:02:03] innovación
+[1:02:05] que y que le coloquen una innovación
+[1:02:07] ¿Cómo van a resolver ese problema? Algo
+[1:02:09] que que a lo mejor sí hay, porque
+[1:02:12] tampoco es una tesis doctoral, ahí se
+[1:02:14] pide algo que no hay. Yo no les voy a
+[1:02:15] pedir eso, pero sí
+[1:02:19] que sea que ignore, que sí, que sí se
+[1:02:22] vayan a trabajar, que sí vayan, que les
+[1:02:24] den las gracias a ustedes cuando
+[1:02:26] terminen ese proyecto. Eso sí.
+[1:02:30] Y aquí en lo que les decía, viabilidad
+[1:02:32] científica, preguntas significativas,
+[1:02:35] selección rigurosa y y justificada,
+[1:02:39] originalidad,
+[1:02:41] marco teórico, fundamento en literatura
+[1:02:43] existente. Pues sí, va.
+[1:02:48] Esto es la parte de la academia que me
+[1:02:50] interesa. Esto ya lo tienen en
+[1:02:53] conocimientos del equipo, pues ustedes
+[1:02:55] pueden innovar y ser ahí
+[1:02:59] pues hacerse grandes.
+[1:03:02] Ya terminamos. Estos son los cuatro
+[1:03:04] elementos. Objetivos, alcance,
+[1:03:06] justificación, viabilidad. ¿Alguna
+[1:03:08] pregunta?
+[1:03:24] Todo claro.
+[1:03:27] Todo claro.
+[1:03:28] Por mi parte.
+[1:03:30] Okay.
+[1:03:33] Dejo de presentar.
+[1:03:35] Uy, ¿qué hice?
+[1:03:37] ¿Qué hice?
+[1:03:40] Y ya está.
+[1:03:43] Les voy a compartir su presentación
+[1:03:49] y aquí tengo el protocolo.
+[1:03:54] Está en otros documentos.
+[1:03:56] Nueva estructura. Lo voy a colocar en
+[1:03:57] enunciados
+[1:04:01] porque este es proyecto final.
+[1:04:07] Ahí los lineamientos y la estructura.
+[1:04:14] Vamos a compartir.
+[1:04:23] Y aquí está carátula o portada, publicar
+[1:04:27] plataforma, rúbrica, carta de autoría,
+[1:04:29] se recuerdan de eso. Cartas de
+[1:04:31] compromisos, tabla de contenido,
+[1:04:33] introducción, marco conceptual,
+[1:04:37] título de la investigación.
+[1:04:41] Situación actual, planteamiento del
+[1:04:43] problema, formulación del problema,
+[1:04:45] pregunta central sub preguntas de
+[1:04:47] investigación, objetivos de
+[1:04:49] investigación, objetivo general,
+[1:04:51] específicos, alcance, límites.
+[1:04:55] Ahí no viene algo, bueno, justificación,
+[1:04:57] pero no viene algo de viabilidad. Si me
+[1:05:00] quieren colocar algo dentro de los
+[1:05:01] límites, pues está bien.
+[1:05:05] Podría ser o hay un apartado extra. No,
+[1:05:08] no, no viene mal. Análisis geográfico.
+[1:05:12] País, departamento, municipio, urbana,
+[1:05:14] rural, comunidad, zona, cuadra, sitio.
+[1:05:16] No tienen que poner todos. Seleccione el
+[1:05:19] que va de acuerdo a su investigación.
+[1:05:21] Análisis demográfico, análisis
+[1:05:23] económico, si lo necesita. Aquí está el
+[1:05:25] estudio de viabilidad.
+[1:05:28] Aquí está viabilidad.
+[1:05:31] Pensé que no estaba, no me acordaba yo
+[1:05:33] de eso. Eh, marco teórico, es una
+[1:05:37] recopilación completa de todos los
+[1:05:38] fundamentos teóricos. Es la casaca que
+[1:05:40] van a encontrar ustedes en internet,
+[1:05:43] pero bien redactado. Antecedentes del
+[1:05:46] problema. Esto sí es de su
+[1:05:47] investigación.
+[1:05:49] Bases teóricas, definaciones,
+[1:05:50] conceptualizaciones, todo lo relacionado
+[1:05:52] con su variable independiente.
+[1:05:56] Definición del términos, bases,
+[1:05:58] conceptualizaciones, todo lo relacionado
+[1:06:00] su variable dependiente. Hipótesis
+[1:06:04] general,
+[1:06:05] hipótesis específica, si las requiere,
+[1:06:08] variables, definición conceptual de la
+[1:06:10] variable, definición operativa de la
+[1:06:12] variable, operacionalización. Eso lo
+[1:06:14] vamos a ir viendo en las siguientes
+[1:06:16] clases.
+[1:06:18] Aquí
+[1:06:20] va el marco metodológico,
+[1:06:24] que es cómo lo van a hacer.
+[1:06:27] El resultado de la Bueno, esto es la
+[1:06:29] explicación. Mecanismos utilizados para
+[1:06:31] el análisis de nuestra problemática de
+[1:06:33] investigación. Por lo general se trata
+[1:06:34] de resultado de aplicación sistemática
+[1:06:37] lógica y fundamentos expuestos en el
+[1:06:38] marco teórico. Es importante comprender
+[1:06:42] y que la metodología de la investigación
+[1:06:44] es progresiva. Por lo tanto, no es
+[1:06:45] posible realizar el marco metodológico,
+[1:06:49] sino fundamentaciones teóricas que van a
+[1:06:51] justificar el estudio del tema elegido.
+[1:06:55] Tipo de enfoque, investigación, diseño
+[1:06:58] de investigación,
+[1:07:00] descripción del ámbito de la
+[1:07:01] investigación, población y muestra.
+[1:07:05] Técnicas e instrumentos para la
+[1:07:07] recolección de datos. Validez y
+[1:07:09] confiabilidad del instrumento. Plan de
+[1:07:11] recolección, procesamiento. Cronograma
+[1:07:14] publicado en la plataforma y acuerdo
+[1:07:17] según las tareas que realizarán.
+[1:07:19] Referencias ser deben ser incluidas
+[1:07:22] tanto en proyecto de investigación uno y
+[1:07:23] dos. No olvidar las URL de sus fuentes
+[1:07:26] anexus deben ser incluidas en proyecto
+[1:07:29] investigación 1 y dos. deberán presentar
+[1:07:31] los formatos que utilizarán en el inciso
+[1:07:33] 3.6.
+[1:07:36] En proyecto de investigación uno no
+[1:07:37] deben incluir conclusiones ni
+[1:07:39] recomendaciones. Esto se hará hasta
+[1:07:41] concluir la investigación para entregar
+[1:07:44] en proyecto de investigación dos.
+[1:07:46] Asimismo,
+[1:07:48] en enero deberán enviar el proyecto al
+[1:07:50] director para su visto bueno y
+[1:07:52] posteriormente ello realizar la
+[1:07:54] investigación de campo de acuerdo a su
+[1:07:56] cronograma actual, la cual debe de estar
+[1:07:59] lista antes del proyecto de iniciar
+[1:08:01] proyecto de investigación dos, el la
+[1:08:04] cual se imparte en el octavo trimestre.
+[1:08:07] Importante,
+[1:08:08] lo siguiente debe ser trabajo,
+[1:08:12] eh según lo establecido en el
+[1:08:14] cronograma. Esto que está aquí lo
+[1:08:17] trabajan después de este curso, capítulo
+[1:08:22] de resultados, de análisis y discusión
+[1:08:24] de resultados, comprobación de
+[1:08:26] hipótesis, conclusiones,
+[1:08:27] recomendaciones, referencias, deben ir
+[1:08:30] tanto eh en uno y en el dos, anexos
+[1:08:34] deben ser incluidas en el uno y en el en
+[1:08:36] el dos. Acá deberán presentar los
+[1:08:39] formatos que utilizarán en el 3.6.
+[1:08:42] La investigación prácticamente empieza
+[1:08:44] aquí. Esto quizás sí lo pueden llenar.
+[1:08:49] Algunas cosas tienen que definirlas
+[1:08:51] desde ya, pero los resultados no los
+[1:08:55] pueden definir porque esos los esos son
+[1:08:58] es de después. Eso es después. Entonces,
+[1:09:01] eh esto es un plan, esto sí, obviamente
+[1:09:04] sí, un cronograma, sí, eh, esto sí.
+[1:09:09] Okay. Entonces, por favor, eh, tipo de
+[1:09:12] enfoque, ¿sí? descripción del ámbito,
+[1:09:14] población y muestra. Desde ya lo tienen
+[1:09:17] que empezar a definir, pero esto lo
+[1:09:19] llenan después, en esos meses, conforme
+[1:09:23] va pasando la investigación.
+[1:09:25] ¿Les parece?
+[1:09:35] Okay.
+[1:09:38] Y ahora lo que tanto les gusta, la
+[1:09:40] tarea.
+[1:09:46] Hacen si hambre, no lloren, por favor.
+[1:09:50] Eh,
+[1:10:05] ¿dónde está la tarea?
+[1:10:08] Acabo de abrir el documento.
+[1:10:19] V. Pues no está
+[1:10:25] hoy nada quiere servir.
+[1:10:42] Me voy a salir y ahorita vengo.
+[1:11:06] Eso de 10 puntos e
+[1:11:09] lunes a medianoche. Hoy no es lunes en
+[1:11:12] su momento yo de este curso lunes, así
+[1:11:14] que
+[1:11:17] eh y tarea dos, no es uno.
+[1:11:21] Realizar un un resumen, identificar los
+[1:11:23] temas clave, mínimo tres páginas,
+[1:11:27] la tesis, los impactos de la tecnología
+[1:11:30] y los factores humanos
+[1:11:33] en los eh usuarios y las alarmas en los
+[1:11:36] usuarios de smartphones. La evaluación
+[1:11:38] consistirá en su en su forma de
+[1:11:40] redactar, si es posible complementar su
+[1:11:43] resumen con otro material de
+[1:11:44] investigación, preferiblemente artículo
+[1:11:48] o tesis.
+[1:11:50] En la parte del anexo del documento,
+[1:11:52] entregar en una o dos páginas, demostrar
+[1:11:56] cuáles fueron las variables dependientes
+[1:11:59] e independientes.
+[1:12:00] Miren, eh esto no lo hablamos,
+[1:12:05] eh, pero investíguenos de una vez, por
+[1:12:08] favor, porque eso se supone que estaba
+[1:12:10] en la semana uno, pero la presentación
+[1:12:13] que me dieron no tenía variables
+[1:12:15] dependientes e independientes.
+[1:12:17] De todos modos, investiguen un poco de
+[1:12:19] eso desde ya para que cuando lleguemos a
+[1:12:21] ese tema eh ya lo tengan más claro.
+[1:12:25] Por favor, ¿cuál fue el enfoque de esta
+[1:12:27] investigación? ¿Cuáles fueron los
+[1:12:28] objetivos? ¿Cuáles fueron las preguntas?
+[1:12:30] ¿Cuál es su justificación? ¿Cuál es su
+[1:12:33] contexto ambiente? ¿Y cómo ingresaron al
+[1:12:35] campo los investigadores?
+[1:12:38] ¿Les parece? Solo una les va a tocar que
+[1:12:40] investigar. Tema que voy a dar después.
+[1:12:43] El siguiente ustedes van a hacer su
+[1:12:44] propia variable dependiente,
+[1:12:46] independiente.
+[1:12:48] ¿Les parece? Va a ser grupal. No lloren.
+[1:13:00] ¿Parace o no? Está feo. Sencillo,
+[1:13:04] hombre.
+[1:13:11] Lo vamos a subir.
+[1:14:30] Tarea dos.
+[1:14:33] Ya formaron sus grupos, ¿va?
+[1:14:39] Sí. Ya. In.
+[1:14:41] Okay.
+[1:14:43] Correcto.
+[1:14:48] Quiero un buen trabajo. No olviden
+[1:14:50] formar ese documento tiene que venir con
+[1:14:54] el formato de los documentos que yo le
+[1:14:55] subí. Creo que sí le sub un archivo así,
+[1:14:58] ¿verdad?
+[1:15:02] Yo creo que sí.
+[1:15:05] No,
+[1:15:07] no está.
+[1:15:13] No está. Les voy a subir un un formato
+[1:15:17] igual para la tarea que me tienen que
+[1:15:19] entregar. Que cumpla eso, por favor.
+[1:15:25] Vaya, gracias.
+[1:15:26] Ya la subió, presúbala y por favor
+[1:15:30] incluya eso porque eso vale puntos.
+[1:15:38] dijo que ahorita que incluyamos. ¿Qué
+[1:15:39] cosa dijo?
+[1:15:41] El documento que ahorita voy a subir.
+[1:15:44] Cada tarea
+[1:15:46] que yo pido tiene que tener este
+[1:15:49] formato. Lo acabo de subir. Revisen
+[1:15:51] formato los documentos.
+[1:16:00] Eh, ingeniero, ya aparece en las
+[1:16:02] plataformas. Excepto el protocolo. El
+[1:16:05] protocolo no, ese no. Ese sí tiene su
+[1:16:08] propio formato.
+[1:16:10] Okay.
+[1:16:11] Pero para tareas
+[1:16:14] como esta sí.
+[1:16:48] Suban uno grupal, no los voy a
+[1:16:49] complicar.
+[1:16:58] Gracias.
+[1:17:09] He.
+[1:17:33] Yo no veo que tengan su grupo
+[1:17:45] y yo les di la oportunidad de
+[1:17:47] autoasignación
+[1:17:52] o no
+[1:17:55] permitir autorregistro. Sí, asígnense a
+[1:17:58] un grupo,
+[1:18:01] si no no van a poder entregar eso y es
+[1:18:03] para hoy. Qui no tiene grupo perdió.
+[1:20:23] Es para hoy, jóvenes.
+[1:20:25] Ahí forman sus grupos.
+[1:20:37] Bien,
+[1:20:40] conforme se van terminando
+[1:20:43] se pueden retirar. Me avisan por el chat
+[1:20:47] de aquí.
+[1:20:50] Ya terminamos y se van.
+[1:20:58] Yo aquí voy a estar. Apago mi cámara. Si
+[1:21:00] tienen dudas, comentarios, me escriben
+[1:21:02] ahí en el chat.
+[1:21:07] ¿De acuerdo?
+[1:21:12] Muy
+[1:25:27] La presentación es para la siguiente
+[1:25:29] clase, el otro miércoles, porque tengo
+[1:25:32] entendido que no se entrega hoy. Es para
+[1:25:35] el, no me acuerdo qué fecha le puse,
+[1:25:36] creo que nueve. Entonces, eh sería
+[1:25:40] ilógico que expongan hoy si es para el
+[1:25:42] 9, no es para el siguiente miércoles,
+[1:25:45] por favor, si es miércoles o lunes. Ho
+[1:25:48] es miércoles, ¿verdad?
+[1:25:50] Que ya no sea a veces.
+[1:25:56] Sí, hoy es miércoles.
+[1:25:58] Disculpe. En esa tarea se sube tanto el
+[1:26:02] tema de investigación como la
+[1:26:03] presentación. Son dos documentos.
+[1:26:06] Sí, tienen que subir la presentación,
+[1:26:09] eh, o un link, depende de de dónde va,
+[1:26:12] ¿verdad? Pero sí tienen que subir un un
+[1:26:16] una presentación y un PDF y el video de
+[1:26:19] el link del video, perdón,
+[1:26:25] hace también el video, pero yo recuerdo,
+[1:26:28] disculpen.
+[1:26:29] Ajá.
+[1:26:31] Eh, yo me recuerdo que el video usted
+[1:26:34] dijo que lo íbamos a omitir.
+[1:26:36] Yo les dije eso.
+[1:26:38] Sí, sí,
+[1:26:41] en serio. Bueno, si no pues omítanlo.
+[1:26:44] Igual vamos a tienen que investigar y
+[1:26:47] tienen que presentar en clase y no
+[1:26:49] omítanlo porque sería doble trabajo.
+[1:26:52] Mejor
+[1:26:53] una presentación.
+[1:26:55] Ah, okay. Muy bien. Gracias.
+[1:27:36] Disculpe. Buenas noches.
+[1:27:40] Cuéntem
+[1:27:43] fíjese que yo tenía la misma la misma
+[1:27:45] duda que René escribió en el chat.
+[1:27:50] Solo uno.
+[1:27:51] Okay. Es uno de los temas que está
+[1:27:52] entonces en la lista de los seis,
+[1:27:54] ¿verdad?
+[1:27:56] Okay. Gracias.
+[1:28:57] ¿Verdad?
+[1:29:08] Sí, porfa.
+[1:29:09] Unirse. Ya vemos cuatro.
+[1:29:14] Listo.
+[1:29:17] Veo un nombre bien sensual ahí, dice
+[1:29:19] Sury, dice,
+[1:29:22] no era
+[1:29:23] no
+[1:29:27] con razón yo pegar y esa vaina no
+[1:29:29] pegaba.
+[1:29:31] Estaba cargando.
+[1:29:36] Ahí estamos. Ya compartí el Bueno,
+[1:29:41] ahí está listo.
+[1:29:43] Grandes soles.
+[1:29:48] Podemos eliminar esta parte
+[1:29:55] si gustas.
+[1:29:57] Herber, buenas, buenas noches. Espérate
+[1:29:59] que nosotros trabajamos. No sé cómo has
+[1:30:02] trabajado vos, no sé.
+[1:30:10] Él tampoco, dice,
+[1:30:13] por lo que veo,
+[1:30:15] pero eh Suru y y Anderson, revisen lo
+[1:30:20] que les acabo de subir y pongámon los
+[1:30:24] duchos porque lo que sí es que sí se
+[1:30:27] mamó. montón de páginas y elige elige,
+[1:30:31] digo, pocas páginas, va,
+[1:30:32] máximo tres.
+[1:30:39] El resumen lo podemos le podemos quitar
+[1:30:41] varias chivas.
+[1:30:45] Mira, aquí tiene aquí tiene introducción
+[1:30:48] y planteamiento
+[1:30:57] la metodología.
+[1:31:06] Es que las no sé las siete preguntas.
+[1:31:11] Ah, sí, las siete preguntas también va.
+[1:31:14] Ajá.
+[1:31:15] Ah, pero esas son en una o dos.
+[1:31:18] Ajá. Una o dos y mínimo tres páginas de
+[1:31:20] la tesis. Se máximo cinco.
+[1:31:23] Cinco. Y esta hizo.
+[1:31:35] Mir, podemos podemos eliminar la
+[1:31:36] conclusión del resumen.
+[1:31:47] Nos hizo 11 páginas. La madre.
+[1:31:56] Pero no sé si está incluyendo también
+[1:32:02] porque aquí dice introducción y
+[1:32:03] planteamiento de problema.
+[1:32:08] Pues si est ya implementándole el
+[1:32:10] formato, van a ser más todavía.
+[1:32:13] Sí,
+[1:32:17] esa si quieren ayudémonos entre todos.
+[1:32:23] Porque mira, la la parte de las
+[1:32:24] preguntas, eso sí ya lo podríamos si
+[1:32:27] quieren voy a voy a hacer que me resuma
+[1:32:30] el
+[1:32:31] eh, ¿cómo se llama esta cosa?
+[1:32:33] Resumen del resumen.
+[1:32:34] Ajá. Que me haga más pequeño el resumen
+[1:32:37] y ustedes se encargan de las ¿Cómo se
+[1:32:41] llama esta cosa? De las preguntas.
+[1:32:57] Herber, ¿estás ahí?
+[1:33:01] Entonces, Herber va a completar las
+[1:33:02] preguntas,
+[1:33:04] ¿no? Herbert va a ser el lo que no nos
+[1:33:07] gusta a nosotros, el formato APA.
+[1:33:11] Dice, "¿Se lo pasaste a
+[1:33:14] No es que
+[1:33:17] no, o sea, pedirle el paro? Aquel tiene
+[1:33:19] cloud y cloud te genera el documento con
+[1:33:22] APA.
+[1:33:24] Eso con tu cl
+[1:33:26] ma la mera
+[1:33:29] Solo porque chatito no me no me da eso.
+[1:33:31] Fíjate
+[1:33:32] no se lo he configurado.
+[1:33:34] Ya viste, por eso hubieras pagado Cloud.
+[1:33:37] No, pago chatito, me sirve más.
+[1:33:40] No, porque no has usado close
+[1:33:46] va quesito es porque no usado clampoco
+[1:33:50] usado cloud,
+[1:33:52] mano. La mera to. Mira, Jamier una vez
+[1:33:54] se lo enseñé y hasta compró licencia.
+[1:33:58] Me dijo que tenía licencia.
+[1:34:01] Ya ven, ya
+[1:34:03] de todo compra licencia.
+[1:34:05] Tiene varas para gastar.
+[1:34:10] No, que uno viendo en qué economiza,
+[1:34:13] comiéndose
+[1:34:15] lo que puede.
+[1:34:26] Vamos, si no me lo paso ni le aplico yo
+[1:34:29] las normas AP.
+[1:34:32] Va, miremos porque si Pero también tiene
+[1:34:34] que trabajar Herber de alguna manera.
+[1:34:37] Sí, también
+[1:34:41] ya dijimos, baby,
+[1:34:42] no sé, eh, permitime. No sé qué quieres,
+[1:34:47] eh, quieres echar punta, les ayudas aos
+[1:34:51] a a verlo de las preguntas, que esté
+[1:34:53] bien o no sé cómo has manejado, cómo has
+[1:34:55] estado trabajando vos.
+[1:35:10] Va, si quieren entre los tres mírenle
+[1:35:12] las preguntas, revisen que que estén
+[1:35:16] estén bien y porque eso sí se le puede
+[1:35:19] preguntar a a Chatcito, el ingeniero
+[1:35:21] Sobiut igual la ¿cómo se llama esta
+[1:35:24] cosa? La
+[1:35:26] la tesis que se llama H o no sé cómo se
+[1:35:30] llama. Entonces ahí le pueden preguntar
+[1:35:31] si están de acuerdo con las preguntas,
+[1:35:35] eh, porque literal esa solo es de
+[1:35:36] comparar y sacar la data
+[1:35:38] correspondiente. Ahora lo otro sí,
+[1:35:40] ahorita voy a ver cómo lo resuelvo y si
+[1:35:42] gustan después ya hacemos una revisión
+[1:35:44] de todo para que quede ahí.
+[1:35:52] De wall es la T.
+[1:35:55] Si querés, Suru, repartirte las
+[1:35:57] preguntas con aquellos dos y así
+[1:36:00] trabajan así no trabajan en la misma.
+[1:36:04] Tiro las
+[1:36:10] seguro que puedes porque la tarea se
+[1:36:12] entrega hoy.
+[1:36:13] Es que voy a probar porque te da chance
+[1:36:17] hacerlo gratis, entonces voy a tirarle
+[1:36:19] la pedrada
+[1:36:21] dinero. Voy a puedo pasar.
+[1:36:26] Entonces si querés suru con Herver,
+[1:36:29] bueno, entre los tres hagan las
+[1:36:31] preguntas, pero dejale,
+[1:36:34] déjale pocas al al Saú y ustedes dos las
+[1:36:38] demás.
+[1:36:39] Espérate, espérate. Primero voy a probar
+[1:36:44] porque para la hora de la hora no puedo.
+[1:36:46] Ya valió madres.
+[1:36:56] Suro, ¿sabes cómo compartir
+[1:36:59] redes con iPhone?
+[1:37:01] Feo ahí en compartir internet.
+[1:37:05] Es que lo sé hacer con
+[1:37:09] Ah, ya pude tú. Qué paja.
+[1:37:14] Bueno,
+[1:37:17] apruate pu cheve porque yo no tengo
+[1:37:18] muchos datos. Yo soy pobre, no como
+[1:37:20] Jamar que compra licencias por chingar.
+[1:37:25] Ahí está.
+[1:38:21] Che,
+[1:38:24] ¿cuándo te toca el examen de inglés?
+[1:38:35] Vos enano,
+[1:38:44] todavía no sé la otra semana se solicita
+[1:38:48] esa vaina. Concentrarte en esto.
+[1:38:55] ¿Por qué te has vuelto tan amargado?
+[1:39:05] Ahí
