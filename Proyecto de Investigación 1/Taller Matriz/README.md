@@ -7,7 +7,7 @@ Curso: Proyecto de Investigación I (Semana 4). Formato del catedrático: Arial 
 | `Taller-Matriz-de-consistencia.docx` | Tema, hipótesis (de investigación, nula, alternativa, estadísticas y específicas), tabla de operacionalización de las dos variables y matriz de consistencia de cinco columnas |
 
 ## Tema
-Efecto de los controles de verificación al cliente sobre la discrepancia entre el monto autorizado y el monto recibido en los desembolsos digitales de una institución microfinanciera de Guatemala, 2027. La institución y las personas se mantienen en el anonimato.
+Análisis de las vulnerabilidades en los mecanismos de autenticación, autorización y validación del consentimiento y su relación con el riesgo de operaciones no consentidas en el desembolso de créditos mediante billeteras digitales en Guatemala. Los integrantes figuran en la carátula. La institución y las personas se mantienen en el anonimato.
 
 ## Antes de entregar
 1. Reescribir con tus palabras los textos en el artifact de dos columnas y pasarme el resultado.
