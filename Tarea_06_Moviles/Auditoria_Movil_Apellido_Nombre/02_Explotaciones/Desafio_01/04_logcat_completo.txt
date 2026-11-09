@@ -1,0 +1,64 @@
+--------- beginning of system
+11-09 12:15:02.957   838   880 W KernelCpuProcStringReader: File not found. It's normal if not implemented: /proc/uid_time_in_state
+11-09 12:15:02.957   838   880 W KernelCpuProcStringReader: File not found. It's normal if not implemented: /proc/uid_concurrent_active_time
+11-09 12:15:02.957   838   880 W KernelCpuProcStringReader: File not found. It's normal if not implemented: /proc/uid_concurrent_policy_time
+11-09 12:15:02.957  1096  2130 D PowerUI : can't show warning due to - plugged: true status unknown: false
+--------- beginning of main
+11-09 12:15:03.018  2381  2381 I ImeTracker: jakhar.aseem.diva:3f720a6a: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+11-09 12:15:03.019  2381  2381 D InsetsController: show(ime(), fromIme=false)
+11-09 12:15:03.019  2381  2381 I ImeTracker: jakhar.aseem.diva:3f720a6a: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+11-09 12:15:03.133  2381  2381 E diva-log: Error while processing transaction with credit card: 4111111111111111
+11-09 12:15:03.166   838  1813 D CoreBackPreview: Window{67ec8f4 u0 Toast}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@95f6c63, mPriority=0, mIsAnimationCallback=false, mOverrideBehavior=0}
+11-09 12:15:03.168  2381  2406 D gralloc_kona: gralloc_alloc: Creating ashmem region of size 131072
+11-09 12:15:03.171  2381  2556 D gralloc_kona: gralloc_alloc: Creating ashmem region of size 131072
+11-09 12:15:03.171  2381  2556 D gralloc_kona: gralloc_alloc: Creating ashmem region of size 131072
+11-09 12:15:03.906  2557  2557 I init    : type=1400 audit(0.0:113): avc:  denied  { entrypoint } for  path="/system/xbin/serial_console" dev="sda6" ino=4044 scontext=u:r:su:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11-09 12:15:03.906  2557  2557 I serial_console: type=1400 audit(0.0:114): avc:  denied  { map } for  path="/system/xbin/serial_console" dev="sda6" ino=4044 scontext=u:r:su:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11-09 12:15:03.906  2557  2557 I serial_console: type=1400 audit(0.0:115): avc:  denied  { read execute } for  path="/system/xbin/serial_console" dev="sda6" ino=4044 scontext=u:r:su:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11-09 12:15:05.138  2381  2381 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@1059780
+11-09 12:15:05.138   838  1813 D CoreBackPreview: Window{67ec8f4 u0 Toast}: Setting back callback null
+11-09 12:15:05.141   838  1813 W NotificationService: Toast already killed. pkg=jakhar.aseem.diva token=android.os.BinderProxy@f436ab6
+11-09 12:15:07.845   838   857 W ActivityManager: bindService exceeded max service connection number per process, callerApp:system intent:Intent { act=com.android.trust.provider.SignificantPlaceProvider.BIND cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+11-09 12:15:07.845   838   857 E ServiceWatcher: [TrustManagerService] unexpected bind failure - retrying later
+11-09 12:15:07.934   838   910 D WifiNl80211Manager: Scan result ready event
+11-09 12:15:07.934   838   910 D WifiNative: Scan result ready event
+11-09 12:15:08.283   497  1978 E nemuhotd: Parse failed: * Line 1, Column 1
+11-09 12:15:08.283   497  1978 E nemuhotd:   Syntax error: value, object or array expected.
+11-09 12:15:08.518  2562  2562 W screencap: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: SurfaceFlingerAIDL
+11-09 12:15:08.518  2562  2562 W BpBinder: Linking to death on android.gui.ISurfaceComposer but there are no threads (yet?) listening to incoming transactions. See ProcessState::startThreadPool and ProcessState::setThreadPoolMaxThreadCount. Generally you should setup the binder threadpool before other initialization steps.
+11-09 12:15:08.518  2562  2562 W ProcessState: Extra binder thread started, but 0 threads requested. Do not use *startThreadPool when zero threads are requested.
+11-09 12:15:08.518   692   727 D gralloc_kona: gralloc_alloc: Creating ashmem region of size 5763072
+11-09 12:15:08.520  2562  2564 E HidlServiceManagement: getService: Potential race detected, descriptor: android.hardware.graphics.mapper@2.0::IMapper instance: default
+11-09 12:15:08.521  2562  2564 W screencap: Cannot open renderer configuration file (nemuhotd pid=497)
+11-09 12:15:08.532  1561  1720 W MediaProvider: isAppCloneUserPair for user 0: false
+11-09 12:15:08.535  1561  1656 E StorageManager: Failed to set extended attributes for /storage/emulated/0/screen05.png to set project id.: Operation not supported on transport endpoint
+11-09 12:15:08.535  1561  1656 W MediaProvider: Failed to update quota type for /storage/emulated/0/screen05.png
+11-09 12:15:08.535  1561  1656 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/screen05.png
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2598)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:1020)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider.lambda$onFileCreatedForFuse$16(MediaProvider.java:2290)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider.$r8$lambda$QvobK0mrOcF7YLdAJMtFTbarHSw(MediaProvider.java:0)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider$$ExternalSyntheticLambda18.run(R8$$SyntheticClass:0)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:991)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Looper.loop(Looper.java:317)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-09 12:15:08.535  1561  1656 E StorageManager: Failed to set extended attributes for /storage/emulated/0/screen05.png to set project id.: Operation not supported on transport endpoint
+11-09 12:15:08.535  1561  1656 W MediaProvider: Failed to update quota type for /storage/emulated/0/screen05.png
+11-09 12:15:08.535  1561  1656 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/screen05.png
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2598)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:1020)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForUri(MediaProvider.java:999)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider$5.lambda$onInsert$0(MediaProvider.java:1058)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider$5.$r8$lambda$4KU7YPdO1inr9tOLVzprJ5YcfCE(MediaProvider.java:0)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at com.android.providers.media.MediaProvider$5$$ExternalSyntheticLambda2.run(R8$$SyntheticClass:0)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:991)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.Looper.loop(Looper.java:317)
+11-09 12:15:08.535  1561  1656 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-09 12:15:08.624   838   910 I ActivityManager: Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }
+11-09 12:15:08.625   838   910 I ActivityManager: Enqueued broadcast Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }: 0
+11-09 12:15:08.625   838  1813 W JobInfo : Job 'com.android.providers.media.module/com.android.providers.media.MediaService#-300' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+11-09 12:15:08.626   838   857 I ActivityManager: Broadcast completed: result=0
