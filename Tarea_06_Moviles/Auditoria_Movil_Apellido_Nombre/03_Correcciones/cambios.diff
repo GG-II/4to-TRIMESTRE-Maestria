@@ -1,0 +1,45 @@
+--- codigo_original/LogActivity.java	2026-11-09 12:35:53.491217700 -0600
++++ codigo_corregido/LogActivity.java	2026-11-09 12:36:15.271981900 -0600
+@@ -53,11 +53,27 @@
+             //Everything seems fine and then we hit some unforseen error
+             processCC(cctxt.getText().toString());
+         } catch (RuntimeException re) {
+-            Log.e("diva-log", "Error while processing transaction with credit card: " + cctxt.getText().toString());
++            // CORRECCION: nunca registrar el PAN completo (ni otros datos sensibles) en el log
++            // del sistema. Se registra unicamente una referencia no reversible (enmascarada)
++            // suficiente para correlacionar el incidente, sin exponer el dato original.
++            Log.e("diva-log", "Error while processing transaction. Card ref: " + maskCardNumber(cctxt.getText().toString()));
+             Toast.makeText(this, "An error occured. Please try again later", Toast.LENGTH_SHORT).show();
+         }
+     }
+ 
++    /**
++     * Devuelve una referencia no reversible del numero de tarjeta, mostrando unicamente
++     * los ultimos 4 digitos (patron habitual en recibos/logs de procesadores de pago),
++     * para que el log siga siendo util para soporte sin exponer el dato completo.
++     */
++    private String maskCardNumber(String ccNumber) {
++        if (ccNumber == null || ccNumber.length() < 4) {
++            return "****";
++        }
++        String lastFour = ccNumber.substring(ccNumber.length() - 4);
++        return "****" + lastFour;
++    }
++
+     private void processCC(String ccstr) {
+         // Do some important processing and throw if there is any error
+         RuntimeException e = new RuntimeException();
+--- codigo_original/SQLInjectionActivity.java	2026-11-09 12:35:53.509320500 -0600
++++ codigo_corregido/SQLInjectionActivity.java	2026-11-09 12:36:15.290066300 -0600
+@@ -67,7 +67,10 @@
+         EditText srchtxt = (EditText) findViewById(R.id.ivi1search);
+         Cursor cr = null;
+         try {
+-            cr = mDB.rawQuery("SELECT * FROM sqliuser WHERE user = '" + srchtxt.getText().toString() + "'", null);
++            // CORRECCION: consulta parametrizada. El valor ingresado por el usuario viaja
++            // como argumento ("?") y nunca se concatena al texto SQL, por lo que el motor
++            // SQLite lo trata siempre como dato literal y no como parte de la sentencia.
++            cr = mDB.rawQuery("SELECT * FROM sqliuser WHERE user = ?", new String[]{srchtxt.getText().toString()});
+             StringBuilder strb = new StringBuilder("");
+             if ((cr != null) && (cr.getCount() > 0)) {
+                 cr.moveToFirst();
