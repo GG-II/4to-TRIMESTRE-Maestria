@@ -1,0 +1,8 @@
+=== Test 1: payload malicioso x' OR '1'='1 como valor literal (consulta parametrizada) ===
+Comando app: rawQuery("SELECT * FROM sqliuser WHERE user = ?", ["x' OR '1'='1"])
+Resultado equivalente (sqlite3, valor literal exacto):
+[sin filas devueltas - bypass neutralizado]
+
+=== Test 2: busqueda legitima admin ===
+admin|passwd123|1234567812345678
+[funcionalidad legitima intacta]
