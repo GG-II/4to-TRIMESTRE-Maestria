@@ -6,14 +6,16 @@ APK recompilado con las dos correcciones aplicadas (`diva-corregido.apk`, instal
 
 **Repetición de la prueba del Desafío 01:** ingreso de `4111111111111111` en "Insecure Logging" → "CHECK OUT".
 
-**Resultado tras la corrección:**
+**Resultado tras la corrección (repetido en esta revisión, build limpia desde el APK final con ambas correcciones):**
 ```
-11-09 12:24:36.318  4272  4272 E diva-log: Error while processing transaction. Card ref: ****1111
+11-09 15:45:40.718  3253  3253 E diva-log: Error while processing transaction. Card ref: ****1111
 ```
 El log ya no expone el número completo; solo últimos 4 dígitos (referencia no reversible). El comportamiento de la app (mensaje de error al usuario) se mantiene sin cambios.
 
 **Comportamiento inseguro eliminado:** ✅ Sí — ya no es posible recuperar el PAN completo desde logcat.
 **Funcionalidad legítima:** ✅ Se mantiene — el flujo de "checkout" sigue mostrando el toast de error esperado.
+
+**Evidencia:** `04_logcat_corregido.txt` (logcat crudo, filtrado por tag `diva-log`).
 
 ## Corrección B — SQL Injection
 
@@ -26,19 +28,23 @@ SELECT * FROM sqliuser WHERE user = 'x'' OR ''1''=''1';   -- (comillas escapadas
 ```
 El payload ya no altera la estructura de la consulta; se compara como cadena literal contra la columna `user` y no coincide con ningún usuario.
 
+**Captura real en pantalla** (fotograma extraído con `adb shell screenrecord` + `ffmpeg`, igual que en el Desafío 05, para capturar el Toast en el instante exacto): `04_sqli_payload_sin_resultado.png` — muestra el toast `User: (x' OR '1'='1) not found`, confirmando que el motor SQLite trata todo el payload como el literal exacto a buscar en la columna `user`, sin ninguna fila que lo iguale.
+
 **Repetición de búsqueda legítima** (`admin`, mencionada en el propio hint de la app):
 ```
 SELECT * FROM sqliuser WHERE user = 'admin';
 → admin|passwd123|1234567812345678
 ```
-El caso de uso normal (buscar un usuario existente) sigue funcionando exactamente igual que antes de la corrección.
+El caso de uso normal (buscar un usuario existente) sigue funcionando exactamente igual que antes de la corrección. Captura real: `05_sqli_busqueda_admin.png` — toast `User: (admin) pass: (passwd123) Credit card: (1234567812345678)`.
 
 **Comportamiento inseguro eliminado:** ✅ Sí — ya no es posible extraer todos los usuarios con un payload malicioso.
 **Funcionalidad legítima:** ✅ Se mantiene — la búsqueda por nombre exacto de usuario funciona sin cambios.
 
-**Nota sobre la evidencia:** el resultado de la búsqueda en DIVA aparece en un `Toast` efímero que no quedó capturado. Las capturas `01_sqli_corregido_payload_no_resultado.png` y `02_busqueda_legitima.png` muestran los valores ingresados en la app corregida; el efecto sobre la consulta se verificó contra la base de datos (`03_sqli_regresion.txt`), donde el payload se compara como cadena literal y devuelve 0 filas, y la búsqueda `admin` devuelve su fila.
+**Evidencia:** `03_sqli_regresion.txt`, `02_busqueda_legitima.png` (captura de campo, sesión anterior), `04_sqli_payload_sin_resultado.png` (toast real del payload, sin resultado), `05_sqli_busqueda_admin.png` (toast real de la búsqueda legítima), `01_sqli_corregido_payload_no_resultado.png` (campo con el payload antes de pulsar SEARCH).
 
-**Evidencia:** `03_sqli_regresion.txt`, `01_sqli_corregido_payload_no_resultado.png`, `02_busqueda_legitima.png`.
+## Nota sobre capturas de terminal (Desafíos 04 y 10)
+
+Se solicitó opcionalmente capturas de terminal de los comandos `sqlite3` (D04) y `content query` (D10). Este entorno no tiene una ventana de terminal visible que se pueda fotografiar (los comandos se ejecutan vía ADB programático, sin un emulador de terminal gráfico capturable); generar una imagen simulando una terminal habría sido fabricar una captura que no ocurrió así. En su lugar, se reconfirmó en vivo que los datos siguen siendo exactamente los mismos que los ya documentados en `02_Explotaciones/Desafio_04/01_sqlite_query.txt` y `02_Explotaciones/Desafio_10/01_notas_filtradas.txt` (salida real de los comandos, sin cambios).
 
 ## Conclusión
 

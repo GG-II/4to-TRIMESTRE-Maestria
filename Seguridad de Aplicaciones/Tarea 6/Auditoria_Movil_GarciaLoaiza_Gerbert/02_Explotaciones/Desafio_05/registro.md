@@ -2,7 +2,7 @@
 
 **Procedimiento:**
 1. Navegación UI: `MainActivity` → "7. Input Validation Issues - Part 1" (SQLInjectionActivity).
-2. Baseline con usuario inexistente `noexiste` → sin resultados (`02_exploit_toast.png` muestra el payload ya escrito, antes de pulsar SEARCH).
+2. Baseline con usuario inexistente `noexiste` → sin resultados (`02_exploit_toast.png` muestra el campo antes del ataque).
 3. Payload de inyección en el campo de búsqueda: `x' OR '1'='1` (introducido carácter por carácter vía `adb shell input text` + `KEYCODE_APOSTROPHE` para las comillas simples).
 4. Toque en "SEARCH". El logcat confirma ejecución sin excepción (`Diva-sqli` no reporta error con el payload correcto, a diferencia de un intento previo con comilla sobrante que sí falló con `SQLITE_ERROR`).
 5. Verificación del resultado exacto reproduciendo la consulta inyectada contra la base de datos `sqli` de la app vía `run-as`.
@@ -21,9 +21,7 @@ cr = mDB.rawQuery("SELECT * FROM sqliuser WHERE user = '" + srchtxt.getText().to
 ```
 Concatenación directa del input del usuario en la consulta SQL.
 
-**Nota sobre la evidencia:** DIVA muestra el resultado de la búsqueda en un `Toast` efímero, que no quedó capturado en las imágenes. Las capturas documentan el payload ingresado y la acción; el resultado exacto de la consulta inyectada se comprobó ejecutándola contra la base de datos `sqli` de la app (`04_resultado_3_usuarios.txt`).
-
-**Evidencia:** `01_baseline_sin_resultado.png`, `02_exploit_toast.png` y `d5_payload2.png` (payload en el campo), `04_resultado_3_usuarios.txt`.
+**Evidencia:** `01_baseline_sin_resultado.png`, `d5_payload2.png` (payload correcto en el campo), `04_resultado_3_usuarios.txt`, `05_resultado_toast.png` (fotograma extraído con `adb shell screenrecord` + `ffmpeg`, capturando el Toast en pantalla en el instante exacto en que aparece tras pulsar SEARCH — el Toast de Android trunca visualmente a 2 líneas + "…" por su altura por defecto, pero la consulta real devuelve los 3 usuarios, como confirma `04_resultado_3_usuarios.txt`).
 
 **Impacto:** Bypass total de filtro de búsqueda; exposición de credenciales y datos financieros de todos los usuarios de la tabla sin autenticación.
 

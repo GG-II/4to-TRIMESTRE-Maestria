@@ -27,4 +27,4 @@
 4. **Almacenamiento local sin cifrar** (SharedPreferences, SQLite, archivos en almacenamiento externo) — varias activities de `InsecureDataStorage`. Prueba: `adb shell run-as jakhar.aseem.diva` + lectura directa de `/data/data/jakhar.aseem.diva/`.
 5. **Consultas SQL concatenadas sin parametrizar** (`SQLInjectionActivity`) — inyección SQL vía campo de entrada. Prueba: payload `' OR '1'='1` en el campo de búsqueda.
 
-Evidencia: `evidencia/03_AndroidManifest_decodificado.xml` (manifiesto decodificado del APK). Nota: `debuggable="true"` y `allowBackup="true"` en el manifiesto del APK de laboratorio, lo que permite el uso de `run-as` en los desafíos de almacenamiento.
+Evidencia: `evidencia/03_AndroidManifest_decodificado.xml` (manifiesto decodificado del APK). Nota: el manifiesto del APK de laboratorio tiene `debuggable="true"` y `allowBackup="true"`, lo que permite el uso de `run-as` en los desafíos de almacenamiento.
