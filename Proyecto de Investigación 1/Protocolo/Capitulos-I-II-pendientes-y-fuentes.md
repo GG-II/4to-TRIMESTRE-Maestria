@@ -83,3 +83,39 @@ Cada marcador amarillo del Word debe confirmarse con la institución o con la fu
 
 - Ubicación: "región occidente de Guatemala" para no identificar a la institución; el departamento y los municipios quedan por confirmar.
 - Aplicación escalonada de los controles (cuasiexperimental): requiere el permiso de la institución.
+
+---
+
+# Capítulo III y anexos: pendientes y supuestos
+
+## Archivos nuevos
+- `Capitulo-III-Marco-metodologico.docx`: secciones 3.1 a 3.8 de la guía 2026, más el cronograma de ejecución y las referencias nuevas.
+- `Anexos-Instrumentos.docx`: anexos A a H (ficha de desembolsos, guion de auditoría, comprobante, guion de llamada de control, lista de cotejo, reglas de alerta, formato de juicio de expertos y consentimiento verbal).
+
+## Decisiones de diseño que conviene discutir con el grupo y con la institución
+1. **Cronología provisional:** línea base del 15 de abril al 15 de mayo, implementación del 16 de mayo al 15 de junio (periodo de adaptación que se excluye de la medición), posmedición del 16 de junio al 15 de julio. Es una propuesta; depende de la aprobación y de la autorización.
+2. **Medición separada de los controles:** la auditoría de monto recibido la hace el equipo, con un protocolo único; las llamadas de control las hace la institución y no miden el resultado.
+3. **Regla de clasificación:** la diferencia es "confirmada" solo si el comprobante o el registro de caja respaldan lo que declara el cliente; si solo hay declaración, es "no concluyente" y se reporta aparte.
+4. **Aplicación escalonada:** opción que convertiría el diseño en cuasiexperimental.
+
+## Supuestos y cálculos
+- **Muestra de 435 por fase:** fórmula de dos proporciones con p1 = 10 % y p2 = 5 %, 95 % de confianza y 80 % de potencia (el cálculo da 434.4).
+- **544 por fase:** 435 entre 0.80 (supuesto de 20 % de no contacto). **1,088** en las dos fases; unos **136** por agencia si son iguales.
+- **Volumen de 2,000 a 2,400 desembolsos al mes:** 100 a 120 clientes por promotor x 5 promotores por agencia (supuesto) x 4 agencias.
+
+## Marcadores amarillos nuevos
+El Capítulo III trae unos 32 y los anexos unos 17: fechas provisionales, valores de p1 y p2, tasa de no contacto, perfiles y número de expertos, tamaño de submuestra para el coeficiente kappa, umbrales y puntos de las alertas, versión de Jamovi, y textos del guion.
+
+## Referencias nuevas por verificar
+| Fuente | Qué falta |
+|---|---|
+| Aiken (1985) | DOI y confirmar páginas |
+| Cohen (1960) | DOI y confirmar páginas |
+| Belmont Report (1979) | URL oficial |
+| Campbell y Stanley (1966) y Hernández-Sampieri y Mendoza (2018) | URL o enlace de la editorial |
+| jamovi | Año y versión |
+
+## Falta aún de la guía oficial
+- Introducción; carátula, rúbrica, carta de autoría, cartas de compromiso y cronogramas firmados.
+- Tabla de contenido con numeración romana (portada sin número; introducción en romanos; arábigos desde el Capítulo I, con secciones de Word).
+- Unificar la numeración de tablas y figuras entre capítulos al armar el documento final: Tabla 1 (Cap. I), Tablas 2 a 4 (Cap. II), Tablas 5 a 9 (Cap. III) y Tablas 10 a 15 (anexos); Figuras 1 a 3.
