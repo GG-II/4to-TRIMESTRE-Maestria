@@ -1,0 +1,1873 @@
+Buenas noches, jóvenes. Tengo problemas
+con la cámara. Ya está conectada y eso
+es lo que estaba haciendo en los últimos
+10 minutos.
+Y no se ve nada y está conectada, está
+encendida.
+¿No me ven, verdad?
+No, sí, que no no se ve bien.
+[resoplido]
+Ya ya ya.
+Ya estuvo. No sé qué estaba cargando.
+No sé qué estaba cargando.
+Bueno, ya está.
+Conectaba, desconectaba, encendía, hasta
+reinicié Windows.
+El poder del reinicio le di y no.
+Bien.
+Jóvenes, bien.
+El día de hoy la actividad es sencilla.
+Eh, una presentación que me interesan
+dos temas allí.
+Un par de temas, uno más más que todo
+uno es lo que quiero que hagan para su
+para su ejercicio de
+para su proyecto final.
+Pero el tema importante
+es que quiero que grupo a grupo, desde
+el grupo uno al grupo
+eh no sé cuántos son.
+Déjenme cargar esto.
+Grupo siete por grupo ocho.
+Me indican primero otra vez el tema que
+el el título de su tema.
+Después quiero que me muestren su
+hipótesis,
+sus
+de Mario de sus secundarios,
+eh sus variables, su enfoque y sus
+instrumentos que van a utilizar.
+La otra semana vamos a hacer la la
+primera revisión ya finalizado el
+proyecto
+para que en la semana final lo presenten
+ya en la versión final.
+Entonces, por favor,
+eh voy a dar la presentación breve
+primero y después terminamos con eso y
+nos quedamos con esas
+con esa actividad.
+Es algo bien
+sencillo, pero quiero que lo lo veamos.
+Son
+13 diapositivas, es algo sencillo.
+Estas son las eh las herramientas,
+bueno, esta es una una herramienta de
+indexado. Scopus indexa más de 94
+millones de documentos académicos,
+28,000 de revistas
+ahí revisadas por pares. La pregunta ya
+no es si existe literatura sobre el
+problema que están investigando sobre
+informática, sino cómo encontrarla,
+evaluarla o o críticamente y ordenarla
+en antecedentes que solo contenga el
+anteproyecto. Este dato es de 2026, lo
+investigué
+reciente, pero sí es necesario que
+que bueno, todo lo que ustedes van a
+investigar probablemente alguien más ya
+lo hizo, ¿verdad? Información sobra,
+¿verdad? No es que
+que va a ser algo relativamente nuevo,
+no, ya ya ya hay. Esta herramienta es un
+indexador
+eh realmente lo que hace es buscar
+documentos, no se almacenan ahí, pero
+eso es pagada, ¿verdad? Algunas
+universidades la tienen.
+Según [resoplido] tengo entendido la
+Mariano no, no la tiene, ahorita no
+están pagando por ella, pero ustedes
+pueden buscar
+o o bueno
+eh investigar ahí, de hecho creo que les
+tiene que tocar, es que les les va a
+tocar.
+Los documentos están en
+IEEE Xplore, ACM Digital Library,
+el
+y bueno, entre otros. Eh
+sí hay bastantes documentos, pero tienen
+que buscarlos, ¿verdad?
+[resoplido]
+Estas son las competencias de la semana,
+reconocer la importancia del estado del
+arte, buscar selección,
+seleccionar y analizar el tema
+analizar el tema críticamente literatura
+científica pertinente al problema,
+valorar el conocimiento previo,
+antecedentes y marco teórico como
+fundamento del estudio.
+Esto es lo de hoy, importancia del
+estado del arte, estrategia de búsqueda,
+fichaje y registro, elaboración de
+antecedentes, gestión de referencias
+y fase del proceso.
+¿Por qué revisar literatura primero?
+Evita duplicar el trabajo.
+Lo que pasa es que
+si hay algo pues tienen que revisar si
+hay, ¿verdad?
+No es que
+que que lo más probable es que ya esté,
+¿verdad? Pero siempre hay que darle un
+pequeño enfoque diferente.
+Eh, situar el problema, dónde está el
+conocimiento, a esto se le llama estado
+del arte,
+dónde está exactamente en ese en esa
+situación de de en ese problema que
+ustedes van a investigar. Esto de semana
+seis no
+esto olvídenlo, proveedores y conceptos
+y hasta ahí.
+Se supone que esto todavía lo pueden
+desarrollar. Fíjense que esta se esta
+presentación decía
+no es de la semana cinco ni tres, estaba
+hasta en la semana siete y yo la estoy
+dando en la ocho.
+No sé por qué viene así, pero bueno, yo
+la modifique ahí para
+para que sea pertinente con con lo que
+hemos visto hasta ahora. Eh, revela
+vacíos, gaps, se identifica qué es lo
+que no se ha estudiado y es ahí donde
+quiero que esté enfocada la
+investigación de ustedes
+y sostienen marco teórico, que es lo
+importante también
+previo a la
+justificación.
+Fases del proceso, revisión de
+literatura, esto es lo que quiero que me
+hagan, por favor, para su
+eh proyecto, ¿verdad? Eh,
+en un documento aparte
+quiero que lo hagan, ¿verdad? En un
+Eh, no va a ir dentro de los anexos,
+sino que en un documento aparte.
+Eh, breve,
+en una página
+van a colocar esto. Es lo último que le
+voy a dar valor.
+Identificación de su problema.
+Entonces, van a ir a buscar
+a con las herramientas que yo les voy a
+dar todavía. Falta ahí el
+Hay otra. Aquí están estas, ¿verdad? Y
+Scopus, que ya lo vimos.
+Eh, Web of Science
+y ACM Digital.
+Entonces, van a ustedes a venir
+a identificar con palabras clave y
+ecuaciones de búsqueda, consultar base
+de datos y registros
+su tema. Después van a filtrar por
+título y resumen, eliminar duplicados
+según criterios de inclusión y
+exclusión,
+elegibilidad, leer el texto completo de
+los estudios seleccionados, evaluar su
+calidad y pertinencia. No es necesario
+leer completo
+porque ustedes están haciendo el
+el filtro. Inclusión, cuáles son las que
+realmente se quedaron en el trabajo
+final. Entonces, esto sí me lo van a
+hacer por grupo
+eh y en una sola página me van a colocar
+esto.
+Entonces, eh
+eh
+lo van a hacer, por favor.
+Esto se le llama prisma.
+Eh, por ejemplo,
+si ustedes en el
+principio van a
+investigar sus fuentes y van a encontrar
+450
+artículos en Scopus
+al filtrado
+y ya colocan cuántos eh
+todo esto.
+Esto sí.
+Sí, eso parte de
+Ustedes me dicen dónde me quedé.
+Esto lo vi.
+Ahí en esa, inge.
+El cribado, entonces en al final van a
+ser dos páginas, no solo una, con su
+nombre, su carátula, los integrantes,
+una introducción
+y aquí van a colocar
+eh estas fases, ¿verdad? Identificación,
+cuántas fuentes fueron
+originales eh al principio, ¿verdad?
+Cómo fueron filtrando
+por qué fueron filtrando así, los
+números y al final cuáles fueron las que
+incluyeron.
+Entonces eso es lo que quiero que me
+hagan en una,
+pero quiero que me hagan otra más eh más
+adelante, ¿verdad? Entonces
+A ver.
+Se acaban de ¿Dónde me quedé otra vez,
+jóvenes?
+Estaba diciendo que ahora solo van a ser
+dos páginas en ese documento, ¿no? ¿Qué
+hay que hacer?
+Ya no les expliqué por qué.
+No, inge. Solo se quedó en que iban a
+hacer dos páginas, pero ya no dijo nada.
+Ahorita vengo, voy a revisar el
+internet, jóvenes. Permítanme.
+Ingeniero, tal vez podría probar a a
+compartirnos pantalla sin sin la cámara.
+[carraspeo]
+Igual creo que hay alguien que está
+usando el internet en la casa y
+no está de más una regañadita. Ahorita
+vengo.
+Bien, les decía,
+les voy a compartir nuevamente.
+Entonces, al principio, pues van a
+a identificar sus fuentes, ¿verdad? 450
+de ejemplo. Filtran 120, por ejemplo. Al
+final se quedan 35 y por último
+utilizaron 11 11 o 16. Les decía que
+para una investigación
+de artículo y para ustedes 15 a 20
+fuentes está bien, es válido.
+Entonces esto si lo van a hacer en una
+página, aquí están las herramientas.
+Eh, estos solo son pagadas algunas.
+Eh, esta que sí tiene documentos.
+Esta solo son es un indexador.
+Este tiene documentos,
+citas. No me acuerdo que este no, este
+no.
+Este sí tiene documentos, la ACM,
+entonces ahí investigan. Pues son
+pagados. Están ahí.
+Y este es el filtro de búsqueda que le
+les decía hace un rato que ya tengo rato
+de no buscar, un año de no buscar, pero
+me acuerdo que no filtraba por año. Si
+alguien me puede confirmar se lo
+agradeceré.
+Eh,
+ficha de análisis crítico. Quiero que me
+hagan en la segunda página esta hoja.
+De sus fuentes
+estas que que al final ya ya incluyeron,
+por lo menos cinco en una tablita me van
+a colocar esta
+eh estas fuentes de las cinco. De
+referencia,
+objetivos y métodos que buscó en el
+estudio qué buscó en el estudio,
+hallazgos clave en relación con el
+problema, evaluación crítica y nivel de
+evidencia.
+Entonces eh aquí las fortalezas y
+limitaciones,
+¿verdad?
+La evidencia de la
+de de sus fuentes. Entonces eh
+se refiere a
+en la evaluación crítica pues son
+fortalezas, ¿verdad? Es lo que distingue
+revista universitaria de un listado de
+citas. Ahora, en el nivel de evidencia,
+de dónde tomaron eso.
+Eh, por lo menos para cinco de sus
+fuentes que ya eligieron, las que se
+quedaron al final. Ahora voy a regresar
+si todavía están, porque aquí es donde
+me he quedado ya tres veces o dos.
+¿Todavía están?
+Okay.
+Listo, elaboración de antecedentes.
+Estos son las antecedentes por si no los
+han hecho.
+Entonces hay tres tipos, cronológico,
+temático y metodológico.
+Por favor,
+pásense en este. Es tecnología, es
+temático.
+Entonces eh
+pueden usar los tres, pero por lo
+general para para ustedes es este,
+agrupación por subtemas, variables,
+detección de investigación y percepción
+del riesgo.
+Ejemplo, va.
+Agrupado por enfoque, estudios
+cuantitativos, cualitativos y mixtos,
+pero el antecedente tiene que ser
+temático.
+Eh, estas son las referencias y citación
+en APA.
+Eh, este es gratuito, Zotero.
+Mendeley también es gratuito y este pues
+tiene licencia comercial, pero es para
+muchas fuentes y no van a requerirlo
+ustedes. Estos son eh herramientas que
+les van a ayudar a hacer sus referencias
+en su proyecto.
+Estas son las reglas eh APA que más se
+olvidan, sangría francesa en las
+referencias,
+cita en texto cuando hay más fuentes,
+va. Tres o más autores se tiene que
+citar así. DOI
+es un código único de de del del link
+que van a buscar.
+Eh,
+eso también se tiene que citar si
+existe, ¿verdad? Lo que pasa es que el
+sitio puede cambiar, el DOI no va a
+cambiar, es un un un identificador.
+Si está indexado, pues a veces pasa con
+las reglas NLM también que tienen un
+DOI. Fuentes predeterminadas, esto
+también es importante
+para su investigación. Obviamente tienen
+ser fuentes que sean
+arriba del 2021 sería.
+Ya son cinco años, 2020 ya no sirve.
+Entonces lo voy a corregir. ¿Todavía
+están ahí? ¿Me confirman?
+Sí, ingeniera.
+Sí, ingeniero.
+[resoplido]
+2021,
+son cinco años en adelante. Todo lo que
+es para atrás, a menos que sí se
+requiera, va, salvo las clásicas
+o algo de
+Ay, sí, siempre hay literatura
+y que se que es teoría que tiene que
+estar ahí.
+Eh, bien, ejemplos del arte, esto es lo
+último que vamos a ver, la seguridad en
+aplicaciones, un ejemplo.
+Eh, ha evolucionado considerablemente
+debido al número y al aumento de ataques
+informáticos.
+La información publica periódicamente el
+es una clasificación de vulnerabilidades
+más críticas en aplicaciones web. Entre
+las amenazas más comunes se encuentran
+las inyecciones, la autenticación
+insegura y los errores de configuración.
+Las técnicas actuales de mitigación
+incluyen validación de entradas,
+codificación, salidas, implementación de
+políticas de seguridad, contenido
+SSP y pruebas automatizadas. Y bueno,
+todo lo que tiene que ver esto de
+Esto es un un ejemplo, va, autor
+corporativo cita que me sirve para otras
+de otras investigaciones para mejorar mi
+investigación.
+Y aquí terminamos.
+Pero voy a regresar a esto otra vez.
+Aquí me van a colocar
+lo que les mencioné,
+la cantidad de fuentes originales
+con el primer filtro, cuáles son
+elegibles
+y al final cuáles se incluyeron, por
+qué, de dónde la sacaron, todo eso, por
+favor.
+Justificación y también todo todo lo que
+puedan colocar.
+Y esto una tablita de cinco de las
+fuentes
+que incluyeron.
+Eso les pido.
+¿Está claro?
+Y ahí terminamos.
+Bueno.
+Ahora sí.
+Esto se los voy a compartir en un rato.
+¿Me pueden indicar
+lo que les pedí?
+El grupo número uno, por favor. Vamos a
+ir en orden.
+[resoplido]
+Axel Giovanni.
+Valerie Estefanía.
+Darwin Elmer.
+Rafael Enrique.
+Entonces, pregunta. Eh, ¿aquí es donde
+eh
+compartimos pantalla y todo eso o es en
+otro link aparte?
+Solo quiero preguntar
+primero
+Primero su tema.
+Colóquelo en el chat, por favor. Segundo
+quiero saber su hipótesis.
+Okay.
+Ahorita voy. Permítame.
+A ver.
+Okay. Si no estoy mal, este sería
+nuestro
+tema. Ahorita voy.
+No sé si
+Del
+Okay. Okay, está interesante
+¿En dónde va a ser eso?
+¿En dónde va a ser esta investigación?
+Ahí falta el el alcance.
+Okay, okay.
+Si no estoy mal, era para
+una empresa, pero honestamente no estoy
+en cuenta.
+Tiene Tienen colocar el nombre de la
+empresa o va a ser para todo el mundo.
+No, señor, tendría que ser específico,
+cierto, Inge.
+Y tiene que colocarlo en el título.
+Okay.
+¿En dónde sería?
+Valerie.
+Eh, en este en este punto tengo una
+duda, Inge. Eh, inicialmente nuestro
+enfoque era una empresa que estaba en
+Guatemala, pero se dificultaba hacer
+como las pruebas y todo ese tipo de
+cosas.
+Entonces lo enfocamos a modelos como
+que están disponibles para que nosotros
+creemos el entorno y podamos hacer las
+pruebas directamente de inyección de
+prompts.
+No sé si eso sería válido o si
+necesariamente tiene que ser una empresa
+en específico.
+No, todo es válido. Lo que pasa es que
+tienen que colocarlo, ¿verdad?
+Tienen que colocar su experimento. Van a
+hacer eh
+ataques de inyección de prompts.
+Van a sí, pues, pero
+es un ambiente controlado o es un
+ambiente real.
+Sí sería un ambiente real que bueno,
+controlado también porque nosotros lo
+podríamos levantar y sería utilizando el
+modelo el Llama 3.
+Lo ideal sería en un ambiente real
+también hacer un par de pruebas ahí,
+pero ¿cómo?
+Sí, eso tendría que investigar un poco
+más
+para encontrar un ambiente real donde se
+puede hacer.
+Tienen que
+y el impacto ¿cuál es la la hipótesis?
+Eh, la hipótesis la tenemos formulada
+con la empresa anterior
+eh y no la tenemos ya con este nuevo
+tema. Eso estaba revisando ahorita que
+eso nos hace falta.
+Entonces, en la anterior no la tengo.
+Para la otra semana el trabajo debe
+estar terminado.
+Sí, sí. Es que la que tenemos formulada
+está con el tema anterior, no con el
+cambio, entonces solo sería más que todo
+de de cambiar el enfoque
+de la hipótesis que tenemos.
+Quiero ver la hipótesis aún con la
+empresa anterior.
+Sí, ahorita la voy a buscar.
+Eh,
+no sé si mejor le presento pantalla
+Está bien.
+la mando en el chat.
+No, presente pantalla.
+Bueno.
+Ah, esta era la hipótesis general que
+teníamos inicialmente,
+pero como está basada en Django, eh esto
+era lo que habíamos formulado
+básicamente.
+¿No tienen que colocar dos hipótesis o
+va a ser una?
+Solo tiene que haber una.
+No había que hacer hipótesis nula
+también.
+No les dije yo que hicieran.
+Es la hipótesis de su investigación.
+Esta sería como nuestra hipótesis
+general.
+La implementación de framework de
+contención, pero ¿qué quieren demostrar?
+Se basado en filtros reduce
+significativamente la tasa de éxito de
+los ataques. Sí, pues
+Entonces, no no no que ser algo más
+ambientado, pero que eso tiene que ser
+algo real, no solo un ambiente
+controlado. Eso sí tiene que ser en un
+ambiente real.
+Y tienen que simular los ataques.
+Probar ahí
+con una después
+Esas son sus variables.
+Eh, las variables están aquí abajo.
+Variable independiente.
+Framework de contención.
+No.
+Bueno.
+Y la otra variable es la dependiente.
+Pero tiene que ser acá.
+Tasa de éxito, bueno.
+Y se puede, pero ¿cómo puede medir usted
+la tasa de éxito y cómo puede medir
+usted el framework?
+Bueno, la tasa de de éxito sí podría ser
+a base de de la cantidad de ataques que
+se hacen y ataques que fallen.
+Y eso definiría qué tan
+eh sería uno con el framework y otro sin
+el framework y así podríamos medir
+qué tanto cambio hay entre cada uno.
+El framework lo tiene que medir, tiene
+que ver cómo lo mide el framework.
+Cada
+cada control que usted ponga ahí, no sé,
+no sé cómo lo van a medir, pero eso
+no me convence mucho.
+Bien, lo primero que no me convence es
+que esto no es un ambiente controlado,
+eso no. Definitivamente
+eh tienen que ir a probar a una empresa
+a algún lado.
+Si no, no funciona.
+Y tienen que hacer bastantes pruebas,
+son varios meses, 5 meses.
+Probar antes, simular ataques o hacer el
+el ethical hacking,
+intentar hacer los eh
+las inyecciones de
+de de [carraspeo] código son de de qué
+son, perdone, de de
+Son inyecciones de de prompts
+directamente.
+probar
+y
+también demostrar que realmente
+disminuyó, ¿verdad?
+con la variable.
+Recuérdense que tienen ya solo una
+semana.
+Tienen que buscar esa empresa
+y tienen que hacer para
+¿Pueden ustedes o tendrán que hacer un
+trabajo nuevo desde cero en una semana?
+Vamos a hacer lo posible ahí para darle
+la lista.
+Okay.
+Nada más.
+Número Grupo dos.
+¿Qué tal?
+No sé si somos nosotros, no me
+a ver si ahí está mi nombre
+en
+perdone.
+Danilo Giovanni Pineda.
+Sí, ingeniero, en efecto somos nosotros.
+Okay.
+Oh, qué ingeniero, ahorita. Solo vamos a
+ver si le puedo presentar a Rocío.
+Un segundito.
+Eh, como tal el tema es diseño de un
+módulo automatizado de pruebas de
+seguridad y resiliencia en plataforma
+software as a service multiempresa
+de recursos humanos.
+Ah, sí. Ah, bueno, sí, ahorita se lo
+vamos a pagar. Pero pues para que
+también esté en su conocimiento,
+¿verdad? Mediante la verificación de
+controles de acceso, aislamiento de
+datos y simulación de ataques de
+denegación de servicio en una empresa de
+recursos humanos de la ciudad de
+Guatemala ubicada en zona 10.
+Okay. Bastante
+extenso.
+Ahí sí que dije al hueso, al hueso.
+Sí, no sé si sea demasiado. Vamos a ver.
+Diseño de un modelo
+automatizado de pruebas de seguridad y
+resiliencia en plataformas
+en plataformas multiempresa de recursos
+humanos. Así es.
+Resiliencia en plataformas
+multiempresa de recursos humanos
+mediante
+de controles de acceso, aislamiento.
+Okay, ¿cuál es su Creo que ya está más
+que escrito.
+Eh, ¿cuál es su hipótesis y sus
+variables?
+Eh, la hipótesis como tal es en el banco
+de escenarios de plataformas
+multiempresa de recursos humanos
+estudiada. La modalidad automatizada Ah,
+no,
+Vamos a ver.
+Un segundo.
+es hipótesis.
+Ajá, ajá, ajá. Aquí la tengo, aquí la
+tengo.
+Hipótesis. Aquí está.
+Sí.
+La
+Bueno, eso
+¿Ya la colocó?
+Sí, ahorita solo le vamos a presentar el
+documento.
+Okay.
+[resoplido]
+Okay, perdón es que estamos tratando de
+presentar, pero pues
+Pero se la comento. Eh, la hipótesis es
+la implementación de un modelo
+automatizado de pruebas de seguridad y
+resiliencia en una plataforma software
+as a service multiempresa de recursos
+humanos permitirá identificar con mayor
+efectividad qué métodos convencionales
+¿Cómo?
+Corta.
+La hipótesis no es tan larga.
+Ah, bueno, en todo caso pues podemos
+resumirla un poquito más, pero al fin y
+al cabo
+es
+Poquito. Es un parragote, no hombre,
+debe ser algo un poco más corta, pero
+¿qué qué quieren demostrar? O sea
+Sí, básicamente queremos demostrar si en
+ese caso pues las vulnerabilidades que
+sean en este tipo de plataformas si las
+logran cubrir este eh módulo que se va a
+diseñar.
+Así en resumidas cuentas.
+Pero pues ya la vamos a redactar un
+poquitito más chiquitica.
+Hm.
+Necesito ver esa hipótesis.
+Ah, muy bien, muy bien.
+Okay, entonces antes de subirlo lo vamos
+a arreglar. Entonces en todo caso pues
+la variable independiente es eh sería el
+modelo automatizado de pruebas de
+seguridad y resiliencia y la dependiente
+ya sería efectividad en la
+identificación de fallas de seguridad y
+resiliencia.
+¿Pueden medir eso?
+Eh sí claro, con los eh resultados que
+den las pruebas que se van a hacer.
+¿Van a desarrollar ustedes esa
+Sí.
+Esa
+Sí. ¿Lo van a implementar?
+Sí. Sí, ya se habló con la empresa.
+¿Ya tienen ya números de la empresa de
+los ataques que han sufrido? Porque
+muchos de los errores que se cometen en
+estas investigaciones
+es que nunca ha pasado nada o no o sí ha
+pasado pero no lo documentan.
+Tiene que dar una
+en todo caso lo que nos estaba
+comentando el dueño es que sí ha tenido
+ciertos ataques tanto de fuerza bruta
+porque pues estaba pagando un host como
+que no le permitía eh ampliar la parte
+de la VRAM y el vCPU. Entonces eh los
+ataques de denegación de servicio eran
+muy fuertes, entonces eh justamente
+queda casi que a la medida.
+Ya.
+Tienen que colocar historia, todo eso,
+todo eso que pasó con números también.
+Ah claro.
+Todo lo que van a investigar y no solo
+para ustedes
+requiere números, ¿va?
+Por lo menos mis mis investigaciones así
+las pido, con muchos números. Son unas
+investigaciones que dan vergüenza,
+jóvenes, de verdad. Se los digo porque
+yo los he visto, pero bueno.
+Eh
+me van a hacer un favor todos. En la
+semana
+transcurso de la semana
+quiero que me envíen su investigación
+completa antes del del del otro
+miércoles, fíjense.
+Quiero que me lo envíen el
+el sábado.
+Yo me voy a poner a
+a leer su su documento, por favor. Me
+hacen la campaña de enviármelo el
+sábado, terminado,
+porque así tendré yo tiempo
+para revisar.
+Porque el así el
+en una clase no da tiempo.
+Entonces sí necesito que lo envíen para
+el sábado. Así yo voy a revisar el lunes
+eh domingo domingo y lunes, ¿verdad?
+Martes, tengo esos días para revisar.
+Bien, inge.
+Recuerden que
+Grupo tres, por favor.
+José David Aldana.
+Anderson Leonel Suruy.
+¿No está el grupo tres?
+¿Qué tal? Buenas noches, ingeniero.
+Ahorita le comparto el
+tema de nuestro proyecto.
+En el chat, porfa.
+Ya lo compartí.
+Efecto de los controles de verificación
+al cliente sobre la diferencia entre el
+monto autorizado y el monto recibido en
+los desembolsos de créditos por
+billetera digital de una institución
+microfinanciera.
+En Guatemala, de Guatemala
+de la ciudad de Guatemala
+o en zona tal.
+Efectos
+sobre los controles de verificación,
+obviamente los controles son las
+variables.
+Nuevamente aquí no hay mucho que decir.
+Han una una historia, un antes, un
+después, los números, números históricos
+generales, números de la empresa, número
+de ataques
+para poder hacer un comparativo que
+realmente esto disminuyó.
+Podrán hacer eso.
+Y no inventados, ¿no?
+Hay ética aquí.
+¿Cuál es su hipótesis?
+Esta prácticamente parece su hipótesis.
+Pero, ¿cuál es su hipótesis?
+Y sus variables.
+Perdonen, pensé que tenía el micrófono
+habilitado.
+Que nuestra hipótesis viene siendo la
+aplicación de controles de verificación
+que el cliente le ha permitido reducir
+en un monto autorizado y montos
+recibidos durante desembolsos
+crediticios. Esto mediante una billetera
+digital en la agencia
+muy larga, más redactada.
+No no no no aprendieron a hacer
+hipótesis.
+Ah, yo le estaba explicando un poco, no
+le estaba leyendo textualmente.
+Ah, ya.
+Pero yo quiero ver la hipótesis.
+No, bueno, la hipótesis es en la
+aplicación de controles de verificación
+al cliente reducirá diferentes
+diferencias entre el monto autorizado y
+la y el monto recibido durante el
+desembolso de créditos
+mediante una billetera digital.
+Eh, la hipótesis nula es la aplicación
+de controles de verificación del cliente
+no reducirá significativamente
+El documento pidió hipótesis nula.
+Ah, se estaba colocando.
+Porque ya van dos
+Esto es
+previendo ya proyecto dos.
+No es de que se quede como final.
+No entiendo eso. No recuerdo que el
+documento pidiera hipótesis nula.
+Pero sí la pide, me pueden corroborar.
+No, no recuerdo que pidiera hipótesis
+nula.
+Sí lo pidió en su momento.
+Sí, sí la pidió.
+¿No?
+Tiene que ser solo una.
+Hipótesis nula no va.
+A menos que su hipótesis sea nula, ahí
+sí.
+Pero no, no, no, que quieran anular
+algo, no, no, no, no, ahí no.
+Eh, tiene que ser una hipótesis normal
+que demuestre algo.
+Mi proyecto de investigación dos es la
+elaboración de un artículo.
+El artículo puede tener muchos enfoques,
+muchos, muchos, muchos enfoques.
+No es precisamente el tema central de su
+investigación
+principal.
+¿Cuáles son sus variables?
+Sería variable independiente en los
+controles de verificación del cliente.
+Y luego la variable dependiente la
+diferencia entre el monto autorizado y
+el monto recibido por el cliente.
+Okay.
+Okay.
+Está bien. Igual lo voy a revisar más al
+más a detalle.
+Eh, gracias, estimado. Grupo número
+tres fueron ustedes, ¿verdad? Sería el
+cuatro entonces.
+¿Sí?
+Cuatro, por favor.
+Ramírez Sebastián Bats,
+Carlos Edward Rafael
+Tonis,
+Anthony Efraín Estrada Barrera.
+Muy bien, inge. Entonces, si gusta le
+comparto yo el el nombre de
+se lo comparto por el chat
+para que lo pueda ver.
+Ese sería el nombre, mire, inge.
+Propuesta de casos de abuso basados en
+para el proceso de aseguramiento de de
+calidad de entidades
+gubernamentales de Guatemala y su efecto
+sobre la tasa de detección de
+vulnerabilidades en aplicaciones
+evaluando evaluado en un entorno de
+laboratorio.
+Eh,
+ya vi por dónde va la zona tú. Están
+hablando entidades gubernamentales,
+tienen que irse a meter ahí.
+No es un entorno de laboratorio.
+El experimento es real.
+¿Qué?
+Pero como como son
+empresas gubernamentales, ¿verdad, inge?
+No es de que solamente nos den acceso
+solamente así, ¿verdad?
+No, eso lo tienen que pensar, si no
+busquen en otro lado.
+Porque un ambiente real
+miren
+eh
+no es que tiene que ser algo de
+relevancia. La vez pasada me vino una
+investigación que fueron a hacer un
+análisis forense a las escuelas de
+Rabinal y Cubulco, más bien de Cubulco,
+ni siquiera Rabinal.
+Y eso vale, pero eso no tenía
+trascendencia. Por eso les digo, tal vez
+tiene que ser aquí en la capital.
+Y tomar ahí
+contactos, ¿verdad?
+Me había pensado en una escuela, pero
+en un instituto o en el Ministerio de
+Educación.
+Pero no no no no no tiene relevancia. No
+va a ser atacados. Si no tienen primero
+tienen que ver historia
+de algo que haya recibido ataques y
+después ir a ver si eso lo y si fuera un
+caso de abuso basados en
+y de ahí
+ver
+evaluación. Lo que pasa es que ahí no
+van a implementar nada.
+Aseguramiento de calidad
+y el para el procesamiento de
+aseguramiento de calidad
+propuesta de casos de abuso en
+O sea, que van a usar los casos de abuso
+para mejorar el el proceso de calidad.
+Así es, ingeniero. Vamos a mejorar.
+Cometiendo casos de abuso.
+Ah, sí, sí.
+Sí, es es un modelo.
+Ya. Y esto
+Sí, sí.
+¿Pero esto mejora la calidad y la
+seguridad
+o solo la calidad?
+Eh, la seguridad también, ingeniero.
+Las ambas dos.
+Sí. [carraspeo]
+Serían ambas, ingeniero. Este es un
+modelo que se aplicaría más que todo
+para mejorar tanto la calidad y y la
+seguridad de los
+A ver.
+¿De qué es la maestría?
+De seguridad, inge.
+Okay.
+Va. Estamos implementando la seguridad
+en un modelo
+para que tenga menos
+Ya ya Ya ya
+Ya lo entendí.
+Entonces,
+eh póngalo, plásmelo bien en la
+hipótesis.
+Pero sí tiene que haber, no no en un
+entorno de laboratorio eso no prueba
+nada. Les voy a decir por qué.
+Laboratorio tiene que ser afuera, no en
+un entorno de laboratorio o solo van a
+ser unas pruebas, pero eso no
+ese ¿Cómo se le llama?
+Inge, pero en un entorno QA es de
+pruebas, ¿no?
+Pruebas, se hacen pruebas en un entorno
+QA.
+Sí, sí, pero esto es
+que no va a demostrar
+Nosotros vamos a aplicar lo que es QA
+para que ellos tengan más que todo se
+les facilite todo haciendo las pruebas
+que ellos hacen tanto de seguridad como
+de calidad.
+Sería para los que están haciendo las
+pruebas de QA, ¿en dónde hacen las
+pruebas los de QA? En un ambiente
+controlado, o sea, un laboratorio.
+Sí, pero esto tiene que ser una prueba
+concluyente en un ambiente real.
+Pero las pruebas que hacen los de QA ya
+son antes de pasar a producción, es un
+entorno real.
+Sí, pero esto es academia.
+Aquí tenemos que demostrar algo que no
+se hizo en un ambiente de pruebas. Se
+hizo, sí, pero también
+dejó probando ahí que realmente
+demostraron que que bajaron los números
+y que que subieron que subió la calidad
+en un ambiente real.
+Ah, va. Ahí lo vamos a mejorar entonces.
+Por favor, porque si no
+no no, es que esto tiene que ser
+real, un ambiente QA lo puede emplear
+cualquiera, no es un ambiente real.
+Eh, yo he visto los ambientes de QA
+y ahí hay hombre.
+Eso no
+O sea, sí es es válido colocarlo, pero
+no es una investigación principal.
+Deberían de
+colocarlo
+en un ambiente real en varias eh
+empresas si es posible, por lo menos en
+dos tres, no sé si se pueden dos
+instituciones.
+Sería bueno, ¿verdad? Para que les den
+números con un antecedente, con un Sí,
+jóvenes, qué feo es este curso, ¿verdad?
+Dirán ustedes,
+pero es una investigación.
+Les voy a mostrar
+una investigación que yo te reprobaron,
+¿verdad?
+Esto no lo dejé pasar.
+Eh, a todos ustedes
+pues no les voy a mostrar los nombres ni
+nada.
+Eh,
+análisis forense digital y
+alfabetización en seguridad informática
+frente a la fuga de información en
+evaluaciones académicas.
+Okay.
+Se los vuelvo a leer.
+Análisis forense digital y
+alfabetización en seguridad informática
+frente a la fuga de información en
+evaluaciones académicas.
+Primer error, el título ni siquiera dice
+dónde, después lo aclaró.
+Dijo en zona dos, en una institución de
+estudios superiores de zona dos, por no
+decir la Mariano.
+Fuga de información, primero esto es una
+acusación.
+Aquí está acusando fuga de información.
+No mostró números, no mostró ni un solo
+caso
+de fuga de información.
+Tenía que demostrar que realmente hubo
+fuga de información, exámenes
+con números.
+Si es un análisis forense tengo que
+tenía que ir a evaluar logs,
+pero no hay absolutamente nada de eso
+ahí.
+Eh, hizo una encuesta
+y la encuesta estoy buscando las las
+observaciones.
+[resoplido] A 20 personas. Una encuesta
+a percepción, de percepción.
+20 personas.
+Eh, las mismas 20 personas
+respondieron
+Dice, ¿considera usted metodológicamente
+ético y válido que
+sugerir que el personal de evaluaciones
+incurre en malas prácticas a las mismas
+personas que está encuestando?
+Tenía que demostrar que realmente
+incurren en malas prácticas
+o no.
+Entonces ahí está mal, ¿verdad?
+Eh,
+por lo menos ustedes están buscando
+herramientas, están buscando variables
+válidas,
+sus sus instrumentos,
+pero tiene que ser en un ambiente real,
+si no se lo van a tirar, no se lo van a
+valer pues.
+Yo les estoy dando aquí un ejemplo y la
+otra
+tampoco pasó.
+Eh, tiene que ser un aporte real
+de la academia,
+no un análisis, ¿verdad? De yo voy a
+desarrollar en un ambiente que yo tengo,
+que yo simulé y ya.
+Esa no es mi muestra.
+Hay que hacer
+algo real.
+Es una investigación, jóvenes.
+Perdonen.
+Este muchacho lo hizo real, pero tuvo
+malas las variables, ¿verdad? Se
+equivocó.
+Eh, bueno.
+Porque también no quiero que ustedes van
+a cometer ese error, ¿verdad? No es una
+encuesta, pero sí el ambiente no es
+correcto.
+Eh, continuemos con el siguiente grupo,
+por favor.
+Son 5 meses
+o 13, no, 5 meses más porque desde
+ahorita que ya pueden empezar.
+Entonces eh y ya 5 meses ya les dan
+números.
+Ya van
+eh ya van construyéndose las variables,
+¿verdad?
+Y ya se está formando estadísticas
+de que realmente demuestra que sí se
+si hubo hubo varios ataques,
+10 en el último
+intento de ataques en el último año, con
+estas herramientas pues
+bajó a
+o solo hubo un ataque exitoso o qué sé
+yo.
+Eso es lo que tienen que demostrar.
+Eh,
+siguiente entonces, por favor.
+Eh, buenas noches, ingeniero.
+Es grupo cinco, ¿verdad?
+Sí.
+Así es. Ahora le le estaré enviando el
+el título por el chat acá de de la
+reunión.
+Okay.
+Ahí ya se lo compartí.
+Análisis de vulnerabilidades de
+seguridad asociadas a la permanencia
+de roles y permisos de acceso durante
+cambios de puesto, ya me acordé de
+usted.
+Y desvinculaciones, okay.
+La hipótesis.
+La permanencia de roles y permisos de
+acceso.
+En entidades bancarias, quiere decir que
+van a evaluar más de dos
+o más de una.
+No sé si me escucha nuevamente,
+ingeniero.
+Le escucho.
+Ah, hasta ahorita le escucho.
+Ah, bueno.
+Una disculpa que hoy
+me pasó lo mismo de del tema [carraspeo]
+de del internet de que se me cayó
+también. Eh,
+bueno, acá con lo del con lo de la
+hipótesis, pues la la trabajamos
+nuevamente, como se recordará,
+eh
+pues tomando en cuenta lo
+tomando en cuenta parte de sus
+comentarios también.
+También
+tomamos en cuenta lo que sería la la
+parte de los criterios eh finales,
+¿verdad? Y pues evitar en este caso que
+se utilizara algún tipo de término muy
+ambiguo, ¿verdad? O preguntas pues de de
+sí y no para volver a a reformular
+también esa esa hipótesis, ¿verdad? Y
+ahorita se la se la comparto, ¿verdad?
+Yo creo que ya ya la estaría
+recibiendo por ahí.
+No, la la hipótesis no es una pregunta,
+es una afirmación.
+Un momento un momento, ingeniero.
+Un momento, ingeniero, ahorita se la se
+la comparto.
+Listo.
+Ahora sí.
+Podrían estar relacionado
+es duda.
+La hipótesis no duda,
+afirma.
+Tal vez podríamos cambiar ese término
+por algún algún otro que sea eh
+que sea mucho más eh
+que lo afirme.
+afirmando algo, tiene que demostrarlo.
+La permanencia de roles
+durante cambios de puesto y las
+desvinculaciones laborales de entidades
+bancarias está relacionada con las
+prácticas de comunicación. Esto no es
+una hipótesis.
+El seguimiento en las áreas responsables
+generando condiciones que puedan
+favorecer
+ah
+hasta ahí empieza ya la
+la afirmación, pero no, está mal
+planteada.
+Tal vez podríamos resumirla, ¿verdad?
+Para tal vez ir un poco más al grano.
+Sí. Más a las cotas, eso es decir al
+grano.
+Sí, sí.
+¿Las variables?
+En este caso, eh ingeniero, como lo
+trabajamos eh con un enfoque
+un enfoque cualitativo, pues según eh
+contamos con
+con la eh con la metodología, con el
+enfoque cualitativo no no necesitamos eh
+variables independientes y dependientes,
+¿verdad?
+Según la
+Percepción.
+¿Así va a ser?
+Sí, así sería.
+¿Y qué van a demostrar allí?
+Y esto sí se puede probar, pero pero
+bueno.
+¿Qué van a demostrar? ¿Cómo lo van a
+demostrar? ¿Qué van a encuestar? ¿Ya la
+tienen lista?
+En este caso estaríamos eh
+eh pues eh representando lo que sería la
+experiencia, ¿verdad? De los de los
+profesionales que han estado en esos
+procesos, ¿verdad?
+Eh en esos tanto en los procesos de
+desvinculación laboral, ¿verdad? Como
+pues en los procesos de cambio de
+puesto, ¿verdad?
+Pero ¿qué quieren demostrar con esas
+encuestas? ¿Qué van a preguntar?
+Bueno, lo que vamos a preguntar es
+precisamente eh parte de la la primera
+pregunta que se le compartió, ¿verdad?
+Obviamente sobre sobre una serie ahí de
+preguntas también, pero básicamente
+tratando de responder esa pregunta,
+¿verdad? Cómo cómo relacionamos esas
+prácticas
+Muy larga para una encuesta.
+Eh
+disculpe, ingeniero. Es que realmente
+también lo que nosotros queremos
+demostrar eh
+es qué tan vulnerable queda la empresa
+como tal al momento de no quitarle los
+accesos a una persona cambiando de
+puesto o desvinculándose como tal. Eh,
+yo tengo un ejemplo claro, eh eso sí no
+fue en una entidad, por ejemplo,
+financiera exactamente, pero sí he
+escuchado también en financieras,
+pero que una persona eh desarrolló un
+programa
+para una empresa como tal y cuando se
+desvinculó de la empresa
+eh ella podía la persona podía seguir
+entrando al servidor, podía seguir
+haciendo cambios en lo que desarrolló,
+entonces eso es lo que quisiéramos
+nosotros demostrar.
+Eso no lo he visto yo.
+Eh, eso lo he visto yo.
+Sí, correcto.
+Lo he trabajado. Primero,
+empezando con la primera pregunta,
+entidades bancarias, cuántas cuántos
+bancos van a evaluar.
+Eh, sí, tenemos que como mínimo hacer
+con dos entidades bancarias. Eh,
+pensamos hacer Bueno,
+eh nosotros también lo pensamos hacer
+con una cooperativa en específico. Eh,
+yo sé que no entra como tal en en
+entidad bancaria, pero hay una que se
+está acoplando ya a la como entidad
+bancaria y a una entidad bancaria como
+tal.
+Pregunta.
+Es como mínimo sí dos.
+¿Esos problemas ya existen ahí?
+Eh, al menos con una de las que yo tengo
+que por donde surgió la idea de de la
+propuesta es con una cooperativa y lo
+puedo decir hablando desde mi punto de
+vista que sí, porque yo fui una de las
+personas que no le quitaron ciertos
+accesos y hasta cierto tiempo pude
+entrar sin estar en la empresa como tal.
+Ya.
+¿Y qué va a demostrar? Solo que sí
+puedes seguir haciendo eso es obvio.
+Su hipótesis no debe ser obvia.
+Demuestre algo, propongan algo más.
+Okay.
+política
+pero esto también va a ser obvio, pues.
+Que tienen que esforzarse un poquito
+más, hombre.
+Okay.
+Entonces vamos a mejorar eso, ingeniero.
+Y para allá, para el sábado.
+Si no les va a tocar que desvelarse. Eh,
+bien.
+Eh, siguiente grupo.
+Buenas noches, ingeniero. Ahorita le voy
+a compartir nuestro tema.
+Listo.
+Una herramienta con inteligencia
+artificial para la detección de correos
+electrónicos de
+[resoplido] en la empresa. Hm,
+quítele eso y póngale
+el el el nombre, quítele el nombre
+porque si no
+Ah, okay. ¿Está bien dejarle solamente
+en la empresa en Guatemala?
+Una empresa que se dedica a tal cosa en
+zona tal.
+Ah, okay.
+¿El nombre de la empresa no?
+A menos que tengan permiso para ello,
+pues está bien, ¿no?
+Ah, okay. Pues en realidad sí, porque
+ellos estamos trabajando, es una empresa
+pequeña.
+¿Qué tan pequeña?
+Eh, sí es muy pequeña porque están
+empezando a crecer y implementar cosas.
+Ya es una PYME, ¿verdad?
+Sí.
+Está bien. [resoplido]
+Deberían de buscar más.
+Van a
+implementar,
+pero primero tuvo un problema, ¿verdad?
+Hubo ataques.
+Sí, hay hay problemas antes.
+Para llegar a este
+¿Se pueden documentar? ¿Se pueden
+mostrar en el documento
+historia en un histórico?
+Sí, de sí se puede. De hecho también con
+lo que esté mencionado anteriormente con
+los otros grupos de una manera de cómo
+saber o encuestar a esas personas hay
+test, o tenemos test en donde también
+hay es parte de una capacitación para
+las personas
+que realmente eh sepan en qué momento y
+todo lo que pasa sobre un correo,
+¿verdad?
+Hm.
+[carraspeo]
+Y los objetivos.
+Cuando me refiero a números me refiero a
+pérdidas en dinero por
+Que puedan hacer eso.
+Que puedan ingresar a datos de dinero
+para robar dinero, ¿eso es?
+documentar que si alguien fue estafado
+no solo y demostrarlo pues.
+Sí, como esta es una empresa de
+transporte, de hecho manejan todo tipo
+de datos, más que todo financiero.
+Entonces sí, sí se puede
+sí se puede mostrar.
+Que hubo problemas antes, que eso es la
+historia
+y después
+van a implementar dice una una
+herramienta basada en inteligencia
+artificial
+y van a experimentar de que al
+implementarla pues ya no van a mandar
+ataques esto también es obvio, pero
+cómo mejorar esto.
+No, sí se puede, pero sí necesitan
+implementarlas y
+si la van a desarrollar ustedes
+Hm.
+pónganla en más empresas.
+Ah, okay.
+Tres o cuatro
+y midan midan
+tengan histórico, historial,
+investiguen, porque eso es investigar,
+¿no?
+Quiero investigar cuántos ataques
+sufrieron, si hubo números, si hubo
+pérdidas eh dinero, eh víctimas, todo
+eso en las empresas y después
+ya ahí le van a cambiar el enfoque, pero
+esa es la investigación, va a ir
+cambiando un poco hasta el título.
+Si eso es lo que están haciendo,
+¿verdad?
+Sí, okay.
+Y tres, cuatro empresas y aquí tenemos
+los números y de ahí vamos a implementar
+esto y vamos a ir midiendo con los
+instrumentos si esto se disminuyó
+y bueno
+sencillo, ¿va?
+¿Y al al final a la conclusión siempre
+nos quedamos solo con una empresa o con
+todas luego de hacer la investigación?
+Pues todas
+una investigación no van a ir le ponemos
+una es que mire lo que no quiero es que
+pase esto.
+Vamos a ir a implementar una herramienta
+de seguridad a una empresa que no tuvo
+ataques de nada.
+Hay que tener
+Las empresas
+que anterior está bastante interesante
+la de los roles pero
+tienen que cambiar el enfoque, hombre,
+no está bien, pero un banco sí, ahora
+una empresa de transportes y maneja
+dinero
+primero la gente tiene que conocer
+la empresa y y hacer phishing
+eh
+no sé qué tan
+blanco de phishing sea una empresa de
+transporte pero
+no sé
+eso es lo que tienen que investigar
+que que haya una problemática, que
+exista una problemática y tratar de
+solucionarla, ¿va?
+Okay, entonces eh nuestro tema
+cambiaría, ¿verdad? Ya no
+especificaríamos solo el nombre de la
+empresa, sino ya es mejor general en
+Guatemala.
+Eh que sea el mismo tipo si se puede,
+¿va?
+Ah, okay, sí
+vayan a transportes Esmeralda, ¿va? de
+transporte de pasajeros, de ahí vayan
+una de transporte de carga, pero no sé
+qué tanta información bueno estos cuates
+sí pueden sufrir extorsiones
+eh pero phishing
+Sí, bueno es que de hecho el phishing eh
+los lanzan así yo he estado en empresas
+que tal vez no son tan reconocidas acá
+de Guatemala, ejemplo cartografía pero
+que sí sufren eh
+amenazas de ¿verdad?
+Porque tal vez no son tan reconocidas y
+por eso quieren intentar atacar y caen
+siempre caen las personas porque sí se
+sufrió.
+Eso es lo que usted tiene que demostrar.
+Que caen
+y solucionarlo.
+Okay.
+Con números, ¿no?
+Todo con todo respaldado con
+información.
+Lo siento, jóvenes, pero así son mis
+investigaciones, se los dije. Se los
+dije.
+Eh una encuestita
+a mí no me gusta mucho eso. Investiguen
+con números, investiguen con
+con sus variables bien bien y sus
+instrumentos bien
+desarrollados, ¿verdad?
+No no una encuestita y a la misma
+persona le van a decir, ¿considera usted
+que con la herramienta disminuyeron? Sí,
+le va a decir que sí y siempre.
+Así no es.
+Eh eso lo tiene que ir a demostrar.
+Ir a ver logs, ir a ver redes, ir a ver
+todo eso y así es un correo, evaluar,
+¿verdad?
+Si llegaron, si no se fueron al
+realmente los leyeron o si con
+herramienta ya no pasó.
+Entonces eso es lo que
+lo que tiene que funcionar.
+Okay.
+Pues con la herramienta, ¿qué hace la
+herramienta?
+Detecta y bloquea.
+Sí sí, en general eh
+detecta y muestra eh los mensajes de
+alerta o de urgencia.
+Ah, bueno. [carraspeo] Entonces sí
+podemos medir eso.
+¿Está bien? A ver si en 5 meses cae más
+de alguno, ¿verdad?
+Sí,
+quiero que la investigación sea espuria.
+Sí, de hecho bueno, estábamos viendo de
+qué manera se pueden hacer pruebas así
+de parte de nosotros y hay una
+herramienta en Kali Linux
+que hemos utilizado anteriormente que es
+es algo así se pronuncia en donde se se
+hace la práctica de que se envía el
+correo y si la otra persona ingresa al
+link que se le mandó, entonces ya cae en
+el sentido de que va a obtener el datos
+no solo entrar en correos.
+Okay.
+Me gusta que lo están dando ese enfoque,
+ojalá logren demostrar.
+Gracias, estimada.
+Siguiente grupo.
+Eh, buenas noches, ingeniero. Ahorita le
+envío por medio de mensaje
+el nombre del tema.
+Ah, por cierto, el anterior la hipótesis
+no está bien, tiene que ser una
+afirmación
+y la tienen que demostrar.
+Más de la mitad de los colaboradores,
+así no es una hipótesis.
+Al grupo de
+Ahora sí.
+Eh, nuevo la nueva persona que estaba
+hablando, análisis del nivel de
+conocimiento sobre ataques de
+Eso ya no me gusta, pero bueno, vamos a
+leer.
+Esto
+adivino, lo van a terminar midiendo como
+una encuesta.
+Eh, nosotros vamos a a realizar lo que
+es correos para verificar si de verdad
+eh personas caen, o sea, hechos con
+inteligencia artificial o no, hacer
+pruebas con correos.
+ahí está.
+Sí, sí. Eh, igual eh la empresa ya eh
+cuenta con antecedentes. Eh,
+anteriormente igual hay eh
+que publicaron lo que es el ataque,
+videos de del ataque y que también la
+empresa tuvo que
+Bueno, gracias a eso la empresa cerró.
+Entonces fue otro motivo por el cual
+cerró. Entonces tenemos ahí
+documentación y que respalda que sí fue
+si cerró y van a hacer la investigación,
+quiere decir que ya está abierta
+nuevamente, ¿o no?
+exactamente. Está incluso
+Bueno, hace 1 año pues y Bueno, incluso
+este en marzo creo yo que ya inició la
+producción.
+Entonces acaban de abrir nuevamente.
+Entonces queremos investigar a ver si
+las personas están capacitadas para
+poder lograr identificar cuando un
+mensaje se ha hecho por artificial o por
+o real, ¿verdad?
+Okay, hay un antecedente.
+No quiero que se quede corto tampoco.
+Si pueden meter más empresas mejor.
+Eh, ¿cómo van a medir esto? Nivel de
+cómo van a medir el nivel de
+conocimiento.
+Eh, nosotros, bueno, tenemos varias
+herramientas, ahorita le menciono.
+Tenemos eh
+bueno, sí vamos a hacer lo que son
+cuestionarios también, ¿verdad? Para eh
+ver el conocimiento del personal acerca
+de lo que es phishing, a ver si ellos
+tienen alguna idea de que hubo
+antecedentes, ¿verdad? O vamos a hacer
+pruebas, ¿verdad? Qué tan capacitada
+está las personas que
+que están ahora con dispositivos, con
+correos electrónicos.
+¿Va a haber una capacitación antes?
+¿O solo van a tirar los eh
+los ataques solo así?
+¿Qué quieren demostrar?
+Bueno, nosotros queremos demostrar que
+bueno, sí tenemos en plan lo que es una
+capacitación. Primero ver antes,
+¿verdad? que antes de capacitar
+verificar si ellos caen o no. Vamos a
+tomar una una muestra.
+Diferente. El título debería ser
+diferente.
+Porque análisis de conocimiento sí, pero
+ustedes van a hacer una
+capacitación antes
+y a cambio ese sería experimental.
+Y ahí sería ya como las anteriores,
+¿verdad? Eh,
+de los otros compañeros una propuesta
+de implementación de capacitación, pero
+la capacitación
+no sé, concientización eso se les
+olvida.
+Eh,
+ahí sí no sé.
+No me convence.
+¿Cómo van a medir eso?
+¿Cómo van a medir eso?
+¿Pero qué quieren demostrar?
+En sí si las personas eh después si
+logran identificar y no caer en lo que
+son los ataques.
+Hm, eso es ambiguo, demostrar o no
+sin un antecedente, sin solo con lo que
+pasó, pero
+no no no lo entiendo.
+¿Y cómo es la hipótesis? Quiero ver la
+hipótesis.
+Tampoco va así.
+Es una afirmación, o bueno, podría ser,
+pero cambien un poco el enfoque.
+Existe una relación positiva y
+estadísticamente significativa de entre
+el nivel de conocimiento sobre ataques
+de phishing, la variable es
+conocimiento, pero tienen que
+demostrarlo
+generados con IA
+y la capacidad de identificación de
+mensajes por
+colaboradores
+La relación positiva
+tautología, ganar ganar.
+¿Ya recibieron la capacitación o todavía
+no?
+No, aún no.
+Para que tenga cierta validez,
+mínimo tres, cuatro empresas,
+hacer una ataque con ingeniería
+con con ingeniería social, generar por
+ella,
+colocar dar la capacitación
+en las tres, cuatro empresas,
+volver a hacer la prueba, pero eso va a
+ser obvio.
+Está muy obvio eso.
+Va a disminuir, es que sí, obviamente va
+a disminuir, eso es muy obvio.
+Pero si lo quieren demostrar, está bien,
+sigue siendo válido, ¿va?
+Pero para que tenga validez,
+mínimo tres, cuatro empresas, ¿va?
+Y ahí cambia el enfoque.
+Eh, tienen que meter a puro tubo la
+famosa capacitación en algún lado, ¿va?
+En el título, en la hipótesis.
+Porque el prácticamente lo que van a
+demostrar es que la capacitación sirve.
+Esa es su hipótesis.
+De acuerdo, ingeniero, está bien. Lo
+tomaremos en cuenta.
+Y mídanlo
+también, ¿va? Si si hay una herramienta
+ahí, pero no es herramienta.
+Eh, vamos a ver. Proceso
+¿Cómo van a medir el conocimiento con
+ataques exitosos? ¿Cómo van a medir eso?
+Solo con encuestas.
+Con las pruebas que se realicen para ver
+que, por ejemplo, eh un entorno
+controlado podemos ver si nosotros
+bueno, enviar mensajes al azar
+donde sí son con inteligencia artificial
+y cuáles no, ¿verdad? Y entonces medir
+el éxito viendo si las personas caen o
+no, dependiendo si caen
+¿Qué van a Cómo van a saber que caen?
+Porque ya sea entran a un link
+defectuoso o dan información de la
+empresa respondiendo ese correo.
+Controlado ustedes.
+Exactamente.
+Okay, si tienen esa herramienta, pero va
+a tener que agrandarse un poco más,
+¿verdad?
+La famosa capacitación, ¿no?
+Y de ahí probar
+con su herramienta.
+No con
+No, si quieren metan ahí
+la
+la encuesta, ¿verdad? Pero que no sea su
+herramienta
+principal, ¿verdad?
+Mídanlo ustedes.
+Vale, está bien.
+Vamos a tomarlo en cuenta.
+Okay.
+Siguiente grupo.
+¿Qué tal, ingeniero? Buenas noches. Le
+envío ahora el título de la
+investigación.
+¿Qué grupo son ustedes?
+Grupo número ocho.
+Ya llegué al ocho.
+Okay, está bien.
+Sí, sí.
+Análisis y propuesta de controles es o
+análisis o propuesta.
+Una de las dos.
+De controles básicos de ciberseguridad
+para el fortalecimiento de la seguridad
+de la información en una cooperativa de
+Morales y Izabal.
+Igual, misma historia, un antes y un
+después.
+¿Hay historia o no hay historia de
+ataques?
+Eh, sí de ataques y también de
+Bueno, no ataques realmente, sino que
+fuga de información debido a que,
+por ejemplo, no tienen ningún tipo de
+control estricto sobre los equipos que
+almacenan la información. Entonces
+¿Y pueden demostrar?
+Sí, por ejemplo, sí se puede demostrar
+que no tienen ningún tipo de de control
+sobre
+tienen no, que haya pasado algo, un
+incidente.
+Sí. Bueno, no del todo porque no hay una
+Como no tenían un control, no pudieron
+como que del todo
+¿Cómo? Entonces, ¿cómo va a comparar?
+¿Contra qué va a comparar?
+Fuga de información que hubo, pero a lo
+que me refería era que no había una un
+hecho de quién se la llevó o en qué
+momento pasó, sino que simplemente se
+dieron cuenta de que no estaba algo, se
+fugó información, pero no hubo mayor
+conocimiento de él.
+Es corto.
+Tiene que mostrar algo más.
+Y tiene que saberlo demostrar.
+Tiene que haber evidencia de de Si no,
+por gusto, solo
+voy a demostrar que como colocando
+controles ya no hay ataques.
+Que hubieron, pero no sé qué hubo, pero
+yo no sé cómo
+No, hombre, eso no no no me dice nada.
+Hubo ataques,
+pero no se pudo comprobar, no se pudo
+documentar. Eso no
+Entonces, ¿cómo voy a demostrar que sí
+disminuyeron los
+eh las pérdidas o qué es lo que van a
+comprobar, no?
+¿Qué controles van a poner?
+Los controles que hemos simplemente
+pensado implementar son los de IG1,
+que las eh 56 para empresas pequeñas,
+eh que deberían llevar para la seguridad
+de la información, como por ejemplo,
+entre algunos pues monitorear los
+equipos, que los servidores eh estén en
+un ambiente seguro, por ejemplo, que los
+equipos actualmente no tienen bloqueados
+los puertos, algo tan simple como los
+puertos no están bloqueados permiten que
+pueda haber fuga de información por
+dispositivos de almacenamiento
+portátiles, ¿verdad?
+Okay, pero se necesita historia.
+Igual por el tipo de propuesta
+o análisis, como le llaman,
+tres cuatro empresas.
+Y que tengan historia, ¿verdad? ¿Por qué
+van a hacer esto?
+Esto es algo
+más fácil que puede ver.
+Solo una pregunta. Eh, con respecto a
+esto pues son varias, porque es una
+cooperativa la que teníamos pensado eh
+investigar, pero la como tal es una
+línea de tres cooperativas que hay en el
+en el municipio. Pues en este caso
+podríamos incluir las todas y investigar
+si en las otras sí hay una historia más
+clara.
+Es que
+lo primero que les dije al principio del
+curso es identificar una problemática.
+Si hay problemas,
+se buscan soluciones, se experimenta. Si
+no hay problemas, si no hubo ataques, si
+no se puede demostrar, entonces ¿cómo lo
+voy a documentar? ¿Contra qué voy a
+comparar? No es si ya tuvieron
+o van a implementar es porque ya hubo y
+van a mejorar y van a mostrar números
+hasta de plata si es posible.
+¿Me doy a entender?
+Es una investigación.
+Ah, okay.
+Okay, jóvenes. Tienen poco tiempo para
+el sábado.
+Terminen esto para el sábado
+y
+yo lo voy a evaluar.
+Conforme vaya evaluando se los voy a ir
+respondiendo.
+Y si no pues el miércoles que los vea
+nuevamente.
+Está bien, ingeniero, lo vamos a tomar
+en cuenta.
+Okay, jóvenes.
+¿Alguien levantó la mano?
+No.
+No.
+Tomen en cuenta las consideraciones,
+jóvenes, por favor, es una investigación
+de maestría, tienen que investigar,
+describir y resolver y probar,
+experimentar.
+De eso se trata.
+De eso se trata.
+Eh, está bien, jóvenes, eh
+cualquier duda quedo a la orden.
+Ajá.
+Quiero ver.
+Yo no leo las letritas chiquitas, la voy
+a poner a Word y voy a agrandar.
+Me cuesta, de verdad.
+En saber qué dice.
+Estábamos pensando en nuestra hipótesis
+de la implementación de una herramienta
+basada en mejorará la detección de
+correos electrónicos
+en las empresas.
+Mejorará la detección de correos
+electrónicos de phishing
+contribuyendo a reducir el riesgo
+de ataques de ingeniería social
+y fortalecer la está bien.
+Entonces, eh ¿dónde está la la base de
+la implementación de una herramienta
+basada?
+Mejorará.
+Ahí el mejorará.
+¿Cómo podemos cambiarlos si se puede?
+Aumentará.
+Algo así tendría que ser.
+¿Mejorando?
+Aumentará la
+de correos electrónicos, tendría que ser
+no mejorar,
+aumentará
+la detección o
+Sí, sí.
+Aumentará, podría ser
+Ah, okay, gracias, ingeniero.
+Bien. ¿Alguien más?
+Bueno.
+Yo
+reviso parte de forma del contenido. Sí,
+sí reviso la forma, la voy a revisar,
+pero yo me enfoco en título,
+hipótesis, objetivos,
+variables e instrumentos.
+Porque esa es la investigación. La forma
+pues de ahí le van dando, echando salsa
+a los tacos, va historia, justificación,
+todo eso.
+Pero es estas estos temas centrales le
+van dando ya la verdadera forma al
+protocolo.
+Entonces, por eso pedí eso.
+Bien, jóvenes, ¿alguien más?
+Okay.
+Los dejo, jóvenes. Deseo que tengan un
+una buena noche.
+Voy a subir de una vez la tarea y su
+presentación de hoy para que entreguen
+esa esa primera versión del protocolo
+terminado para el día
+jueves.
+¿Estamos?
+Bien, inge.
+Feliz noche, inge.
+Igualmente.
+Feliz noche.
+Buenas noches, feliz noche.

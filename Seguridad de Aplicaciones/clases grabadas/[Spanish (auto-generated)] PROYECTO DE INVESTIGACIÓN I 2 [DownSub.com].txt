@@ -1,0 +1,1079 @@
+en este mismo formato.
+Yo muchas veces les he regresado porque
+no lo hacen bien, pero por lo menos en
+mi curso no da no se da ese problema. Yo
+tengo ahí todavía el listado de temas de
+mis compañeros maestrandos del año 2024
+que yo impartí o 2023. En algún año de
+esos yo impartí ese curso y ahí están
+los temas de investigación bien
+detallados.
+Estos señores tuvieron que haber hecho
+un protocolo impecable. O eso espero
+porque yo les di las directrices y
+tenían que hacerlo. No hubo queja.
+Entonces espero que sea exactamente
+igual con ustedes, por favor. Entonces
+aquí están. Lo voy a borrar porque
+parece que estuve tachando eso, pero
+realmente no estuve tachando, estuve eh
+señalando cómo es que va el asunto.
+Estamos claros.
+Okay.
+Ejecución de los objetivos específicos.
+Esto ya cambia. Ya estamos hablando
+de tres objetivos. Miren que el árbol de
+problemas me dio. Bueno, aquí tengo eh
+dos problemas. Eh
+ah no, es que es aquí.
+Estos problemas se se convirtieron en
+objetivos,
+respaldos, políticas y personal sin
+capacitación.
+Un sistema de respaldo periódico
+y recuperación en los servicios
+institucionales para garantizar la
+disponibilidad de la información
+crítica. Si no tienen un lindo
+proyectos, no solo de investigación, se
+van a ver resultados.
+Pueden hasta vender ustedes una
+herramienta si quieren y hasta plata les
+pueden dar. ¿Por qué no? ¿Ustedes se
+dedican a eso? Pues sí, ¿por qué no? Ah,
+¿qué qué qué sistema de respaldos van a
+implementar?
+Pues el que le convenga más. Ustedes
+tienen que tener ya un su un su plan, un
+su portafolio de ventas, productos que
+ofrecen gratis, pagado, empresas, todo,
+¿verdad?
+Va a ser va se va a respaldar.
+¿Qué herramienta van a usar? Va a ser un
+respaldo full, incremental, diferencial,
+con deduplicación a cinta, a disco, a la
+nube, nivel de retención, replicación,
+políticas de restauración. ¿Qué van a
+hacer ustedes ahí? Pues ahí tienen ya un
+una investigación en un lugar donde no
+existe un sistema de respaldos.
+Políticas políticas de seguridad de la
+información, eso es un poco más
+complicado de hacer. Primero ir a ver al
+inventario de activos, porque ese es un
+problema. Muchas veces los activos ya
+están y ustedes se dan cuenta en las
+empresas quizá ya hasta tienen ese
+activo, esa política, pero no la usan.
+Pero en el caso que no que no exista,
+pues se empiezan a trabajar las
+políticas, ¿verdad? tienen el ISO 27001,
+los controles y empiezan a meterlos y ya
+ver la la auditoría y todo eso, los
+empiezan a implementar, los que aplican
+o no hacen su matriz de viabilidad. Si
+no es matriz de viabilidad, a mí se me
+olvidan los nombres, se me cruzan los
+nombres. Déjenme ver cómo se llama esa
+matriz.
+Justamente del ISO.
+de aplicabilidad, si es que aplica o no.
+So bueno, entonces ya lo tienen ahí, ya
+tienen las políticas de de respaldos, ya
+están las políticas para la
+implementación
+de seguridad de la información,
+ponen sus auditorías, cada cuánto las
+van a hacer, se va a se va a ser
+certificable o no, qué controles van a
+poner, se hace la inversión, se
+desarrolla un proyecto para
+implementación, porque eso de políticas
+eh no es solo de de hacerlas, hay
+implementar un un ISO es un rollo y eso
+pues es un proyecto. Así que este
+proyecto es enorme.
+Solo este proyecto con este objetivo
+específico es enorme, lleva meses, quizá
+años. Si ustedes van a hacer eso, tienen
+que hacerlo para algo pequeño y tienen
+que hacerlo midiendo su tiempo. Por eso
+es que se hace la viabilidad, ¿verdad?
+Vamos a hacer esta investigación y vamos
+a descubrir y miden ustedes como como
+eso toman nota de los datos de antes,
+las cifras de los ataques de Ramsonware,
+cuánta plata se perdió, cuántos fueron
+los afectados, cómo fueron afectados.
+Después de implementar esto, tienen que
+tomarse su tiempo para ver los números,
+cuánto disminuyó,
+cuánta plata ya ya ya hay más disponible
+y también cuánto se gastó, ¿verdad?
+Porque también eh ese es un un problema
+que se que se puede dar si no se si no
+se toma en cuenta, ¿verdad? Entonces, eh
+para eso
+tienen que alguien está intentando
+ingresarme
+ver algo.
+que se me borró.
+Se me borró un documento que yo les iba
+a presentar hoy. Déjenme encontrarlo
+otra vez porque yo lo estaba listo para
+subir, que era lo del protocolo.
+¿Cómo fue que pasó? Yo no sé, pero pasó.
+Ahorita voy, jóvenes.
+Se perdió.
+Lo voy a descargar nuevamente.
+Ahorita continuamos, jóvenes.
+Eso no debió de haber pasado.
+Ahorita le doy entrada afuera.
+Ya está el documento.
+¿Dónde estaba?
+Pueden apagar su micrófono, por favor.
+Bien, les decía que tenemos que hacer un
+análisis
+de factibilidad también, pero ver cuánto
+se va a gastar para ese proyecto, eso no
+es no más. Ahí no estamos hablando de
+de de cuando estamos hablando de
+ventajas, de medir tiempos, de medir
+métricas, de medir dinero, tenemos que
+hacer un costo total de propiedad para
+ese proyecto, no solo la inversión
+inicial, sino que ver cuánto va a costar
+de mantenimiento, si realmente va a ser
+de beneficio, ¿verdad? Yo no les voy a
+pedir todo eso, pero sí por lo menos eh
+que las políticas disminuyan, ¿verdad? O
+sea, tiene que ser factible y viable
+para la empresa, la empresa se los va a
+pedir, ¿no? Bueno, campañas de
+concienciación digital.
+Este, digamos que es un enorme camote.
+Este se puede conseguir.
+Este es el más fácil de todos. campañas
+más fácil de implementar, sí, pero el
+más difícil de que cumplan, porque la
+gente está estuda. Y cambiar una cultura
+es es muy complicado. Entonces, eh esos
+tres objetivos son para un proyecto de
+un año más o menos. Ustedes calculan
+poder hacer uno de estos. Búsquense algo
+a la medida, pero tampoco que sea
+chiquito.
+Entonces, ¿estamos claros hasta ahorita?
+Sí, ingeniero. Todo bien.
+Y qué bueno que apareció su documento.
+Ya ya no sé cómo borré cosas yo. Pues
+pasan
+hasta en las mejores familias. Miren,
+una vez me pasó
+eh la peor pesadilla de un informático
+es un delite sin sin rollback.
+Y un
+sin.
+A mí me pasó
+un delite sin
+un delite de de él dije yo. Va.
+Dijo un we sin wear.
+Ah, torpe.
+Perdonen jóvenes. Cruzo palabras.
+Eh, un delite sin me pasó con unos cubos
+gerenciales.
+Resulta que los meros tatascanes de esa
+compañía multinacional miraban ese
+reporte y su servidor lo burro.
+Dios mío,
+sentí frío ese día, buenas.
+Pero yo es que tengo una obsesión con
+liberar espacio. Siempre que borro cosas
+y me meto en problemas, eh, siempre
+borro con shift delite, todo. Y así
+pasaba a base de datos.
+Sentí escalofríos. Le dije a mi jefe,
+como él no conocía la magnitud, esos
+eran clientes internos míos del área del
+departamento. Él sabía que estaba ese
+programa, esas aplicaciones, pero él
+dijo, "Ha, al vino no lo maneja." Dijo,
+"Ahí se lo dejo a él." Cuando le comenté
+solo me dijo, "Vos lo vas a solucionar."
+Miren jóvenes,
+yo ya estaba preparado
+para la para enfrentar cárcel, jóvenes,
+porque eso se iba a convertir en una
+demanda. Era información clave, era
+información clave de la empresa. Dije,
+si salgo corriendo la Patagonia, no voy
+a llegar ahorita. Como aquel inglés loco
+que salió justamente de la Patagonia
+para ir a su tierra de Inglaterra. Ya
+lleva como 10 años o más.
+Bueno,
+a mi paso creo que me hubieran atrapado
+ahí por la frontera, ¿verdad?
+Pero
+estuve pensando muchas cosas.
+Me relajé,
+me senté,
+me eché un par de cervezas,
+me fui a la casa, seguí echando
+cervezas, no sentí, era
+viernes,
+ya el lunes con con cabeza fría
+eh, ya pensé y empecé a investigar que
+podía hacer. Resulta que era una eh una
+versión antigua de Excel.
+y
+SQL Server
+2003, si no estoy mal.
+Y bueno, empecé a investigar que si un
+usuario
+manejaba como esa información siempre se
+maneja en los archivos de Excel, siempre
+está fresca.
+Le fui a pedir, le dije, "Mirá, era
+cuate mío, mirá vos". Le dije, "pués ver
+tu tus archivos de Excel, solo que no le
+vayas a dar actualizar porque me clavas
+y sí, ¿no? Sí, aquí están y aquí está la
+información y esta es completa. Sí,
+entonces vi, pero no me la pasó que era
+confidencial, aunque yo la manejaba,
+pero no te la puedo dar." Me dijo, "Si
+querés sacar algo, mira vos qué hacés."
+Pero me dio la clave de que había una
+como, yo no sé qué es, una como memoria
+interna de Excel
+y y los cubos. La cosa es que la
+información estaba ahí, ya no estaba en
+la base de datos, pero estaba ahí en ese
+en ese intermedio.
+Y pasé chambeando hasta que la logré
+recuperar. Hubo unas tablas que ya no
+pude, unas que no eran necesarias,
+pero la información principal, miren,
+ahí estaba.
+Gracias a Dios estoy aquí dando clases,
+miren, porque si no no estuviera aquí.
+Les juro que esa información de una
+multinacional
+era crítica. Me pasó y al final le
+expliqué a mi jefe, el cuate ni sudó
+frío. Él también lo hubieran demandado.
+Él pienso que lo hubieran demandado por
+ser el encargado y él ni se enteró de
+que estuvo cerca.
+Pero
+obsesión mía con borrar las cosas, no
+tengan esa mala práctica. Y me he metido
+en clavos serios con mis con mis cosas,
+tengo que estar recuperándolas.
+Y eso que estoy obsesionado con los
+respaldos. Yo tengo aquí eh cuatro tres
+discos, uno de 16 teras y dos de ocho
+cada una.
+Yo tengo toda mi información personal,
+películas, música, fotografías, todo lo
+que yo tengo lo colecciono ahí.
+Escaneos, trabajo,
+ordenado, clasificado, ahí está y
+respaldado. Quizás solo si se cae este
+edificio, pues pierdo todo, ¿verdad?
+Pero de lo contrario está yo tengo
+obsesión con eso. El problema está en
+que por liberar espacio también tengo
+obsesión y me han metido gol. Gracias a
+Dios su documento está una pequeña
+anécdota que que le sirva de ustedes. No
+hagan las pendejadas que su catedrático
+de proyecto de investigación uno.
+Aprendan de él. No hagan esas muladas,
+jóvenes, de verdad. Eh, aunque se gaste
+un poco más el espacio, si van a borrar
+algo, cercianse si realmente no sirve o
+si ya lo tienen respaldado. Bien,
+continuando con la investigación,
+puente de transformación, caso
+Ramsonware, siempre sigue mi caso ahí.
+Si se dan cuenta, el problema es una
+falla estructural, es un puente, la
+solución es una solución estructural.
+Falta de protección adecuada.
+contraataques de Ramsung mejora la
+protección contra ataques de Ramsunger.
+Por eso les decía, una correcta
+definición de un proyecto de
+investigación
+nos da el 80% de la solución.
+Ya está escrito, ya no tenemos que hacer
+gran cosa, ya está. Y con los objetivos
+redactados mejor. Causa políticas
+desactualizadas, no respaldos. ¿Y cuál
+era el otro?
+eraectos, pérdida sensible de
+información y en este lado actualizar
+políticas o implementar implementar
+respaldos y concienciación.
+Efecto se convierte en un fin, preservar
+la información, garantizar continuidad
+operativa.
+Y aquí está otra vez hablando de lo
+objetivo general, analizar los factores
+técnicos y organizacionales asociados a
+la expuación de incidentes de Ramson en
+la institución pública X durante 2026.
+Miren que aquí estamos poniendo un año,
+estamos poniendo dónde
+estamos poniendo el tipo de ataque y le
+estamos poniendo factores técnicos y
+organizacionales
+con el propósito con el propósito
+de identificar oportunidades de
+fortalecimiento, de capacitación
+de de fortalecimiento de capacidades de
+prevención y recuperación. Y aquí ya
+venimos a de los específicos,
+identificar vulnerabilidades en
+infinitivo. Miren las vulnerabilidades
+técnicas relacionadas con la exposición
+del Ramson. Ahí tienen que seguir
+investigando. Se supone que hay
+objetivos aquí
+de de de de problemas de causas,
+¿verdad?, del árbol. Pero aquí evaluar
+el estado de los mecanismos de respaldo.
+Aquí es lo que vamos a hacer ya más
+detallado.
+Analizar
+el grado de actualización de políticas.
+Aquí se expandió. Estamos hablando de
+políticas y estamos hallando de
+prevención y recuperación. Ahí metemos,
+ah, no, aquí está concientización,
+concientización
+del personal respecto a los principales
+prácticas asociadas con la prevención de
+ransum y con base a los hallazgos,
+lineamientos para fortalecer las
+capacidades. ¿Se dieron cuenta? De ese
+gran título salieron esos objetivos
+específicos.
+Alcance es hasta dónde, qué vamos a
+delimitar, ¿verdad? una institución
+pública pública eh es muy grande, van a
+lógota, es enorme. Mejor eh una una
+por ejemplo
+la SAT o tal vez una es que tendría que
+hacer la SAT porque la SAT están a
+centrales, ¿verdad? Tal vez sería NASAT,
+pero por ejemplo
+si una empresa tiene sucursales, pues
+hacerlo solo en una sucursal delimitar y
+y definirlo desde antes, porque si
+ustedes lo abarcan todos estamos
+jodidos. Entonces, eh
+ahí podemos hablar, si quieren
+departamentos o áreas de la institución
+en un marco más pequeño o temporal,
+porque pero siempre cercianse si hubo
+ataques, porque también muchas veces los
+alumnos me dicen, "Voy a investigar tal
+cosa, ataques en tal empresa." Y yo les
+pregunto, "¿Ya hubo ataques en tal
+empresa?" No, bueno, entonces busquen
+una donde sí y donde ya se puedan
+revisar los números de que ahí hubo
+ataques, porque si no no se va no vamos
+a tener un antes y un después. Entonces
+ahí también podemos excluir
+algunas eh servidores institucionales,
+pues o no centrarse y excluir
+dispositivos móviles o dispositivos o
+computadoras, ¿no? Incluso PCs o cosas.
+Eh,
+la forma de hacerlo es, bueno, aclarar
+de manera transparente, va, quedar eh
+dejando fuera expectativas poco
+realistas. Entonces ahí es eh tienen un
+pilar de por qué tienen que tener una
+percepción metodológica para esto.
+Entonces ahí forman ustedes las
+fronteras y evitan pues crisis o falta
+de rigor.
+Para el ejemplo de Ransonware, muestren
+ustedes su honestidad y indicar qué es
+lo que no se va a cubrir en el es un
+ejemplo.
+¿Estamos claros?
+Claro, in
+perfecto.
+Delimitación nuevamente. Temporal, ¿qué
+periodo? Espacial, dónde, poblacional,
+quiénes o qué sistemas, conceptual, qué
+dimensiones del fenómeno, porque solo
+estamos hablando de Ramsunger, no se van
+a poner a hablar de otra cosa.
+Población, los sistemas del área
+central, espacial, institucional. Bueno,
+eso es eh eh de sistemas, pues de
+sistemas y los sistemas del área
+espacial, eh del área central. Si y
+espacial, pues ahí el área central,
+¿verdad? ¿De qué periodo? 2026.
+El protocolo de del por qué
+justificación. ¿Por qué justificación?
+¿Por qué van a hacer eso? ¿Verdad?
+argumentar razones operativas
+estratégicas por las cuales se debe
+llevar a cabo la investigación, qué
+problema se pretende resolver y cuál
+será su impacto. Entonces, ¿para qué
+realizar esta investigación? Dice, "¿Y
+por qué es importante el estudio? ¿Qué
+valor aportará a la sociedad o al campo
+de estudio?" Entonces, ahí tienen
+ustedes
+la justificación.
+Entonces, para el ejemplo de seguridad
+informática, pues ahí es crucial, va,
+porque ahí nos da relevancia al al
+proyecto. Ahí no solo es un ejercicio
+académico, ustedes van a a hablar y a
+trabajar en beneficio de algo real,
+¿verdad? Entonces ahí eh van a
+justificar
+el por qué era necesario abordar ese
+problema. Si hubo ataques, pues mejor.
+Entonces, una justificación sólida pues
+convence a evaluadores, les van a dar el
+permiso, hay comunidades que les van a
+decir, "Pasen adelante." Entonces, eh
+y no solo aporta teoría, ¿verdad? Ahí
+van a a dar números
+de pérdidas financieras, información que
+se va a preservar, que no se va a a
+distribuir de manera ilegal, eh
+garantizar continuidad cooperativa y que
+la información no se pierda con eso de
+los respaldos. Entonces, eh
+ahí ustedes conectaron el proyecto
+académico con una realidad social y
+tecnológica.
+Creo que me doy a entender
+o no.
+Sí,
+bien. Digamos entonces.
+Justificación teórica,
+justificación metodológica,
+justificación práctica.
+teórica. Contribuir al hacer del
+conocimiento existente. Esto es
+academia,
+esto es novedad, innovación
+y esto es darle un uso práctico a lo que
+investigue. La forma en que evaluamos
+las vulnerabilidades puede ser una
+herramienta nueva, un nuevo enfoque que
+descubrieron.
+Y aquí pues cómo este protocolo o
+enfoque va a evitar pérdidas
+financieras, información
+en institución. Y en la teórica, pues
+qué vacío sobre el comportamiento
+de del Ramson y llena este estudio.
+Muchas de las investigaciones
+de los alumnos, por lo que yo veo en
+proyecto de investigación dos, que
+también lo doy, está aquí. Se enfocan
+solo en esto a nivel general. les
+importa, perdón, un esto
+y esto ni llegan.
+Entonces, se concentran solo en la
+academia, por favor, concéntrense en los
+tres.
+La viabilidad, ya hablamos un poco de
+esto. Primero, determinar si el alcance
+y la profundidad real podrán podrá dar
+el estudio. El alcance tiene que ser
+medible. Si es enorme, si es toda la
+empresa, no les va a alcanzar el tiempo
+ni 7 años para hacerlo y y va a perder
+el enfoque porque en 7 años ya pasaron
+muchas cosas. Va a ser ya una ya una
+investigación obsoleta. Analizar
+recursos disponibles, tiempo, exceso de
+información y herramientas y también de
+su cliente. Eh, la disponibilidad de
+recursos también es de su cliente. Mira,
+vamos a poder instalar un un agente ahí
+a tu empresa. Sí, claro, con gusto, pero
+tal día.
+otro no. ¿Qué equipos van a estar?
+Estos, estos y estos. No me va a
+afectar, ¿verdad? No va a dar un
+problema de de que me va a ralentizar
+las máquinas, ¿no? O tal vez sí.
+Entonces se corre de noche. Ah, va.
+Esos son recursos. Evitar planteamientos
+objetivos de gran interés científico,
+pero que están fuera de alcance de
+nuestro alcance operativo. También van a
+hacer una investigación.
+Esto es eh bueno, mi investigación se
+centra en que en 3 meses yo voy a curar
+el cáncer. Sí, cómo no. Claro, es de
+interés científico, pero está
+obviamente fuera del alcance. Entonces
+es un es traduciéndolo a nuestro idioma,
+en 3 meses yo voy a a
+tener una herramienta que va a detener
+todos los ataques de Ramsonw en el
+mundo. Sí, cómo no. Entonces, no, esto
+es fuera del de del alcance. V
+exagerando mucho, va, pero puede pasar.
+Lo que pasa es que a la hora de de
+definir su tema, muchos de ustedes en
+otras secciones han colocado temas que
+se salen completamente de la realidad o
+abarcan toda Guatemala. Dicen en todas
+las en las instituciones públicas de
+Guatemala. Sí, claro. Cuando tenga todas
+las escuelas, colegios, eh, y y fue a
+hacer entrevistas a todos ellos con todo
+gusto, ¿verdad? Y fue a poner sus sus
+¿Cómo se llama? su investigación y sus
+formularios
+de
+de ¿cómo se llama? Se me fue el nombre
+de
+Ay, ay, ay,
+¿cómo se llama? Cuando llena un
+formulario, uno formulario de de Google
+para que lo llene encuesta. Dios,
+hombre,
+tus encuestas si las va a ir a llenar a
+toda Guatemala, a cada escuela de
+Guatemala y a cada eh colegio del país,
+me cuenta cómo le va y cuántos años se
+lleva o décadas, sobre todo cuando vaya
+allá por Hegüe o en los interiores de
+Quiché. Entonces ahí me cuenta, ¿y cómo
+le hizo para llegar, ¿verdad?
+Y si no lo retuvieron ahí por eh
+Chiquisí, me cuenta porque a mí sí me
+retuvieron una vez por ir a un volcán.
+Entonces, eh bueno, esa es su
+investigación. O mejor la delimitan un
+poco y dicen, "En un par de escuelas de
+aquí de mi pueblo, va." Ah, bueno, ya es
+más factible, ¿va? Y específicamente
+para alumnos de cuarto bachillerato. Ah,
+ya se redujo un poco más, pero si usted
+va todas las escuelas, no comete ese
+error. Delimite bien su trabajo.
+Matriz de diagnóstico de viabilidad.
+Viabilidad operativa y rigor académico.
+Miren aquí. Operativa, cargar,
+laboratorios, todo lo que nos sirve para
+echar punta.
+recurso humano, capacidades,
+conocimientos del equipo, obviamente
+bases de datos, archivos, permisos,
+espacio físico adecuado. Tenemos todo
+esto. Ah, pero yo quiero y esto es
+importante porque también nosotros nos
+quedamos aquí. Esta parte, los trabajos
+que yo he visto, la ignoran
+completamente. Si yo les estoy pidiendo
+desde ya innovación es porque quiero
+innovación, algo ciertamente
+experimental, porque quiero cifras que
+vayan ustedes a hacer un experimento y
+que que les dé números reales y desde ya
+que vayan a investigar qué problemas hay
+para ver si se puede componer y lo
+pueden componer ustedes. Se los digo yo
+porque quiero resultados así, si no eh a
+lo mejor si se los firmo, si les firmo
+el proyecto, a lo mejor si ganan con 70
+y les digo, "Ah, bueno, sí va, una nota
+mínima y ni me si me ven ni me conocen,
+va porque su proyecto no me gustó.
+Entonces, eh yo no quiero un trabajo
+mediocre jugadas, quiero que haya
+innovación y desde ya deberían de estar
+empezando a buscar y a investigar
+problemas de ciberseguridad en alguna
+empresa, escuela, institución pública,
+su barrio, su colonia, la tienda de la
+esquina, todo donde haya problemas de
+ciberseguridad,
+necesito que empiecen a investigar y una
+innovación
+que y que le coloquen una innovación
+¿Cómo van a resolver ese problema? Algo
+que que a lo mejor sí hay, porque
+tampoco es una tesis doctoral, ahí se
+pide algo que no hay. Yo no les voy a
+pedir eso, pero sí
+que sea que ignore, que sí, que sí se
+vayan a trabajar, que sí vayan, que les
+den las gracias a ustedes cuando
+terminen ese proyecto. Eso sí.
+Y aquí en lo que les decía, viabilidad
+científica, preguntas significativas,
+selección rigurosa y y justificada,
+originalidad,
+marco teórico, fundamento en literatura
+existente. Pues sí, va.
+Esto es la parte de la academia que me
+interesa. Esto ya lo tienen en
+conocimientos del equipo, pues ustedes
+pueden innovar y ser ahí
+pues hacerse grandes.
+Ya terminamos. Estos son los cuatro
+elementos. Objetivos, alcance,
+justificación, viabilidad. ¿Alguna
+pregunta?
+Todo claro.
+Todo claro.
+Por mi parte.
+Okay.
+Dejo de presentar.
+Uy, ¿qué hice?
+¿Qué hice?
+Y ya está.
+Les voy a compartir su presentación
+y aquí tengo el protocolo.
+Está en otros documentos.
+Nueva estructura. Lo voy a colocar en
+enunciados
+porque este es proyecto final.
+Ahí los lineamientos y la estructura.
+Vamos a compartir.
+Y aquí está carátula o portada, publicar
+plataforma, rúbrica, carta de autoría,
+se recuerdan de eso. Cartas de
+compromisos, tabla de contenido,
+introducción, marco conceptual,
+título de la investigación.
+Situación actual, planteamiento del
+problema, formulación del problema,
+pregunta central sub preguntas de
+investigación, objetivos de
+investigación, objetivo general,
+específicos, alcance, límites.
+Ahí no viene algo, bueno, justificación,
+pero no viene algo de viabilidad. Si me
+quieren colocar algo dentro de los
+límites, pues está bien.
+Podría ser o hay un apartado extra. No,
+no, no viene mal. Análisis geográfico.
+País, departamento, municipio, urbana,
+rural, comunidad, zona, cuadra, sitio.
+No tienen que poner todos. Seleccione el
+que va de acuerdo a su investigación.
+Análisis demográfico, análisis
+económico, si lo necesita. Aquí está el
+estudio de viabilidad.
+Aquí está viabilidad.
+Pensé que no estaba, no me acordaba yo
+de eso. Eh, marco teórico, es una
+recopilación completa de todos los
+fundamentos teóricos. Es la casaca que
+van a encontrar ustedes en internet,
+pero bien redactado. Antecedentes del
+problema. Esto sí es de su
+investigación.
+Bases teóricas, definaciones,
+conceptualizaciones, todo lo relacionado
+con su variable independiente.
+Definición del términos, bases,
+conceptualizaciones, todo lo relacionado
+su variable dependiente. Hipótesis
+general,
+hipótesis específica, si las requiere,
+variables, definición conceptual de la
+variable, definición operativa de la
+variable, operacionalización. Eso lo
+vamos a ir viendo en las siguientes
+clases.
+Aquí
+va el marco metodológico,
+que es cómo lo van a hacer.
+El resultado de la Bueno, esto es la
+explicación. Mecanismos utilizados para
+el análisis de nuestra problemática de
+investigación. Por lo general se trata
+de resultado de aplicación sistemática
+lógica y fundamentos expuestos en el
+marco teórico. Es importante comprender
+y que la metodología de la investigación
+es progresiva. Por lo tanto, no es
+posible realizar el marco metodológico,
+sino fundamentaciones teóricas que van a
+justificar el estudio del tema elegido.
+Tipo de enfoque, investigación, diseño
+de investigación,
+descripción del ámbito de la
+investigación, población y muestra.
+Técnicas e instrumentos para la
+recolección de datos. Validez y
+confiabilidad del instrumento. Plan de
+recolección, procesamiento. Cronograma
+publicado en la plataforma y acuerdo
+según las tareas que realizarán.
+Referencias ser deben ser incluidas
+tanto en proyecto de investigación uno y
+dos. No olvidar las URL de sus fuentes
+anexus deben ser incluidas en proyecto
+investigación 1 y dos. deberán presentar
+los formatos que utilizarán en el inciso
+3.6.
+En proyecto de investigación uno no
+deben incluir conclusiones ni
+recomendaciones. Esto se hará hasta
+concluir la investigación para entregar
+en proyecto de investigación dos.
+Asimismo,
+en enero deberán enviar el proyecto al
+director para su visto bueno y
+posteriormente ello realizar la
+investigación de campo de acuerdo a su
+cronograma actual, la cual debe de estar
+lista antes del proyecto de iniciar
+proyecto de investigación dos, el la
+cual se imparte en el octavo trimestre.
+Importante,
+lo siguiente debe ser trabajo,
+eh según lo establecido en el
+cronograma. Esto que está aquí lo
+trabajan después de este curso, capítulo
+de resultados, de análisis y discusión
+de resultados, comprobación de
+hipótesis, conclusiones,
+recomendaciones, referencias, deben ir
+tanto eh en uno y en el dos, anexos
+deben ser incluidas en el uno y en el en
+el dos. Acá deberán presentar los
+formatos que utilizarán en el 3.6.
+La investigación prácticamente empieza
+aquí. Esto quizás sí lo pueden llenar.
+Algunas cosas tienen que definirlas
+desde ya, pero los resultados no los
+pueden definir porque esos los esos son
+es de después. Eso es después. Entonces,
+eh esto es un plan, esto sí, obviamente
+sí, un cronograma, sí, eh, esto sí.
+Okay. Entonces, por favor, eh, tipo de
+enfoque, ¿sí? descripción del ámbito,
+población y muestra. Desde ya lo tienen
+que empezar a definir, pero esto lo
+llenan después, en esos meses, conforme
+va pasando la investigación.
+¿Les parece?
+Okay.
+Y ahora lo que tanto les gusta, la
+tarea.
+Hacen si hambre, no lloren, por favor.
+Eh,
+¿dónde está la tarea?
+Acabo de abrir el documento.
+V. Pues no está
+hoy nada quiere servir.
+Me voy a salir y ahorita vengo.
+Eso de 10 puntos e
+lunes a medianoche. Hoy no es lunes en
+su momento yo de este curso lunes, así
+que
+eh y tarea dos, no es uno.
+Realizar un un resumen, identificar los
+temas clave, mínimo tres páginas,
+la tesis, los impactos de la tecnología
+y los factores humanos
+en los eh usuarios y las alarmas en los
+usuarios de smartphones. La evaluación
+consistirá en su en su forma de
+redactar, si es posible complementar su
+resumen con otro material de
+investigación, preferiblemente artículo
+o tesis.
+En la parte del anexo del documento,
+entregar en una o dos páginas, demostrar
+cuáles fueron las variables dependientes
+e independientes.
+Miren, eh esto no lo hablamos,
+eh, pero investíguenos de una vez, por
+favor, porque eso se supone que estaba
+en la semana uno, pero la presentación
+que me dieron no tenía variables
+dependientes e independientes.
+De todos modos, investiguen un poco de
+eso desde ya para que cuando lleguemos a
+ese tema eh ya lo tengan más claro.
+Por favor, ¿cuál fue el enfoque de esta
+investigación? ¿Cuáles fueron los
+objetivos? ¿Cuáles fueron las preguntas?
+¿Cuál es su justificación? ¿Cuál es su
+contexto ambiente? ¿Y cómo ingresaron al
+campo los investigadores?
+¿Les parece? Solo una les va a tocar que
+investigar. Tema que voy a dar después.
+El siguiente ustedes van a hacer su
+propia variable dependiente,
+independiente.
+¿Les parece? Va a ser grupal. No lloren.
+¿Parace o no? Está feo. Sencillo,
+hombre.
+Lo vamos a subir.
+Tarea dos.
+Ya formaron sus grupos, ¿va?
+Sí. Ya. In.
+Okay.
+Correcto.
+Quiero un buen trabajo. No olviden
+formar ese documento tiene que venir con
+el formato de los documentos que yo le
+subí. Creo que sí le sub un archivo así,
+¿verdad?
+Yo creo que sí.
+No,
+no está.
+No está. Les voy a subir un un formato
+igual para la tarea que me tienen que
+entregar. Que cumpla eso, por favor.
+Vaya, gracias.
+Ya la subió, presúbala y por favor
+incluya eso porque eso vale puntos.
+dijo que ahorita que incluyamos. ¿Qué
+cosa dijo?
+El documento que ahorita voy a subir.
+Cada tarea
+que yo pido tiene que tener este
+formato. Lo acabo de subir. Revisen
+formato los documentos.
+Eh, ingeniero, ya aparece en las
+plataformas. Excepto el protocolo. El
+protocolo no, ese no. Ese sí tiene su
+propio formato.
+Okay.
+Pero para tareas
+como esta sí.
+Suban uno grupal, no los voy a
+complicar.
+Gracias.
+He.
+Yo no veo que tengan su grupo
+y yo les di la oportunidad de
+autoasignación
+o no
+permitir autorregistro. Sí, asígnense a
+un grupo,
+si no no van a poder entregar eso y es
+para hoy. Qui no tiene grupo perdió.
+Es para hoy, jóvenes.
+Ahí forman sus grupos.
+Bien,
+conforme se van terminando
+se pueden retirar. Me avisan por el chat
+de aquí.
+Ya terminamos y se van.
+Yo aquí voy a estar. Apago mi cámara. Si
+tienen dudas, comentarios, me escriben
+ahí en el chat.
+¿De acuerdo?
+Muy
+La presentación es para la siguiente
+clase, el otro miércoles, porque tengo
+entendido que no se entrega hoy. Es para
+el, no me acuerdo qué fecha le puse,
+creo que nueve. Entonces, eh sería
+ilógico que expongan hoy si es para el
+9, no es para el siguiente miércoles,
+por favor, si es miércoles o lunes. Ho
+es miércoles, ¿verdad?
+Que ya no sea a veces.
+Sí, hoy es miércoles.
+Disculpe. En esa tarea se sube tanto el
+tema de investigación como la
+presentación. Son dos documentos.
+Sí, tienen que subir la presentación,
+eh, o un link, depende de de dónde va,
+¿verdad? Pero sí tienen que subir un un
+una presentación y un PDF y el video de
+el link del video, perdón,
+hace también el video, pero yo recuerdo,
+disculpen.
+Ajá.
+Eh, yo me recuerdo que el video usted
+dijo que lo íbamos a omitir.
+Yo les dije eso.
+Sí, sí,
+en serio. Bueno, si no pues omítanlo.
+Igual vamos a tienen que investigar y
+tienen que presentar en clase y no
+omítanlo porque sería doble trabajo.
+Mejor
+una presentación.
+Ah, okay. Muy bien. Gracias.
+Disculpe. Buenas noches.
+Cuéntem
+fíjese que yo tenía la misma la misma
+duda que René escribió en el chat.
+Solo uno.
+Okay. Es uno de los temas que está
+entonces en la lista de los seis,
+¿verdad?
+Okay. Gracias.
+¿Verdad?
+Sí, porfa.
+Unirse. Ya vemos cuatro.
+Listo.
+Veo un nombre bien sensual ahí, dice
+Sury, dice,
+no era
+no
+con razón yo pegar y esa vaina no
+pegaba.
+Estaba cargando.
+Ahí estamos. Ya compartí el Bueno,
+ahí está listo.
+Grandes soles.
+Podemos eliminar esta parte
+si gustas.
+Herber, buenas, buenas noches. Espérate
+que nosotros trabajamos. No sé cómo has
+trabajado vos, no sé.
+Él tampoco, dice,
+por lo que veo,
+pero eh Suru y y Anderson, revisen lo
+que les acabo de subir y pongámon los
+duchos porque lo que sí es que sí se
+mamó. montón de páginas y elige elige,
+digo, pocas páginas, va,
+máximo tres.
+El resumen lo podemos le podemos quitar
+varias chivas.
+Mira, aquí tiene aquí tiene introducción
+y planteamiento
+la metodología.
+Es que las no sé las siete preguntas.
+Ah, sí, las siete preguntas también va.
+Ajá.
+Ah, pero esas son en una o dos.
+Ajá. Una o dos y mínimo tres páginas de
+la tesis. Se máximo cinco.
+Cinco. Y esta hizo.
+Mir, podemos podemos eliminar la
+conclusión del resumen.
+Nos hizo 11 páginas. La madre.
+Pero no sé si está incluyendo también
+porque aquí dice introducción y
+planteamiento de problema.
+Pues si est ya implementándole el
+formato, van a ser más todavía.
+Sí,
+esa si quieren ayudémonos entre todos.
+Porque mira, la la parte de las
+preguntas, eso sí ya lo podríamos si
+quieren voy a voy a hacer que me resuma
+el
+eh, ¿cómo se llama esta cosa?
+Resumen del resumen.
+Ajá. Que me haga más pequeño el resumen
+y ustedes se encargan de las ¿Cómo se
+llama esta cosa? De las preguntas.
+Herber, ¿estás ahí?
+Entonces, Herber va a completar las
+preguntas,
+¿no? Herbert va a ser el lo que no nos
+gusta a nosotros, el formato APA.
+Dice, "¿Se lo pasaste a
+No es que
+no, o sea, pedirle el paro? Aquel tiene
+cloud y cloud te genera el documento con
+APA.
+Eso con tu cl
+ma la mera
+Solo porque chatito no me no me da eso.
+Fíjate
+no se lo he configurado.
+Ya viste, por eso hubieras pagado Cloud.
+No, pago chatito, me sirve más.
+No, porque no has usado close
+va quesito es porque no usado clampoco
+usado cloud,
+mano. La mera to. Mira, Jamier una vez
+se lo enseñé y hasta compró licencia.
+Me dijo que tenía licencia.
+Ya ven, ya
+de todo compra licencia.
+Tiene varas para gastar.
+No, que uno viendo en qué economiza,
+comiéndose
+lo que puede.
+Vamos, si no me lo paso ni le aplico yo
+las normas AP.
+Va, miremos porque si Pero también tiene
+que trabajar Herber de alguna manera.
+Sí, también
+ya dijimos, baby,
+no sé, eh, permitime. No sé qué quieres,
+eh, quieres echar punta, les ayudas aos
+a a verlo de las preguntas, que esté
+bien o no sé cómo has manejado, cómo has
+estado trabajando vos.
+Va, si quieren entre los tres mírenle
+las preguntas, revisen que que estén
+estén bien y porque eso sí se le puede
+preguntar a a Chatcito, el ingeniero
+Sobiut igual la ¿cómo se llama esta
+cosa? La
+la tesis que se llama H o no sé cómo se
+llama. Entonces ahí le pueden preguntar
+si están de acuerdo con las preguntas,
+eh, porque literal esa solo es de
+comparar y sacar la data
+correspondiente. Ahora lo otro sí,
+ahorita voy a ver cómo lo resuelvo y si
+gustan después ya hacemos una revisión
+de todo para que quede ahí.
+De wall es la T.
+Si querés, Suru, repartirte las
+preguntas con aquellos dos y así
+trabajan así no trabajan en la misma.
+Tiro las
+seguro que puedes porque la tarea se
+entrega hoy.
+Es que voy a probar porque te da chance
+hacerlo gratis, entonces voy a tirarle
+la pedrada
+dinero. Voy a puedo pasar.
+Entonces si querés suru con Herver,
+bueno, entre los tres hagan las
+preguntas, pero dejale,
+déjale pocas al al Saú y ustedes dos las
+demás.
+Espérate, espérate. Primero voy a probar
+porque para la hora de la hora no puedo.
+Ya valió madres.
+Suro, ¿sabes cómo compartir
+redes con iPhone?
+Feo ahí en compartir internet.
+Es que lo sé hacer con
+Ah, ya pude tú. Qué paja.
+Bueno,
+apruate pu cheve porque yo no tengo
+muchos datos. Yo soy pobre, no como
+Jamar que compra licencias por chingar.
+Ahí está.
+Che,
+¿cuándo te toca el examen de inglés?
+Vos enano,
+todavía no sé la otra semana se solicita
+esa vaina. Concentrarte en esto.
+¿Por qué te has vuelto tan amargado?
+Ahí

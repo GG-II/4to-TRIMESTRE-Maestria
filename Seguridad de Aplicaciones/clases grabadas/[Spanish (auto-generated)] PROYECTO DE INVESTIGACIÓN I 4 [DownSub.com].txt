@@ -1,0 +1,1399 @@
+Sí.
+Buenas noches jóvenes.
+Gusto en saludarles.
+Buenas noches inge.
+Buenas noches.
+No quieren encender la cámara.
+Voy a probar de nuevo.
+De nuevo no quiere funcionar.
+Problemas técnicos desde la mañana.
+No funciona, voy a voy a cerrar mi
+equipo mejor, no quiere cargar nada.
+Probar ahorita a ver si ya cargó.
+Ya está ¿verdad? Ya ya me veo.
+Sí inge.
+Sin que
+Ya
+Vamos a iniciar entonces
+El día de hoy
+Eh
+Un poquito por favor
+Bien
+Donde está la presentación
+Pues sí, un día complicado jóvenes, para
+todo el mundo, bueno, para mí sí lo fue
+Les tengo aquí su presentación número
+cinco
+Si no estoy mal
+Es la la
+Construcción del marco teórico, la vamos
+a ver de una vez y después me van a
+indicar qué es lo que llevan ustedes
+en su en el intento del proyecto, cuál
+es el el título que le dieron que era
+tarea para hoy
+construcción del marco teórico
+esto es lo de hoy
+bueno, aquí vamos a fundamentar en un
+diseño metodológico riguroso, dice,
+es la teoría lo que van a escribir, pero
+la teoría que va a fundamentar su
+trabajo, lo que va a respaldar que lo
+que están haciendo tenga toda la validez
+científica posible
+entonces eh y eso pues tiene que ser
+coherente, tiene que ir eh relacionado
+estructurado
+con la hipótesis y con los objetivos,
+entonces prácticamente ese es el el eh
+el marco teórico que van a construir,
+esto es lo que necesitamos dar con las
+bases teóricas con el marco teórico
+coherente e integrar la teoría con rigor
+y responsabilidad académica
+eh esto es el contenido de hoy, pero eso
+lo vamos a ir viendo ahorita
+dice conocimiento, primero marco
+teórico, conocimiento mínimo que se
+requiere para comprender un problema de
+investigación, es decir, la base teórica
+de referencia que permite comprender el
+problema y los principales aspectos
+que detallan toda su extensión
+entonces eh ahí estamos hablando del
+cimiento de la investigación, del
+proyecto,
+ahí podemos eh podemos decir que sin
+bases eh sólidas no podemos construir un
+edificio, ¿no? Entonces no se puede
+construir o dominar
+las teorías, los conceptos, las bases de
+la ciberseguridad
+sin su autoría propia, ¿verdad?
+Entonces, ahí vamos a
+a
+definir los conceptos básicos.
+Ahí, por ejemplo, si estamos hablando
+del ISO, hablamos de de los estándares,
+si es que su trabajo se va a estar
+relacionado con el ISO. Entonces, ahí
+hay que colocar los conceptos básicos de
+del ISO, ¿verdad?
+Eh
+al final
+lo que buscamos es asegurar que el
+lector comprenda
+el problema a grandes rasgos, ¿verdad?
+Después
+y después
+a detalles.
+Eso es lo que estamos buscando.
+Aquí vamos a detallar un poco más el
+marco teórico
+y todas las implicaciones.
+Prueba de la mano.
+El estado de conocimiento
+dice es un análisis análisis sistemático
+valorativo del conocimiento y de su
+producción, su estudio de un campo de
+investigación durante un periodo
+específico que permite identificar los
+los objetos de estudio, de sus
+referentes conceptuales principales
+eh principales perspectivas
+teórico-metodológicas, tendencias
+temáticas a lo dado el tipo de
+producción que era.
+¿Qué es esto?
+Estamos haciendo
+eh un
+balance
+eh
+un análisis crítico, más bien.
+Y ordenado.
+Entonces, no vamos a
+recopilar textos como locos.
+Hay que evaluar qué tan sólidos son esos
+esos textos, ¿verdad? Qué tan vigentes.
+Eh o qué tan sí, qué tan vigentes son,
+verdad, porque aquí vamos a hablar
+de
+un estado de conocimiento reciente,
+necesitamos que sea tiempo limitado.
+Por ejemplo, en su investigación
+reciente, a menos que los conceptos
+básicos
+eh algunos no hayan cambiado mucho, hay
+alguna que otra excepción, verdad,
+eh para
+colocar si van a hablar de criptografía
+pues pueden hablar un poco de historia,
+verdad.
+Pero si ya es su investigación propia,
+pues tiene que estar delimitada a 5 años
+mínimo o máximo para acá.
+Entonces eh
+el estado de conocimiento también nos
+nos nos dice o nos indica hacia dónde va
+la ciencia.
+¿Qué teorías se están utilizando?
+Entonces hablando de ciberseguridad
+eh hablando de los métodos eh
+predominantes actualmente de
+ciberseguridad, alguna que otra
+nueva práctica, más que todo ahorita es
+la IA la que está en la que está
+eh
+más predominante, verdad.
+Eh
+podemos hablar de brecha de
+conocimiento.
+Ahí pues eh
+se puede
+tratar de temas que aún no se han
+resuelto en los vamos a ver en un estado
+actual de conocimiento,
+podemos hablar de brechas que no se han
+resuelto
+o que se han investigado mal o no lo
+suficiente.
+Entonces ahí es de aprovechar
+para abrir una nueva investigación, pero
+se van a dar cuenta que ahorita ya todo
+está hecho, hay muchas cosas que
+que que no se han hecho, pero siempre
+hay más de algo que no se ha hecho.
+Sobre todo en Guatemala, aquí tenemos un
+árbol
+de objetivos.
+Cuando hablamos de
+estado de investigación
+Aquí no hablamos de cómo estamos
+actualmente, sino que aquí hablamos
+de
+quienes están investigando
+actualmente, qué empresas, qué
+universidades, qué empresas de
+ciberseguridad, qué laboratorios.
+Entonces, eh también cómo se están
+investigando. Ese es el estado de la
+actual
+investigación
+relacionada a lo que ustedes van a
+investigar, ¿verdad? No tiene que ser la
+misma.
+Y
+¿Cuál es el cómo le cómo le pueden
+llamar? ¿Cuál es la foto la foto actual?
+Un un screenshot actual de la situación
+de actual de lo que van a investigar.
+Ese es el estado de la investigación.
+Lo último que se tiene.
+Teoría, conjunto de enunciados
+interrelacionados que definen,
+relacionan con otros fenómenos de
+interés. Funciones de la teoría son la
+la descripción de los fenómenos de
+objeto de estudio. Prácticamente esto es
+eh
+teoría, ¿verdad? Ese son conceptos.
+Son modelos explicativos probatorios
+que
+que están eh
+funcionan algo, nos ayudan a entender
+cómo ocurren las cosas.
+No sé si me doy a entender, ¿verdad?
+Sirve pues también como un mapa para
+guiar a una investigación.
+Entonces, eh
+aquí lo vamos a desglosar
+en tres.
+Teoría descriptiva, teoría correlacional
+y teoría explicativa.
+La descriptiva, pues ahí es eh mencionar
+algo, clasificarlo y dar sus
+características, por ejemplo.
+Ex- eh corre- correla- correlati-
+correlacional, perdón.
+Ahí es eh
+cómo
+tenemos una relación
+en nuestras eh en nuestros diferentes eh
+temas de teoría descriptiva, por
+ejemplo.
+No sé
+las variables,
+cómo funcionan o cómo están relacionadas
+las variables de esa investigación. Se
+me ocurre, por ejemplo,
+mmm
+En descriptiva ustedes eh hablan del
+del phishing, por ejemplo,
+ingeniería social.
+En correlacional
+es la la capacitación y la frecuencia de
+la capacitación. Eso es más o menos lo
+que les quiero explicar.
+Explicativa,
+ahí ya vamos un poco más a detalle.
+Ahí están hablando
+de
+por qué los empleados cometen o omiten
+protocolos de seguridad y cometen
+errores,
+por ejemplo.
+Eso es una explicativa, porque estoy
+explicando
+lo que de manera correlacional estamos
+intentando investigar
+en un tema que ya explicamos,
+que ya se describió.
+Hoy me está costando encontrar las
+palabras, pero
+las encontraremos.
+Siguiente diapositiva.
+Si alguien tiene dudas, me me dice, por
+favor. Ahí me faltó un tema. Las teorías
+son desarrolladas a partir de
+experiencia personal, obviamente,
+intuición, conocimiento, teorías previas
+y algunas se requieren
+¿verdad? También espíritu crítico,
+capacidad de innovación, ¿verdad?
+También
+mucha imaginación también, ¿verdad?
+Así ahí
+vamos.
+Función del marco teórico y su relación
+con el problema. Guía epistemológica,
+sustento de hipótesis,
+interpretación de hallazgos.
+En guía epistemológica
+hablamos de no perder la brújula.
+Ustedes ya hablamos con ustedes del
+alcance, ¿no?
+No desviarnos e enfocarnos hacia dónde
+tenemos que llegar.
+El sustento de la hipótesis, pues, es
+nuestra base principal técnica
+de nuestra investigación.
+Ahí entregamos fundamentos,
+principios necesarios que justifican la
+investigación.
+¿Me doy a entender?
+Sí, inge.
+¿Se escucha bien mi micrófono?
+Sí, inge, se escucha bien.
+Okay.
+Sí, sí, se escucha bien.
+Interpretación de hallazgos.
+Sí, se escucha.
+Gracias.
+Interpretación de hallazgos es
+cómo fue lo que
+contrastando resultados, pues.
+Ahí sí que es de dice ahí el doctor,
+ofrece el marco conceptual para
+contrastar resultados empíricos con la
+literatura existente.
+Que es lo que es descubrimos, ¿verdad?
+Prácticamente nuestra conclusión.
+Pero la conclusión también tiene que ser
+lógica, pero
+también tiene algo de nosotros, ¿verdad?
+En la investigación y a eso concluimos.
+Lo justificamos.
+Relación entre el problema y la teoría.
+Aquí tenemos un problema técnico,
+incertidumbre, brecha de seguridad,
+vulnerabilidad que está
+en la infraestructura real, por ejemplo,
+aquí ataques de phishing exitosos.
+Pero aquí con nuestro marco teórico y la
+teoría, todo lo que hemos estado
+hablando,
+tenemos lentes analíticos, diseños
+modelados que explican las causas.
+Pero aquí nos menciona ya esto suele ser
+una noticia.
+Ataques de phishing exitosos, una
+noticia abordando una investigación.
+La noticia la da cualquiera, se robaron
+algo.
+Y ya, pero aquí ya le estamos metiendo
+eh
+teoría de cómo fue.
+Y ya está la investigación de por medio,
+aquí está la hipótesis,
+ya ya se puede investigar, se puede
+entrevistar, se pueden verificar los
+números.
+¿Cuánto trajo de pérdida? Bueno.
+Esto es lo importante, esto es solo un
+problema.
+La teoría de la investigación,
+constructos y variables,
+marco conceptual y definiciones.
+Aquí, por ejemplo,
+en teoría de investigación hablamos de
+epistemología científica, por ejemplo.
+Sistemas de proposiciones lógicas que
+explican, predicen y estructuran
+el fenómeno
+objeto de estudio.
+El alcance, prácticamente.
+Hacia dónde vamos, es nuestra guía.
+Eh
+un ejemplo que se me pueda dar aquí es
+un
+eh
+investigar un modelo en defensa en
+profundidad, por ejemplo, o cero trust.
+Entonces, la teoría, ¿verdad?
+Constructos y variables,
+eh aquí hablamos de las variables, ¿no?
+Nivel de vulnerabilidad,
+número de puertos abiertos, si hablamos
+de cero trust,
+relación, no sé, cualquier cosa,
+cualquier cosa relacionada con la
+investigación, pero son las variables,
+¿verdad? que vamos a medir o alguna
+percepción también, ¿no?
+Eh, de algún usuario con los ataques de
+phishing o cosas así. Marco conceptual y
+definiciones, pues esto es definirlo,
+¿verdad?
+Esto es el marco teórico, prácticamente.
+Esto es es diferente a la teoría de la
+investigación. El marco teórico no es
+precisamente lo mismo, entonces el
+alcance es nuestra investigación y esto
+es lo que está relacionado con todo.
+Bases teóricas, describir las teorías
+planteadas por los diferentes autores
+relacionadas con el tema de
+investigación, objetivos, variables,
+dimensiones e indicadores,
+contextualizar, relacionar la teoría con
+el objeto de estudio.
+Es una de las fases más importantes del
+trabajo de investigación, consiste en
+desarrollar la teoría que va a
+fundamentar el proyecto con base al
+planteamiento
+del problema que se ha realizado.
+Entonces aquí estamos hablando
+eh, en el primer paso,
+el primer número ahí que está ahí,
+eh,
+describimos teorías planteadas,
+describimos los autores, la
+investigación que se ha dado antes, por
+ejemplo,
+eh,
+investigar
+artículos,
+por ejemplo, de
+cómo funcionan los IDS, por ejemplo.
+Este es el tema uno, ¿verdad? de las
+teorías.
+Contextualizar
+significa relacionar esa teoría
+en un entorno propio, específico.
+Esto es describir.
+Esto es contextualizar.
+Y esto es justificar, es fundamentar.
+Lo que aquí no lo coloqué.
+Me dice, eso no está colocado aquí, pero
+aquí no coloqué la palabra.
+Ese fue un error.
+Ahí está.
+Describir, contextualizar y fundamentar.
+Perspectiva teórica, revisión de la
+literatura y construcción del marco.
+Que es el desarrollo de la perspectiva
+teórica, es un proceso y un producto. Un
+proceso de inmersión en el en el
+conocimiento y disponible y disponible
+que se puede estar vinculado con el
+planteamiento del problema. Un producto,
+un marco teórico que a su vez es parte
+del producto mayor, reporte de
+investigación. Aquí estamos hablando de
+dos.
+Proceso y el producto.
+Entonces, eh
+Por ejemplo,
+si yo estoy hablando de, yo que sé, yo
+otra vez de cero o tres en redes
+gubernamentales, por ejemplo.
+Entonces, eh el proceso
+es parte de ir a investigar
+la teoría.
+La teoría.
+Por ejemplo,
+los estándares
+en
+Ay, Dios, se me están se me están no me
+no tengo muchas ideas hoy.
+No se me están, déjenme pensar uno.
+Consultando datos académicos, pues los
+bases académicas.
+Por ejemplo, los copos, pues ahí, y o
+estándares en la industria misma.
+Ahí, ¿qué es lo que se ha escrito de
+esos modelos? Ese es nuestro proceso.
+El producto es lo que vamos a redactar
+de eso que encontramos, enfocado
+en la, en las redes gubernamentales, por
+ejemplo.
+No sé si me voy a entender.
+Proceso de inversión en la investigación
+teórica.
+El producto es nuestro marco teórico.
+Es lo que investigamos.
+[carraspeo]
+Ah, describir, describir el fenómeno,
+sus características, explicar significa
+incrementar el entendimiento de las
+causas y predecir
+ya con lo que tenemos,
+pues eh, predecir un fenómeno nuevo o
+con base a ese, pues, predecir eh una,
+entonces,
+describir consiste
+en identificar características,
+componentes y condiciones de una
+investigación o en una forma manifiesta
+de de algo que se investiga.
+Explicar,
+pues ya va más allá de
+incrementar el
+el entendimiento de las causas, ¿por qué
+sucede eso?
+Predecir,
+hablamos de
+anticipar.
+Bien, aquí les dejo esto
+que les va a servir para construir el
+marco teórico.
+Tema uno, variable uno, definición,
+teoría, subtema uno, subtema dos, tema
+dos, igual,
+variable dos,
+definición, teoría, subtema 1 y de tema
+2.
+[carraspeo]
+Hay diferentes estilos para redactar,
+¿verdad?
+Nosotros nos vamos a basar en
+el APA, es el que
+más eh
+pues nos interesa. Aquí me faltó uno que
+es
+IEEE,
+que este es más que todo para nuestra
+facultad, pero ahí porque vamos a
+utilizar alguna
+investigación de ahí,
+que su estándar pues
+lo utilizamos, ¿verdad?
+Eh
+ese Harvard, MLA y Vancouver pues son
+más que todo enfocados en la medicina
+o humanidades, por ejemplo, también
+ciencias, así más generales,
+pero nosotros nos vamos a estar basando
+en en APA.
+Mapa conceptual.
+Bueno, aquí tenemos un nuevo central,
+nuevos secundarios, conectores, aquí lo
+tenemos,
+pero
+yo me tomé el tiempo ahí de que viéramos
+este.
+Tenemos un mapa conceptual bastante
+completo, de hecho es un más que un
+mapa, es una matriz de consistencia
+visual, no es un mapa.
+Como tal lo que se tiene eh
+tiene el mapa, cada uno de estos es un
+mapa conceptual,
+pero tiene su y ahí se se van
+articulando
+su marco teórico, problema de
+investigación,
+la recopilación de datos, el diseño,
+los objetivos,
+cada uno tiene su su mapa conceptual.
+Eh
+sería interesante quizás lo dejen en una
+tarea,
+que me hagan
+un mapa conceptual
+por
+cómo van a ir integrando, bueno, si no
+un mapa conceptual, por lo menos
+por lo menos del del tema de hoy, que es
+el marco teórico.
+Ahí me va a interesar.
+Lo demás, pues no es eh, lo podemos
+dejar,
+pero por lo menos del marco teórico que
+me hagan un un mapa conceptual.
+No precisamente una matriz de
+consistencia visual,
+sino por lo menos un mapa conceptual.
+Componentes de la triangulación,
+hablamos de problema, marco teórico y
+objetivos.
+Aquí
+hablamos de
+qué falla, hablamos qué se necesita
+resolver, aquí de ejemplo lo que quiere
+esto con la vulnerabilidad de
+autenticación
+de IoT,
+Internet de las cosas.
+Aquí en los objetivos, qué se va a
+lograr, adónde se quiere llegar,
+establecer metas concretas para resolver
+dicho problema, evaluar e implementar un
+esquema esquema de autenticación.
+Y marco teórico, pues aquí me dice,
+aquí colocamos lo que hemos estado
+viendo, modelos, cero costos, protocolos
+de cifrado, estándares, todo lo que va
+relacionado con esto.
+Espero que me estén entendiendo,
+jóvenes.
+Aquí en estas últimas se va detallando
+todo lo que va en en relación a su
+investigación. Tenemos un problema,
+tenemos unos objetivos,
+pero el tema de hoy es que todo lo
+relacionado a este
+y a este va aquí en el marco teórico,
+los conceptos, teorías que respaldan y
+analizan. Hasta aquí quería llegar.
+Esto es lo que me interesa del tema de
+hoy, la parte central. Lo demás es
+que es eh
+eh
+Bueno, este es el mapa conceptual, de
+estructuras, estamos hablando de teoría,
+estado de investigación, todo eso, pero
+que también va relacionado, pues esto es
+como armar el marco teórico.
+Nuevamente el de triangulación, esto
+esto también me
+gusta también la que se ve acá.
+Tenemos un planteamiento del problema,
+sustento teórico requerido y un
+objetivo. Aquí está la
+triangulación, objetivo, problema y
+marco teórico.
+Aquí, problema, objetivo
+y marco teórico.
+Problema, alta frecuencia en brechas por
+ataques de ransomware en PIN.
+Marco teórico de los dos, NIST, teoría
+de micro
+segmentación.
+Y objetivo, diseñar un modelo de
+segmentación de los dos para mitigar
+riesgos.
+Vulnerabilidades no detectadas en en
+APIs de servicios bancarios.
+Sustento OWASP 10
+estándares de pruebas dinámicas,
+entonces eh
+pues eso y eso esto es
+eh
+pruebas
+de seguridad aplicaciones dinámicas,
+aparte están las que son estáticas,
+¿verdad? Aquí es una prueba de caja
+negra.
+Objetivo general alinear
+para vulnerabilidades no detectadas y el
+OWASP
+pues esto es evaluar por toda la
+seguridad de los APIs bancarios, las
+pruebas, hacer pruebas, ¿verdad?
+Entonces ese es el objetivo
+según la triangulación.
+Bueno, esto es más eh utilizar
+normativas
+pero divulgación responsable.
+Estos 30 ciberataques son muy
+importantes, el ACM
+no lo van a ver aquí, lo van a ver
+en
+Bueno, sí tiene, pero más que todo para
+el artículo de investigación, tiene ese
+formato así.
+Pero aquí no van a usar esa doble
+columna, entonces,
+de momento.
+Divulgación responsable, datos sensibles
+eh no se van a
+a colocar, a menos que tengan ustedes
+autorización de la empresa para la
+investigación y si lo que están
+mostrando sí se puede mostrar. De lo
+contrario, pues,
+no se utiliza información sensible que
+vaya a perjudicar.
+Nuevamente, el uso de normas APA, con su
+debida con su debida referencia.
+Postura crítica y adaptación, esto es no
+copiar teorías en forma pasiva, esto es
+no hacerse
+dueño de conceptos, esto pasa mucho
+también aquí en las investigaciones.
+Que
+pareciera que ustedes están inventando
+algo
+que ya está inventado.
+No, su debida referencia, todo esto va
+de la mano.
+Que van de la mano.
+Tienen que justificar, pero también
+tienen que
+eh
+ser eh
+hacer referencia a lo que no es de
+ustedes.
+Uso ético de la información
+nuevamente lo mismo, no documentarlo,
+información sensible y esto ya lo vimos.
+Qué rápido terminé, jóvenes.
+Eh ¿hay alguna duda, pregunta?
+Ahorita quiero que no sé cómo van con su
+proyecto, vamos a hablar grupo a grupo,
+si ya llevan el marco teórico, si ya
+empezaron a ver la investigación, cómo
+cómo van.
+¿Cómo van, jóvenes?
+Mejor vamos a a dar
+la oportunidad a que se presenten por
+grupo,
+me indiquen, yo creo que entregaron su
+el título del del proyecto en la última
+tarea, ¿verdad?
+Eh, sí, ingeniero.
+Correcto, inge.
+Okay.
+Vamos a ver qué entregaron.
+Vamos a ver qué entregaron.
+Aquí está cargando.
+Efecto de los controles de verificación
+al cliente
+sobre la diferencia entre el monto
+autorizado y el monto recibido en los
+desembolsos de crédito por mi empresa
+digital
+en una institución microfinanciera de
+Guatemala.
+Mmm.
+Que efecto de los controles de
+verificación.
+Controles de verificación.
+¿De qué tipo de controles?
+La persona de ese grupo me puede indicar
+qué tipo de controles.
+¿Sí?
+Verificación, pero de verificación de
+qué.
+Y no tuvo que explicar todo eso, es que
+algo está mal porque el título me tiene
+que explicar bastante. Me explica, pero
+quisiera saber qué tipo de verificación.
+Y eso de efecto
+No sé cómo lo podemos poner.
+Me parece, me parece aceptable, pero
+No sé
+Todavía.
+Tengo que evaluar, pero pero pero por lo
+menos está bien, está más o menos
+enfocado.
+Lo que quisiera ver cómo le podemos
+cambiar ahí.
+Efecto.
+Efecto de los controles de verificación.
+No, si ahí hay que colocar un poco más.
+Controles electrónicos.
+Es que eso es lo que quiero,
+póngase que alguien que no sea del área
+Viene a leer este artículo, no va a
+entender controles de qué está hablando.
+Los ahí, ahí tiene que ser un poco más
+específico.
+Quitar un poco esto sobre la diferencia
+entre el monto autorizado y el monto
+recibido y los desembolsos de crédito,
+acortarlo un poco más.
+En las transacciones
+para el cortarlo en las transacciones de
+de de préstamos o no sé,
+de desembolsos.
+Porque esto creo que está de más. ¿Me
+está tomando nota, verdad?
+Ahora, la palabra efecto, ¿cómo lo
+podemos cambiar?
+Déjenme ver algo.
+Déjenme chequear algo.
+Mmm. ser, pero
+Podría ser.
+Podría ser. La palabra efecto creo que
+está bien.
+Ustedes van a investigar algo, no se
+sabe, pero tiene que haber una hipótesis
+positiva o negativa. En el al decir
+efecto no sabemos qué es lo que van a
+probar.
+Y eso es lo que yo necesito saber, qué
+van a probar.
+Pero podría ser efecto o análisis.
+Podría ser.
+De momento redúzcalo como le dije
+y vamos a ver si le dejamos el efecto o
+no.
+Si pueden enfocarlo sería bueno.
+Poner ahí algo parcialmente en el
+título, algo de la hipótesis, qué es lo
+que quieren demostrar, ¿no? Porque
+efecto no me dice nada.
+Pero estas están bien. Vamos a a seguir
+con el siguiente.
+¿Estamos bien?
+Tomo nota.
+Bueno.
+Siguiente.
+Este no me puso el título.
+El grupo de Lidia Toros y Guillermo
+Melani,
+Samuel Bats,
+Carlos Dones
+y Anthony Efraín.
+¿Cuál es el título de su
+de su proyecto?
+¿Todavía no lo tienen?
+Eh, ¿qué tal, ingeniero? Buenas noches,
+¿me escucha?
+Le escucho.
+Eh, sí, ahí dentro del cuerpo del de la
+tarea está el título.
+Está dentro del contenido de la misma.
+¿Y dónde?
+[resoplido]
+Eh, váyase a la sección del contenido de
+la tarea.
+Ahí estoy.
+Eh, hay una parte que dice título.
+[resoplido]
+Ahí está.
+Incorporación de casos de análisis de
+casos de abuso basados en el proceso de
+aseguramiento de la calidad de su
+sistema de administración
+de vulnerabilidad de aplicaciones web.
+Así es.
+Si usted investiga eso dentro de 20 años
+debe ser como después.
+Primero,
+¿en dónde, verdad?
+Es que
+no hay límite.
+¿A quién le van a llevar a hacer esa
+investigación?
+Ah, sí, sí, esos son los cambios que
+estamos aplicando ahorita el limitando
+la la investigación.
+El tiempo también puede ser, si lo
+pueden colocar, si no si no es ahí el
+evento, pero por lo menos
+¿a quién?
+Ser un poco más específico, incorporar
+casos, incorporación de casos de abuso.
+¿Pero para qué?
+Ahí podría venir.
+Podrían
+colocar, no sé,
+una investigación
+propuesta para la
+implementación o para la que sería
+para la incorporación de casos de abuso
+basados en
+algo así.
+Podríamos iniciar así.
+Ah, de acuerdo, inge.
+O
+no sé, algo que me diga qué están
+haciendo, ¿no? Porque ahí solo dice
+incorporación de casos, pero ¿para qué?
+Algo que me diga
+desde desde ya qué es lo que van a
+hacer, o van a dar un poco general, pero
+que me diga hacia dónde.
+Podría ser propuesta o podría ser
+eh
+Básicamente es eh para la detección de
+las vulnerabilidades en aplicaciones web
+antes de su eh de su traslado a
+producción. Eh así como en el ciclo de
+desarrollo existe la etapa de pruebas QA
+eh y lo que se eh pretende es que en ese
+ciclo de pruebas se incorporen los casos
+de abuso.
+están haciendo. Ahí yo sé lo que están
+haciendo, pero hay que
+explicarlo un poquito más
+y que sea un poquito más eh
+entendible.
+Entendible.
+De acuerdo, inge, vamos a a modificar.
+dices es está interesante también.
+No está interesante, ¿no? Van casos de
+tal casos de abuso basados en
+tal y en tal, ¿no?
+Es válido.
+Pero ¿en dónde, a quién?
+Sería propuesta, una una especie de algo
+así tendría que ser propuesta, o,
+eh
+Algo así.
+De acuerdo, lo vamos a cambiar.
+Algo así,
+eh
+Continuamos con el siguiente grupo.
+El grupo de Christopher Orlando
+Sagastume
+Javier Alejandro, Freddy Orlando.
+¿Qué tal, ingeniero? Buenas noches.
+Buenas noches.
+Eh, bueno, nuestro tema de de
+investigación
+Es, eh, bueno, título como tal, la
+investigación de los permisos de accesos
+en los sistemas de gestión laboral
+cuando un colaborador cambia de puesto o
+deja de trabajar en la empresa como tal.
+¿En dónde está?
+El título.
+El título
+Eh, yo creo que en nuestra
+investigación, no estoy seguro, eh
+Bueno, está en el tema uno, eh ahí va,
+creo yo, el título.
+No
+No no tenga pena, nosotros se lo
+agregamos, que creo que se lo agregamos
+como
+El desarrollo.
+Agréguelo ahí en los en los comentarios.
+Okay.
+Si no lo vamos a poder eh identificar
+qué mejorar, ¿no?
+Eh
+Para mientras lo copian, vamos a ir al
+siguiente grupo.
+Grupo seis.
+Galindo Castro
+Mei Meilin Yesenia
+Meilin del Rosario Igrando.
+Eh, buenas noches, ingeniero.
+Bueno, nosotros agregamos el título del
+tema en la página siete, que es una
+propuesta de diseño de una herramienta
+basada en inteligencia artificial para
+la detección de correos electrónicos de
+phishing en una en pequeñas empresas de
+la ciudad de Guatemala.
+perdón, la propuesta de diseño de una
+herramienta basada en inteligencia
+artificial para la detección.
+En pequeñas empresas.
+Sería propuesta para la implementación
+de una herramienta
+basada en inteligencia artificial.
+Pero en pequeñas empresas
+mejor colóquenle una más específica.
+¿Van a tener cuatro o cinco
+pymes a a implementar eso o solo lo van
+a hacer en una?
+Porque si tienen varias, está bien.
+Eh, pues sí, lo íbamos a segmentar, pero
+primero queríamos saber si se podía
+hacer solo una empresa.
+Podría ser.
+Pero sí, correcto el caso de lo que me
+dijo, por favor.
+Sí, gracias.
+Igual
+eh vean una nueva versión y la vamos a
+seguir puliendo.
+Esta no es la versión definitiva.
+La voy a colocar como una tarea nueva.
+Eh los verbos anteriores del cinco ya lo
+escribieron.
+Eh sí, eh lo escribimos aquí
+bien.
+Ah, en el chat del grupo, ¿verdad?
+Investigación de los permisos, pero lo
+voy a escribir yo
+aquí
+en los comentarios de la tarea.
+Ah, okay.
+Usted es Christopher, usted es del grupo
+de Christopher.
+Sí, correcto.
+Investigación de los permisos, no es de
+investigación.
+No.
+De los permisos de acceso a un sistema
+de gestión laboral.
+Sistema de gestión laboral.
+Eh
+¿Qué es un sistema de gestión laboral?
+A lo que nos referimos con un sistema de
+gestión laboral, por ejemplo, eh que
+usualmente las empresas tienen su propio
+sistema, no es un sistema, por ejemplo
+Correcto.
+Ya, ya sé cuál es.
+No, hay que ponerlo.
+No, estas están definitivamente Primero
+agregar qué empresa, delimitar, colocar
+el alcance, ¿verdad? Porque
+qué tipo de empresa, cuál, específica o
+o similar, pues hasta donde se puede
+llegar, básicamente. Si no tiene el
+nombre, por lo menos el tipo de empresa,
+¿no?
+Okay.
+¿Qué es lo que quieren probar?
+Permisos de acceso.
+¿Qué quieren probar? Investigación de
+los permisos de acceso. ¿Van a
+investigar qué hacen los permisos de
+acceso?
+Cuando un colaborador cambia de puesto o
+deja de trabajar en la empresa.
+Sí, por ejemplo, la problemática o
+realmente tal vez el título no está bien
+propuesto, pero la problemática es eh
+por ejemplo, en un en una empresa de con
+sistema bancario,
+a veces hay muchas personas o muchos
+colaboradores que en casos cambian de
+puesto o los desvinculan,
+pero el usuario aún permanece activo.
+Entonces, ¿qué pasa con esas cosas? Eh
+realmente hay muchas personas que aún
+pueden entrar desde afuera o si les
+cambian el puesto porque aún siguen
+viendo información que ya no deberían de
+ver del puesto anterior. Eh esa es como
+tal nuestra propuesta.
+Mmm, está bien, pero no está bien, o
+sea,
+no es una no es un sistema de de
+recursos humanos.
+Okay, pertenece a recursos humanos.
+No.
+No.
+Sistema de gestión laboral.
+Es que nunca he visto yo uno de esos.
+Perdónenme, en los años que he estado en
+lugares de trabajo, he visto de recursos
+humanos,
+pero no gestión laboral.
+No, no entiendo qué es lo que necesitan
+probar, porque dice cuando no sé qué
+quieren probar, ¿verdad?
+Y ese es un problema.
+Yo no sé qué quieren probar.
+No sé qué quieren hacer.
+Ni demostrar.
+En el título debería de saberse eso.
+Okay. Bueno, entonces si no pues
+podríamos hacerle otra propuesta.
+No, está bien eso, o sea, está bien lo
+pero no sé qué quieren probar, pues.
+No sé si quieren probar.
+Eh, ingeniero, eh, yo también estoy en
+el grupo. En ese caso podríamos nosotros
+trabajar en, tal vez en reformular ahí
+la la pregunta, ¿verdad? Para que quede
+un poco más delimitado.
+Sí, es que necesito que se, primero que
+delimiten porque no existe ahí.
+Eh, qué es lo que van a hacer.
+No, no no sé qué es lo que, no tengo
+claro para qué están investigando eso.
+Déjenme entrar otra vez ahí al
+investigación de los, primero no sé, no
+se inicia así.
+Podemos utilizar.
+Eh.
+Siempre la palabra.
+Impacto, por ejemplo, estrategia.
+Análisis de la seguridad podría ser
+también.
+No sé si me doy a entender.
+Podría ser consideraciones, pero
+investigar no va.
+Investigar, investigación no va.
+Cambien eso para empezar.
+Eh, como les dije, puede ser propuesta,
+análisis.
+Puede ser, eh.
+Vulnerabilidades.
+la seguridad informática de tal empresa
+porque no tiene tal cosa o qué sé yo, en
+el sistema de gestión, algo así.
+Pero de momento no me no tengo claro
+qué es lo que quieren hacer, si luego
+que cambian de puesto o dejan de
+trabajar.
+Hay que redactarlo mejor.
+Por favor.
+Lo que quieren hacer está bien,
+pero no está bien eh
+enfocado de momento. Por lo menos no lo
+entiendo.
+Eh siguiente.
+Número siete, tomaron nota, ¿verdad?
+Sí, ingeniero. Gracias por sus
+comentarios.
+Siguiente, grupo siete.
+El título.
+¿Dónde está?
+Eh buenas noches, ingeniero. El título
+se encuentra en la página número tres,
+en línea dos.
+El resumen.
+La página tres.
+Mhm.
+Línea dos.
+Sí.
+Justificación.
+Ah, en el resumen.
+Eh sí, justo ahí.
+Relación entre el nivel de conocimiento
+sobre ataques de phishing en general con
+la inteligencia artificial de la
+capacidad para identificar mensajes
+fraudulentos
+en colaboradores administrativos
+de una empresa del sector industrial
+mhm
+2027.
+Tiempo de la investigación 2027
+Si están colocando este lado, eso no va
+en el título.
+Relación entre el nivel de conocimiento
+Relación entre el nivel de conocimiento
+Sobre el ataque de beneficios generados
+No cambies los también ahí
+No me no me convence
+Cámbialo también ahí
+Eh
+Podría ser
+Análisis
+Análisis es lo que se me ocurre para
+este título
+Ya después dicen hacia dónde va
+Pero
+Podría ser un estudio de tipo
+Eh no está tan malo, solo que usted
+tiene el daño ubicado en el
+Salvador
+Pero eso sí
+Eh sí estamos bien, ahí sí estamos bien,
+eso sí estamos bien
+Podría ser evaluación
+También antes de colocar relación entre
+el nivel de
+Aunque también puede ser que pues
+Pero como es un poco más general
+Puede ser análisis,
+es que este es está un poquito
+Eh, más específico, está un poco más más
+más formal.
+Quizás sí, cambiamos un poco la parte
+del inicio, está bien.
+De acuerdo, ingeniero, lo vamos a tomar
+en cuenta, gracias.
+Grupo 8.
+Ingeniero, buenas noches.
+Buenas noches.
+El nuestro título está en el documento
+en la página 5 del
+del índice.
+Dice título de investigación.
+No lo encuentro.
+Aquí está.
+Ah, okay.
+Controles básicos de la ciudad según no
+no no, tienen que investigar
+la ocurrencia de incidentes en las
+letrinas del casco urbano. ¿Van a ir a
+todas las letrinas del casco urbano de
+Izabal?
+De Morales.
+¿Solo de Morales?
+Eh, tendríamos pensado tomar una muestra
+de de todas las que hay en en el casco.
+Si solo van a ir a una, mejor cambien el
+enfoque.
+Okay.
+Eh, si es un tema grande,
+casco urbano, tienen que ir por lo menos
+a tres o cuatro.
+Okay, tení
+pues eso todavía lo estábamos evaluando
+a la cantidad
+Ocurrencia, pero ¿qué es lo que quieren
+probar?
+Lo que queremos probar es
+Cuáles son los controles realmente
+básicos que tiene que tener de una
+Mipyme
+Una mipyme para poder garantizar que no
+tengan o pues no garantizar del todo,
+sino que no tengan fuga de información
+debido a que
+En las empresas pequeñas
+A ese título le falta
+Para evitar la fuga de información
+O propuesta podría que si va algo así
+Análisis y propuesta de controles, por
+ejemplo
+Básicos de ciberseguridad
+Para el fortalecimiento
+Me ocurre
+Okay
+De la seguridad ahí le van inventando la
+casaca, pero ¿qué es lo que quieren
+demostrar ustedes, no?
+Sí, okay
+Pero solo así no
+Está bien
+Continuamos
+Grupo número uno ya ya pasó
+El grupo de Martínez Valery Estefanía
+Eh, no inge
+No hemos pasado
+¿Cuál es su título?
+Sí, el título está en la segun- en la
+segunda página
+Donde dice tema de investigación
+No, impacto, impacto, vamos a ver si
+impacto
+Me impacta
+Puede ser
+Puede ser, dentro framework de
+contención basado en los filtros.
+De contención, framework de contención
+de qué.
+Póngalo así.
+Un poquito más específico.
+Que tenga nombre mejor.
+Está bien.
+Basado en filtros semánticos sobre la
+tasa de éxito.
+De ataques de dos.
+En asistentes virtuales.
+De diálogo.
+En el sector retail de Guatemala. En
+todo el sector retail.
+Bueno, quizás no sería todo, sino que
+analizaríamos.
+Tal vez tres.
+Sea un poco más específica.
+Sí, sí, está bien.
+Impacto de un framework de contención
+basado en los filtros semánticos.
+Puedo ser un poco más específico aquí.
+Lo de abajo está casi bien, solo ser más
+específico aquí. Quitar el año.
+Eso no no va de momento.
+No en el título.
+Por favor, igual a todos los que
+colocaron año, no coloquen año.
+Eso va después en el donde están
+delimitando su investigación.
+Pero no en el título.
+Eh.
+Siguiente grupo.
+López, Brandon.
+Presente.
+Presente.
+Presente, ingeniero.
+Usted no ha pasado, ¿verdad? ¿Cuál es el
+título de su investigación?
+No dije nada pasado. El título es diseño
+y evaluación de un modelo automatizado
+de pruebas de seguridad y resiliencia en
+plataformas software as a service
+multiempresa
+de recursos humanos para la verificación
+de controles de acceso, elementos de
+datos y simulación de ataques de
+denegación de servicio
+en una empresa de la ciudad de Guatemala
+ubicada en zona 10
+empresa de qué
+en este caso es
+una asociación como tal
+que se dedica
+temas generalizados
+no le estoy pidiendo el nombre pero sí a
+qué se dedica
+[carraspeo]
+bueno en este caso se podría decir que
+es
+una empresa
+que está orientada al ámbito
+ay es que es
+de recursos humanos pero no sé en sí el
+una empresa
+una empresa de de
+cómo se le dice de capacitación laboral,
+capacitación laboral sino que
+de ubicar, cómo se le llama, de colocar
+de colocar
+muy bien
+algo así
+diseño y evaluación de un modelo
+automatizado de pruebas de seguridad y
+resiliencia en plataformas
+eso de un modelo automatizado
+especifique de qué se trata
+tal vez lo puede colocar en el título
+para que sea más eh
+llamativo
+ahí dice
+y lo de diseño y evaluación solo coloque
+evaluación
+evaluación para la implementación o algo
+así
+Muy bien, ingeniero.
+Señal de grupo.
+[carraspeo]
+Subo 22, anda con Lionel.
+¿Qué tal? Buenas noches, ingeniero.
+Nosotros ya pasamos, somos seis grupo
+con Herbert.
+Ah, cierto, aquí está. Perfecto, los
+conté ahora.
+Sí, correcto.
+Al final
+efecto
+podríamos eh
+colocar un poco diferente. Usted ahí me
+había quedado yo sin la palabra de
+efecto.
+Mejor coloquemos algo diferente.
+No también evaluación pues o también o
+o el
+no sé
+análisis de propuesta también o
+no sé.
+Si fase de evaluación o si están
+implementando algo, implementación o
+aplicación de tal cosa, no sé.
+Lo de efecto no lo he visto, aunque es
+válido, pero no no lo he visto.
+Entonces eh en las sesiones previas
+no me recuerdo.
+Aunque sí sí dice mucho valor, pero por
+lo menos si va a ser correctivo o
+martillo.
+Pero no está tan mal.
+Bueno, ya les dije que ya sus sus sus
+tips.
+Bueno, jóvenes,
+¿alguna duda, pregunta?
+Hoy les dejo otra tarea.
+Por favor, quiero que para la siguiente
+clase ya esté pulido esto.
+El título mejorado
+me lo van a dejar en una tarea nueva que
+les voy a dejar. Para el miércoles tiene
+que estar porque ya estamos en semana
+cinco.
+Ya deberíamos estar viendo objetivos, eh
+variables, todo eso.
+Ustedes ya deberían de estar armando su
+su protocolo con lo que tienen.
+Ahorita solo el título estamos viendo.
+Eh
+bien.
+La tarea que les voy a dejar es la
+siguiente.
+Desapareció mi tarea cuatro.
+¿Dónde está? Aquí está.
+Investigar una tesis
+o una investigación científica con su
+respectivo artículo publicado.
+Tema libre pero enfocado en tecnologías
+de la información, específicamente
+en seguridad informática.
+Leerlo,
+preparar su respectivo resumen, mínimo
+tres páginas.
+En el anexo colocar lo siguiente.
+¿Cuál es la hipótesis? ¿Logró
+demostrarla? Esto ya se los había
+dejado, ¿no?
+No recuerdo haberles dejado eso. No.
+No sé, yo creo que no.
+Yo creo que
+Okay. ¿Cuál es la hipótesis? ¿Logró
+demostrarla? ¿Los resultados están
+alineados a los objetivos? ¿Cuáles
+fueron las conclusiones?
+¿Existe una hipótesis nula o alternativa
+de la investigación?
+Quiero el link de los documentos
+investigados, fuente académica
+verificable
+como IEEE Xplore,
+ACM Digital Library, Scopus,
+Google Academics, Scholar.
+o un repositorio institucional de tesis,
+cualquiera que sea.
+No un blog.
+No quiero un artículo de divulgación
+general tampoco.
+Entonces, eso es lo que me van a hacer.
+¿Está claro?
+Sí, inge, todo bien.
+Para el miércoles se los dejo, no es
+algo que se que se les vaya a complicar.
+Posteriormente les dejaré
+eh vamos a ver si avanzamos un poco más
+en el proyecto.
+Ya veremos hasta dónde llegamos.
+Yo ya me voy, pues yo no tengo más que
+hacer aquí con ustedes. Si tienen dudas
+me comentan antes.
+Eh pero ya lo que teníamos que hablar ya
+lo hablamos. La presentación se los voy
+a compartir, la tarea igual. Y tienen
+chance para el miércoles.
+Cualquier duda comentan.
+Que tal.
+Muchas gracias.
+Les deseo buena
+buena noche, jóvenes.
+Gracias, inge.
+Gracias, inge.
+Gracias, inge. Vale, feliz noche, feliz
+semana.
+Noches, inge.
