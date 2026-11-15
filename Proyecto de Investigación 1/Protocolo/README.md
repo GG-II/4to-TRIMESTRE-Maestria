@@ -7,7 +7,7 @@
 | `Capitulo-I-…`, `Capitulo-II-…`, `Capitulo-III-…`, `Anexos-Instrumentos.docx` | Los mismos contenidos por separado (versiones de trabajo) |
 | `Carta-de-autoria-completada.docx` | Carta de autoría con los nombres del grupo; faltan carnés, nacionalidad, fecha y firmas |
 | `Carta-de-compromiso-…docx` (cuatro) | Cartas individuales prellenadas; faltan los carnés de tres integrantes y las firmas |
-| `Capitulos-I-II-pendientes-y-fuentes.md` | Lista de marcadores, supuestos, estado de cada fuente y pendientes |
+| `Notas-version-preliminar.md` | Qué se integró del documento de los compañeros, datos del cuñado, texto para Canvas y lista de marcadores |
 | `Mensaje-para-el-grupo.md` | Texto para explicar al grupo el cambio de enfoque y el reparto |
 
 ## Para cerrar el documento
