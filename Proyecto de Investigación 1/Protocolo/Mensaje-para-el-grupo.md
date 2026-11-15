@@ -9,7 +9,7 @@ Equipo, les resumo lo que descubrí al revisar las seis grabaciones del ingenier
 - No quiere que la variable independiente y la dependiente se midan con el mismo instrumento ("espurio"), ni "una encuestita".
 - Mira primero título, hipótesis, objetivos, variables e instrumentos. La forma viene después.
 
-**2. Qué cambia:** el enfoque descriptivo (revisión de registros, sin intervención) contradice eso. Propongo volver al enfoque con intervención: cuantitativo, explicativo, preexperimental de antes y después en cuatro agencias de la región occidente. Si la institución no permite implementar los controles, queda el diseño descriptivo como plan B.
+**2. Qué cambia:** el enfoque descriptivo (revisión de registros, sin intervención) contradice eso. Propongo el enfoque con intervención: cuantitativo, explicativo, preexperimental de antes y después en cuatro agencias de la región occidente.
 
 **3. Qué ya está hecho:** carátula, Introducción, Capítulos I a III, cronograma, referencias y anexos con los instrumentos, en un solo archivo (`Protocolo-completo.docx`, carpeta Protocolo de la rama). También las cartas de autoría y de compromiso prellenadas con nuestros nombres.
 
@@ -20,7 +20,7 @@ Equipo, les resumo lo que descubrí al revisar las seis grabaciones del ingenier
 - Gerbert: coordinar con la institución (autorización, acuerdo de confidencialidad, datos reales para reemplazar los marcadores) y las firmas.
 
 **5. Lo que necesitamos todos:**
-- Leer el protocolo completo y marcar lo que no entiendan o no compartan. Hay marcadores amarillos con datos por confirmar: no los reemplacen con datos inventados.
+- Leer el protocolo completo y marcar lo que no entiendan o no compartan. Ya no tiene marcadores pendientes, pero varios datos vienen de lo que dijo el contacto de la entidad de forma verbal y están sin confirmar por escrito: no los presenten como confirmados fuera del documento.
 - Cada quien firma su cronograma y su carta de compromiso. Sin eso, el trabajo no se acepta para revisión.
 - La guía exige transparencia en el uso de inteligencia artificial: hay que revisar todo, comprobar las fuentes y declarar el uso. Dejé un párrafo en la sección 3.7 para ajustarlo a lo que realmente hicimos.
 - Confidencialidad: nada de nombres de la institución, personas ni cifras sin permiso. No reenvíen las capturas ni el chat originales.
