@@ -3,12 +3,11 @@
 ## Archivos
 | Archivo | Qué es |
 |---|---|
-| `Protocolo-completo.docx` | Documento maestro: carátula, espacios para rúbrica y cartas, tabla de contenido, introducción, Capítulos I a III, cronograma, referencias y anexos A a J |
-| `Capitulo-I-…`, `Capitulo-II-…`, `Capitulo-III-…`, `Anexos-Instrumentos.docx` | Los mismos contenidos por separado (versiones de trabajo) |
+| `Protocolo-completo.docx` | Documento maestro (enfoque descriptivo, sobre la base de los compañeros): carátula, espacios para rúbrica y cartas, tabla de contenido, introducción, Capítulos I a III, cronograma, referencias y anexos A a F |
+| `Version-con-intervencion/` | Versión alternativa con diseño de antes y después y sus capítulos por separado |
 | `Carta-de-autoria-completada.docx` | Carta de autoría con los nombres del grupo; faltan carnés, nacionalidad, fecha y firmas |
 | `Carta-de-compromiso-…docx` (cuatro) | Cartas individuales prellenadas; faltan los carnés de tres integrantes y las firmas |
 | `Notas-version-preliminar.md` | Qué se integró del documento de los compañeros, datos del cuñado, texto para Canvas y lista de marcadores |
-| `Mensaje-para-el-grupo.md` | Texto para explicar al grupo el cambio de enfoque y el reparto |
 
 ## Para cerrar el documento
 1. Abrir `Protocolo-completo.docx` en Word y aceptar la actualización de campos (o clic derecho en la tabla de contenido y *Actualizar campo*).
